@@ -5,7 +5,7 @@ using UnityEngine;
 public class AnswerButton : MonoBehaviour
 {
     [SerializeField] private int AnswerNum;
-    [SerializeField] private GameObject nextQuestionButton;
+    [SerializeField] private GameObject QuestionUI;
     [SerializeField] private GameObject AnswerUI;
     // Start is called before the first frame update
     void Start()
@@ -22,6 +22,6 @@ public class AnswerButton : MonoBehaviour
     public void AnswerQuestion()
     {
         AnswerUI.SetActive(false);
-        nextQuestionButton.SetActive(true);
+        QuestionUI.SetActive(true);
     }
 }
