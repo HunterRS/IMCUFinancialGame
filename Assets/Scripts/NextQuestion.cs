@@ -30,4 +30,9 @@ public class NextQuestion : MonoBehaviour
         QuestionUI.SetActive(true);
 
     }
+    public void MovePlayer()
+    {
+        GameManager.movementAmount = -2;
+        GameManager.MovePlayer();
+    }
 }
