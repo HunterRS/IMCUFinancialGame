@@ -9,7 +9,6 @@ public class PlayerMovementPath : MonoBehaviour
     [SerializeField]
     private float moveSpeed = 1f;
 
-    [HideInInspector]
     public int waypointIndex = 0;
 
     public bool moveAllowed = false;
@@ -24,7 +23,14 @@ public class PlayerMovementPath : MonoBehaviour
     {
         if (moveAllowed)
         {
-            Move();
+            if (GameManager.reverse == true)
+            {
+                backwardsMove();
+            }
+            else
+            {
+                Move();
+            }
         }
     }
     private void Move()
@@ -36,6 +42,18 @@ public class PlayerMovementPath : MonoBehaviour
             if (transform.position == waypoints[waypointIndex].transform.position)
             {
                 waypointIndex += 1;
+            }
+        }
+    }
+    private void backwardsMove()
+    {
+        if (waypointIndex >= 0)
+        {
+            transform.position = Vector2.MoveTowards(transform.position, waypoints[waypointIndex].transform.position, moveSpeed * Time.deltaTime);
+
+            if (transform.position == waypoints[waypointIndex].transform.position)
+            {
+                waypointIndex -= 1;
             }
         }
     }

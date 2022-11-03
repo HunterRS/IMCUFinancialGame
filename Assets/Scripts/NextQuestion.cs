@@ -32,7 +32,13 @@ public class NextQuestion : MonoBehaviour
     }
     public void MovePlayer()
     {
-        GameManager.movementAmount = -2;
+        GameManager.movementAmount = 2;
+        GameManager.MovePlayer();
+    }
+    public void MovePlayerBackWards()
+    {
+        GameManager.movementAmount = 2;
+        GameManager.reverse = true;
         GameManager.MovePlayer();
     }
 }

@@ -7,8 +7,9 @@ public class GameManager : MonoBehaviour
     [SerializeField]
     private static GameObject player;
 
-    public static int playerStartWaypoint = 0;
+    public int playerStartWaypoint = 0;
     public static int movementAmount = 0;
+    public static bool reverse = false;
 
     // Start is called before the first frame update
     void Start()
@@ -19,10 +20,22 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-       if (player.GetComponent<PlayerMovementPath>().waypointIndex > playerStartWaypoint + movementAmount)
+       if (reverse == true)
         {
-            player.GetComponent<PlayerMovementPath>().moveAllowed = false;
-            playerStartWaypoint = player.GetComponent<PlayerMovementPath>().waypointIndex - 1;
+            if (player.GetComponent<PlayerMovementPath>().waypointIndex < playerStartWaypoint - movementAmount)
+            {
+                player.GetComponent<PlayerMovementPath>().moveAllowed = false;
+                playerStartWaypoint = player.GetComponent<PlayerMovementPath>().waypointIndex + 1;
+                reverse = false;
+            }
+        }
+        else
+        {
+            if (player.GetComponent<PlayerMovementPath>().waypointIndex > playerStartWaypoint + movementAmount)
+            {
+                player.GetComponent<PlayerMovementPath>().moveAllowed = false;
+                playerStartWaypoint = player.GetComponent<PlayerMovementPath>().waypointIndex - 1;
+            }
         }
     }
 
