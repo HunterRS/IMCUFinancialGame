@@ -137,9 +137,9 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.1254902, g: 0.25882354, b: 0.33333334, a: 1}
-    m_HighlightedColor: {r: 0.1254902, g: 0.25882354, b: 0.33333334, a: 0.78431374}
-    m_PressedColor: {r: 0.1254902, g: 0.25882354, b: 0.33333334, a: 0.47058824}
+    m_NormalColor: {r: 0.12156863, g: 0.25490198, b: 0.32941177, a: 1}
+    m_HighlightedColor: {r: 0.12156863, g: 0.25490198, b: 0.32941177, a: 0.78431374}
+    m_PressedColor: {r: 0.12156863, g: 0.25490198, b: 0.32941177, a: 0.47058824}
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
@@ -302,9 +302,9 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.1254902, g: 0.25882354, b: 0.33333334, a: 1}
-    m_HighlightedColor: {r: 0.1254902, g: 0.25882354, b: 0.33333334, a: 0.78431374}
-    m_PressedColor: {r: 0.1254902, g: 0.25882354, b: 0.33333334, a: 0.47058824}
+    m_NormalColor: {r: 0.12156863, g: 0.25490198, b: 0.32941177, a: 1}
+    m_HighlightedColor: {r: 0.12156863, g: 0.25490198, b: 0.32941177, a: 0.78431374}
+    m_PressedColor: {r: 0.12156863, g: 0.25490198, b: 0.32941177, a: 0.47058824}
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
@@ -1257,7 +1257,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Continue
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: db047ca4a8295e14bb49c08bf00dbbf7, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: b2bd9884731ea9246bd1676489a63e68, type: 2}
   m_sharedMaterial: {fileID: -1471862176218543605, guid: db047ca4a8295e14bb49c08bf00dbbf7, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -1265,7 +1265,7 @@ MonoBehaviour:
   m_fontColor32:
     serializedVersion: 2
     rgba: 4281479730
-  m_fontColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1321,7 +1321,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!1 &4850207212894912401
@@ -1995,15 +1995,15 @@ MonoBehaviour:
       m_Calls: []
   m_text: Continue
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: db047ca4a8295e14bb49c08bf00dbbf7, type: 2}
-  m_sharedMaterial: {fileID: -1471862176218543605, guid: db047ca4a8295e14bb49c08bf00dbbf7, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: b2bd9884731ea9246bd1676489a63e68, type: 2}
+  m_sharedMaterial: {fileID: -3965286304792622789, guid: b2bd9884731ea9246bd1676489a63e68, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4281479730
-  m_fontColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -2162,9 +2162,9 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.1254902, g: 0.25882354, b: 0.33333334, a: 1}
-    m_HighlightedColor: {r: 0.1254902, g: 0.25882354, b: 0.33333334, a: 0.78431374}
-    m_PressedColor: {r: 0.1254902, g: 0.25882354, b: 0.33333334, a: 0.47058824}
+    m_NormalColor: {r: 0.12156863, g: 0.25490198, b: 0.32941177, a: 1}
+    m_HighlightedColor: {r: 0.12156863, g: 0.25490198, b: 0.32941177, a: 0.78431374}
+    m_PressedColor: {r: 0.12156863, g: 0.25490198, b: 0.32941177, a: 0.47058824}
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
@@ -2373,7 +2373,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Continue
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: db047ca4a8295e14bb49c08bf00dbbf7, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: b2bd9884731ea9246bd1676489a63e68, type: 2}
   m_sharedMaterial: {fileID: -1471862176218543605, guid: db047ca4a8295e14bb49c08bf00dbbf7, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -2381,7 +2381,7 @@ MonoBehaviour:
   m_fontColor32:
     serializedVersion: 2
     rgba: 4281479730
-  m_fontColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -2437,7 +2437,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!1 &6628203750543483384
@@ -2587,6 +2587,7 @@ GameObject:
   - component: {fileID: 6628203750601010049}
   - component: {fileID: 6628203750601010050}
   - component: {fileID: 6628203750601010175}
+  - component: {fileID: 8029543530966735595}
   m_Layer: 5
   m_Name: 1st Choice
   m_TagString: Untagged
@@ -2673,9 +2674,9 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
-    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
-    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_NormalColor: {r: 0.12156863, g: 0.25490198, b: 0.32941177, a: 1}
+    m_HighlightedColor: {r: 0.12156863, g: 0.25490198, b: 0.32941177, a: 0.78431374}
+    m_PressedColor: {r: 0.12156863, g: 0.25490198, b: 0.32941177, a: 0.47058824}
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
@@ -2723,6 +2724,21 @@ MonoBehaviour:
   AnswerNum: 1
   QuestionUI: {fileID: 4641648879555602280}
   AnswerUI: {fileID: 8367018789736626827}
+--- !u!114 &8029543530966735595
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6628203750601010052}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0.7568628, g: 0.19215688, b: 0.23137257, a: 0.5882353}
+  m_EffectDistance: {x: 1.5, y: -1.5}
+  m_UseGraphicAlpha: 1
 --- !u!1 &6628203750608827408
 GameObject:
   m_ObjectHideFlags: 0
@@ -2736,6 +2752,7 @@ GameObject:
   - component: {fileID: 6628203750608827405}
   - component: {fileID: 6628203750608827406}
   - component: {fileID: 6628203750608827403}
+  - component: {fileID: 7258070302341128433}
   m_Layer: 5
   m_Name: 3rd Choice
   m_TagString: Untagged
@@ -2822,9 +2839,9 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
-    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
-    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_NormalColor: {r: 0.1254902, g: 0.25882354, b: 0.33333334, a: 1}
+    m_HighlightedColor: {r: 0.1254902, g: 0.25882354, b: 0.33333334, a: 0.78431374}
+    m_PressedColor: {r: 0.1254902, g: 0.25882354, b: 0.33333334, a: 0.47058824}
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
@@ -2872,6 +2889,21 @@ MonoBehaviour:
   AnswerNum: 3
   QuestionUI: {fileID: 0}
   AnswerUI: {fileID: 8367018789736626827}
+--- !u!114 &7258070302341128433
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6628203750608827408}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0.7568628, g: 0.19215688, b: 0.23137257, a: 0.5882353}
+  m_EffectDistance: {x: 1.5, y: -1.5}
+  m_UseGraphicAlpha: 1
 --- !u!1 &6628203750756261827
 GameObject:
   m_ObjectHideFlags: 0
@@ -2939,15 +2971,15 @@ MonoBehaviour:
       m_Calls: []
   m_text: Answer 2
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: db047ca4a8295e14bb49c08bf00dbbf7, type: 2}
-  m_sharedMaterial: {fileID: -1471862176218543605, guid: db047ca4a8295e14bb49c08bf00dbbf7, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: b2bd9884731ea9246bd1676489a63e68, type: 2}
+  m_sharedMaterial: {fileID: -3965286304792622789, guid: b2bd9884731ea9246bd1676489a63e68, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4281479730
-  m_fontColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -3003,7 +3035,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!1 &6628203751570039926
@@ -3073,15 +3105,15 @@ MonoBehaviour:
       m_Calls: []
   m_text: Answer 1
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: db047ca4a8295e14bb49c08bf00dbbf7, type: 2}
-  m_sharedMaterial: {fileID: -1471862176218543605, guid: db047ca4a8295e14bb49c08bf00dbbf7, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: b2bd9884731ea9246bd1676489a63e68, type: 2}
+  m_sharedMaterial: {fileID: -3965286304792622789, guid: b2bd9884731ea9246bd1676489a63e68, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4281479730
-  m_fontColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -3137,7 +3169,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!1 &6628203751898859493
@@ -3153,6 +3185,7 @@ GameObject:
   - component: {fileID: 6628203751898859490}
   - component: {fileID: 6628203751898859491}
   - component: {fileID: 6628203751898859488}
+  - component: {fileID: 1086535662060199450}
   m_Layer: 5
   m_Name: 2nd Choice
   m_TagString: Untagged
@@ -3239,9 +3272,9 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
-    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
-    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_NormalColor: {r: 0.12156863, g: 0.25490198, b: 0.32941177, a: 1}
+    m_HighlightedColor: {r: 0.12156863, g: 0.25490198, b: 0.32941177, a: 0.78431374}
+    m_PressedColor: {r: 0.12156863, g: 0.25490198, b: 0.32941177, a: 0.47058824}
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
@@ -3289,6 +3322,21 @@ MonoBehaviour:
   AnswerNum: 2
   QuestionUI: {fileID: 0}
   AnswerUI: {fileID: 8367018789736626827}
+--- !u!114 &1086535662060199450
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6628203751898859493}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0.7568628, g: 0.19215688, b: 0.23137257, a: 0.5882353}
+  m_EffectDistance: {x: 1.5, y: -1.5}
+  m_UseGraphicAlpha: 1
 --- !u!1 &6628203751902262130
 GameObject:
   m_ObjectHideFlags: 0
@@ -3356,15 +3404,15 @@ MonoBehaviour:
       m_Calls: []
   m_text: Answer 3
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: db047ca4a8295e14bb49c08bf00dbbf7, type: 2}
-  m_sharedMaterial: {fileID: -1471862176218543605, guid: db047ca4a8295e14bb49c08bf00dbbf7, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: b2bd9884731ea9246bd1676489a63e68, type: 2}
+  m_sharedMaterial: {fileID: -3965286304792622789, guid: b2bd9884731ea9246bd1676489a63e68, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4281479730
-  m_fontColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -3420,7 +3468,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!1 &6628203752083147070
