@@ -10,6 +10,10 @@ public class GameManager : MonoBehaviour
     public int playerStartWaypoint = 0;
     public static int movementAmount = 0;
     public static bool reverse = false;
+    public List<QuestionCard> easyQuestionList = new List<QuestionCard>();
+    public List<QuestionCard> mediumQuestionList = new List<QuestionCard>();
+    public List<QuestionCard> hardQuestionList = new List<QuestionCard>();
+    public List<QuestionCard> wrongQuestionList = new List<QuestionCard>();
 
     // Start is called before the first frame update
     void Start()
