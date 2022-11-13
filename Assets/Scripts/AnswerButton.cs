@@ -26,7 +26,7 @@ public class AnswerButton : MonoBehaviour
     }
     public void MovePlayer()
     {
-        GameManager.movementAmount = 2;
+        GameManager.movementAmount = 3;
         GameManager.MovePlayer();
     }
     public void MovePlayerBackWards()
