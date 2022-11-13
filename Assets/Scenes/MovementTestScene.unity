@@ -135,14 +135,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 455314269638838524, guid: 62abf483e45e0b34e9fa5e3eda63a4be, type: 3}
-      propertyPath: moveSpeed
-      value: 50
-      objectReference: {fileID: 0}
-    - target: {fileID: 455314269638838524, guid: 62abf483e45e0b34e9fa5e3eda63a4be, type: 3}
-      propertyPath: waypointIndex
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 938428781011044795, guid: 62abf483e45e0b34e9fa5e3eda63a4be, type: 3}
       propertyPath: SpaceNumber
       value: 1
@@ -174,10 +166,6 @@ PrefabInstance:
     - target: {fileID: 938428782511482932, guid: 62abf483e45e0b34e9fa5e3eda63a4be, type: 3}
       propertyPath: SpaceNumber
       value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 2862900436945606855, guid: 62abf483e45e0b34e9fa5e3eda63a4be, type: 3}
-      propertyPath: m_SortingOrder
-      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7338874152253973932, guid: 62abf483e45e0b34e9fa5e3eda63a4be, type: 3}
       propertyPath: m_LocalPosition.z

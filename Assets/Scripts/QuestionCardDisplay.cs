@@ -2,14 +2,14 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-
+using TMPro;
 public class QuestionCardDisplay : MonoBehaviour
 {
     public QuestionCard card;
 
 
     public Text titleText;
-    public Text questionText;
+    public TMPro.TextMeshPro questionText;
     public Text answer1Text;
     public Text answer2Text;
     public Text answer3Text;
