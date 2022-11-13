@@ -24,4 +24,15 @@ public class AnswerButton : MonoBehaviour
         AnswerUI.SetActive(false);
         QuestionUI.SetActive(true);
     }
+    public void MovePlayer()
+    {
+        GameManager.movementAmount = 2;
+        GameManager.MovePlayer();
+    }
+    public void MovePlayerBackWards()
+    {
+        GameManager.movementAmount = 2;
+        GameManager.reverse = true;
+        GameManager.MovePlayer();
+    }
 }
