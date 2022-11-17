@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50fe359fb2d4c564d95e83f3a8931c1a, type: 3}
+  m_Name: Question28
+  m_EditorClassIdentifier: 
+  title: Scenario
+  question: 'You are looking for better fees and lower interest rates. Do you choose
+    a bank or a credit union? '
+  questionfontsize: 0
+  answer1: Bank
+  answer2: Credit Union
+  answer3: 
+  answer1response: Credit unions are member-owned, and tend to have lower fees and
+    better interest rates on savings accounts or loans.
+  answer1fontsize: 0
+  answer1movement: -2
+  answer2response: Credit unions are member-owned, and tend to have lower fees and
+    better interest rates on savings accounts or loans.
+  answer2fontsize: 0
+  answer2movement: 2
+  answer3response: 
+  answer3fontsize: 0
+  answer3movement: 0

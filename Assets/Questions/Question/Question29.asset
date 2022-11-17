@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50fe359fb2d4c564d95e83f3a8931c1a, type: 3}
+  m_Name: Question29
+  m_EditorClassIdentifier: 
+  title: Scenario
+  question: 'You''re about to buy your first apartment near your college school.
+    You have a loan from the bank and now have a choice between 2 areas. The first
+    apartment is closer to the school and the costs are lower. However, the neighborhood
+    is a bit sketchy and is known to have continuous problems. The other apartment
+    is farther away from school and costs a bit more, but is in a safer neighborhood.
+    You could also wait to see if some other options open up. Which do you choose? '
+  questionfontsize: 0
+  answer1: Cheaper Neighborhood
+  answer2: Safer Neighborhood
+  answer3: Wait for a new option
+  answer1response: Things go well for a while at school, as gas costs are low each
+    week. However, when you come back to your house one day, you find out your house
+    has been broken into and many items were stolen! You now have to replace all
+    of those items.
+  answer1fontsize: 0
+  answer1movement: -2
+  answer2response: While gas costs are higher, you never wake up or return home to
+    find your car or home is broken into. The semester goes well, and you find the
+    purchase was worth the extra bit paid.
+  answer2fontsize: 0
+  answer2movement: 2
+  answer3response: "It\u2019s in a relatively safe neighborhood and is cheaper, but
+    the extra wait time forces you to have to take shelter in a nearby motel. A little
+    bit of extra cost for a better opportunity. "
+  answer3fontsize: 0
+  answer3movement: 1

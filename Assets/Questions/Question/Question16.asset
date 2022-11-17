@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50fe359fb2d4c564d95e83f3a8931c1a, type: 3}
+  m_Name: Question16
+  m_EditorClassIdentifier: 
+  title: Scenario
+  question: 'You want to keep your checking account secure. Do you use two-factor
+    authentication? '
+  questionfontsize: 0
+  answer1: Use two-factor authentication
+  answer2: Go without two-factor authentication
+  answer3: 
+  answer1response: 'Congrats! The additional protection helps protect your bank account
+    even if your username and password are compromised.  '
+  answer1fontsize: 0
+  answer1movement: 2
+  answer2response: 'Unfortunately, there was a breach and both your username and
+    password were compromised.  '
+  answer2fontsize: 0
+  answer2movement: -2
+  answer3response: 
+  answer3fontsize: 0
+  answer3movement: 0

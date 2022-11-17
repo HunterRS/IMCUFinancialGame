@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50fe359fb2d4c564d95e83f3a8931c1a, type: 3}
+  m_Name: Question13
+  m_EditorClassIdentifier: 
+  title: Scenario
+  question: 'You have $200 in cash and you want to transfer that money into your
+    checking account. You find an ATM conveniently nearby, but as you''re approaching
+    the machine, a person stops you. They say they''re associated with the bank that
+    the ATM belongs to and that they''re there to educate young people on how to
+    use an ATM. All you need to do is to give them your cash and they''ll walk you
+    step-by-step through how to use the machine. Do you give your cash to them and
+    let them teach you? '
+  questionfontsize: 0
+  answer1: Give them your cash
+  answer2: Don't give them you cash, but still ask for his/her help
+  answer3: 
+  answer1response: You gave them your cash and they immediately ran away faster than
+    you can run. You wonder why you thought it was a good idea to give a stranger
+    $200.
+  answer1fontsize: 0
+  answer1movement: -2
+  answer2response: "It\u2019s revealed that the person was an actual employee, he
+    even helps you make the direct deposit successfully. "
+  answer2fontsize: 0
+  answer2movement: 2
+  answer3response: 
+  answer3fontsize: 0
+  answer3movement: 0

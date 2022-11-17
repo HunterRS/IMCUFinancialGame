@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50fe359fb2d4c564d95e83f3a8931c1a, type: 3}
+  m_Name: Question14
+  m_EditorClassIdentifier: 
+  title: Scenario
+  question: 'You''re about to make a purchase, but you notice that your debit card
+    is missing! What do you do?  '
+  questionfontsize: 0
+  answer1: Change settings in Mobile Banking
+  answer2: Keep Looking
+  answer3: 
+  answer1response: You lost your debit card so you go into the IMCU mobile app, in
+    Card controls and shut off your debit card instantly. Now you have deactivated
+    your old card and called the branch to issue you a new one. Now whoever finds
+    your old card won't be able to use it, and the money in your checking account
+    is safe.
+  answer1fontsize: 0
+  answer1movement: 2
+  answer2response: 'You search and you search, but you still can''t find your card.
+    By the time you finally decide to call your bank, your checking account has been
+    compromised to fraudulent activity. '
+  answer2fontsize: 0
+  answer2movement: -2
+  answer3response: 
+  answer3fontsize: 0
+  answer3movement: 0

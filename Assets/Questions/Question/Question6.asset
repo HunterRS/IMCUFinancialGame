@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50fe359fb2d4c564d95e83f3a8931c1a, type: 3}
+  m_Name: Question6
+  m_EditorClassIdentifier: 
+  title: Scenario
+  question: "You finally got your first credit card. You start using your credit
+    card for everything. So much so, that you realize you\u2019ve gone over budget
+    and now are paying fines on that credit card. The bank has frozen the card and
+    you are not able to use it until you\u2019ve paid off the debt. But you want
+    to continue using a credit card. Do you hold off and pay the debt, open another
+    credit card, or try Refinancing the credit card? "
+  questionfontsize: 8
+  answer1: Pay the Debt
+  answer2: Open another Credit Card
+  answer3: Refinance with Jumpstart Card from IMCU
+  answer1response: "You decide it\u2019s best to hold off and pay the debt. Because
+    you did, you learned that going over budget with a credit card is dangerous.
+    You become more responsible with your credit card. "
+  answer1fontsize: 0
+  answer1movement: 1
+  answer2response: "You decide to open another credit card. As a result, you go over
+    budget with that card and are unable to pay it off and it\u2019s been frozen.
+    Rinse and repeat, until you are in huge credit card debt."
+  answer2fontsize: 0
+  answer2movement: -2
+  answer3response: 'You decide to try the Jumpstart credit card from IMCU, it has
+    a better rate for and lower payments, but also helps refinance your first card
+    making budgeting easier! '
+  answer3fontsize: 0
+  answer3movement: 2

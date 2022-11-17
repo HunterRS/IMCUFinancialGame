@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50fe359fb2d4c564d95e83f3a8931c1a, type: 3}
+  m_Name: Question7
+  m_EditorClassIdentifier: 
+  title: Scenario
+  question: "You are enrolling for a new semester in school and you realize you need
+    to buy textbooks for your upcoming classes. The class hasn\u2019t started yet.
+    Do you go to the campus bookstore and buy all your new books?"
+  questionfontsize: 10
+  answer1: Go to Campus bookstore
+  answer2: Don't go to Campus bookstore
+  answer3: 
+  answer1response: You decide you want to be prepared and buy all of your textbooks
+    next from the bookstore. Unfortunately, they cost you hundreds of dollars, and
+    you discover later there were more cost-effective alternatives.
+  answer1fontsize: 0
+  answer1movement: -2
+  answer2response: You check for second-hand books, check for free PDFs online, or
+    see if you can borrow them from a student who has previously taken the class.
+    You also check to make sure the textbooks are required or find a way to share
+    with a classmate. You save money on textbooks by not buying them all from the
+    campus bookstore right away.
+  answer2fontsize: 0
+  answer2movement: 2
+  answer3response: 
+  answer3fontsize: 0
+  answer3movement: 0

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50fe359fb2d4c564d95e83f3a8931c1a, type: 3}
+  m_Name: Question19
+  m_EditorClassIdentifier: 
+  title: True or False
+  question: 'You can use an ATM to directly deposit cash into your checking account. '
+  questionfontsize: 0
+  answer1: True
+  answer2: False
+  answer3: 
+  answer1response: ATMs (Automated Teller Machines) are one way of adding funds to
+    your checking account. Other ways include making cash or check deposits by visiting
+    a branch, mobile app check deposit, visiting an ITM, or you can transfer money
+    between your savings account and checking account through a mobile/online banking.
+  answer1fontsize: 0
+  answer1movement: 2
+  answer2response: ATMs (Automated Teller Machines) are one way of adding funds to
+    your checking account. Other ways include making cash or check deposits by visiting
+    a branch, mobile app check deposit, visiting an ITM, or you can transfer money
+    between your savings account and checking account through a mobile/online banking.
+  answer2fontsize: 0
+  answer2movement: -2
+  answer3response: 
+  answer3fontsize: 0
+  answer3movement: 0
