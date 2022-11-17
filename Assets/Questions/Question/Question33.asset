@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50fe359fb2d4c564d95e83f3a8931c1a, type: 3}
+  m_Name: Question33
+  m_EditorClassIdentifier: 
+  title: Scenario
+  question: You are interested in setting up a new account at IMCU. Do you set up
+    just the savings account, or both the checking account and savings account with
+    the funds you have available?
+  questionfontsize: 0
+  answer1: Just savings
+  answer2: Set up both
+  answer3: 
+  answer1response: So close! It's actually recommended to make both accounts.
+  answer1fontsize: 0
+  answer1movement: 1
+  answer2response: "Nice, now you would be allowed to take advantage of IMCU\u2019s
+    direct deposit bonus."
+  answer2fontsize: 0
+  answer2movement: 2
+  answer3response: 
+  answer3fontsize: 0
+  answer3movement: 0

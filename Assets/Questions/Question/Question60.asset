@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50fe359fb2d4c564d95e83f3a8931c1a, type: 3}
+  m_Name: Question60
+  m_EditorClassIdentifier: 
+  title: Scenario
+  question: 'You are about to set up a meeting in an office outside of your workplace,
+    based on confidential matters for the company. You research online about possible
+    spots to hold the meeting, and you find 3 options. The first is in a public library,
+    within a closed-door meeting room. It costs $85.60, for at least 4 hours of time,
+    with another $85.60 for every hour after. There is a concern though for the security
+    of the meeting. The second choice is a hotel, but it costs $70 per hour. More
+    expensive on the hour, but is more secure. The third option is a meeting room
+    in a rentable house. It is very secure and costs $400 for the entire day. But
+    the building requires you to supply your own tables, chairs, and necessities.
+    Which would you choose? '
+  questionfontsize: 0
+  answer1: Library
+  answer2: Hotel room
+  answer3: Building
+  answer1response: The meeting had to be extended by 2 hours inside, meaning your
+    total was $246.80. But was nonetheless much cheaper than the hotel. Unfortunately,
+    the info got leaked out during the meeting, and you find some very sensitive
+    info was found to have been stolen afterwords, and could very well be on the
+    market.
+  answer1fontsize: 0
+  answer1movement: -2
+  answer2response: You choose the hotel room, but it seems the meeting took 6 hours,
+    costing a total of $420. But things worked smoothly. No info got leaked, and
+    you find the extra cost outweighed the benefits of the first option.
+  answer2fontsize: 0
+  answer2movement: 2
+  answer3response: It costs $400 for the day, and you have to spend another $50 on
+    supplies needed for the meeting. A total of $450. It was more expensive than
+    both of the other options, but no info got leaked, and the meeting went successfully.
+  answer3fontsize: 0
+  answer3movement: 1

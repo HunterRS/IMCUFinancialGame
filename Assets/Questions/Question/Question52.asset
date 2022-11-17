@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50fe359fb2d4c564d95e83f3a8931c1a, type: 3}
+  m_Name: Question52
+  m_EditorClassIdentifier: 
+  title: Scenario
+  question: "You find yourself needing a new phone after you accidentally drop it
+    onto the floor. You need to make an affordable plan for when you buy it. You
+    have 3 options\u2026The first plan requires you to pay a bit extra for the full
+    procedure but includes everything you\u2019ll need for its use. It also has a
+    plan that covers when it is lost. The second plan has you pay off the phone with
+    individual small payments coming monthly. The plan also has a bit lower total
+    overall rate in the long run, with a repair plan along with it. The final plan
+    has you paying in full right there, with a small discount on a full replacement
+    if damaged. What do you choose?"
+  questionfontsize: 0
+  answer1: Full plan
+  answer2: Second Plan
+  answer3: Standard Plan
+  answer1response: "You pay for all the extra protection and continue. Things go
+    well for a few months, but then, your phone drops out of the window while driving.
+    You think you are covered for your lost phone, but as it turns out, the \u201Clost,\u201D
+    phone plan only covers theft. You\u2019ll have to buy another phone."
+  answer1fontsize: 0
+  answer1movement: -2
+  answer2response: While making payments monthly is a hassle, it has overall been
+    a very good choice to keep costs down. Not only that, but your screen broke one
+    day, and a 15% lowering cost cut the amount needed to repair the screen even
+    more for repairs. It turns out the cheapest plan is not always the worst one!
+  answer2fontsize: 0
+  answer2movement: 2
+  answer3response: The price is fairly straightforward, and you use it for a couple
+    of months. However, you clumsily drop your phone in the water. Thankfully there
+    was a plan for full replacement, but the discount is only 10%. While not worst,
+    one of the other plans might have been a better option
+  answer3fontsize: 0
+  answer3movement: 1

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50fe359fb2d4c564d95e83f3a8931c1a, type: 3}
+  m_Name: Question35
+  m_EditorClassIdentifier: 
+  title: Scenario
+  question: 'You just received $500 from a friend. He/she recommends using that money
+    to invest in some companies. You think of four companies, Disney, Netflix, Funimation,
+    and Epic Games, as your top choices. Though there is one problem, how much should
+    you invest in these companies? '
+  questionfontsize: 0
+  answer1: A quater of your money on each company
+  answer2: A half to two companies
+  answer3: Keep money to yourselve
+  answer1response: " Investing is a huge risk taker and you divided it up into a
+    quarter each. It\u2019s a good idea to do this as what if two companies start
+    to fall off? You still have two other companies that are growing and don\u2019t
+    need to worry about your money too much."
+  answer1fontsize: 0
+  answer1movement: 2
+  answer2response: "While investing is a risk taker this is still a solid idea, but
+    too much of a risk to take if you don\u2019t know the companies very well. A
+    possibility of both companies going down, but it might not."
+  answer2fontsize: 0
+  answer2movement: 1
+  answer3response: "Epic Games starts making A LOT of improvements with games, its
+    members, and more. If you had invested in this company your stocks would have
+    skyrocketed, but since you did not nothing was gained. It\u2019s okay to risk
+    some of your money to a company and should always be considered. "
+  answer3fontsize: 0
+  answer3movement: -2

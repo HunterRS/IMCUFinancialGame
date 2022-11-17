@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50fe359fb2d4c564d95e83f3a8931c1a, type: 3}
+  m_Name: Question63
+  m_EditorClassIdentifier: 
+  title: Scenario
+  question: 'You receive a call from an unknown number and ignore it. However, they
+    keep calling you every two minutes. You finally decide to answer the phone and
+    the caller states that your bank account has been compromised and all the money
+    is gone. You stay on the phone and get a computer to figure out what is happening.
+    They ask that you download a certain extension and log in to your account on
+    the computer. You log in and all of a sudden your screen goes black, but then
+    comes back on, and you see that your bank account has zero dollars. What would
+    you do? '
+  questionfontsize: 0
+  answer1: Stay on the phone with caller
+  answer2: Hang up and call your bank
+  answer3: Login to your account on your phone
+  answer1response: You follow the rules of what the caller does, but all of a sudden
+    you noticed you got scammed and accidentally sent them one thousand dollars.
+  answer1fontsize: 0
+  answer1movement: -2
+  answer2response: You call the bank and they state that nothing is wrong with your
+    account and you are good to go. Sadly, you did waste over an hour waiting for
+    confirmation from the bank.
+  answer2fontsize: 0
+  answer2movement: 1
+  answer3response: You notice none of the money is gone actually, and hang up the
+    phone realizing that it was a scam caller.
+  answer3fontsize: 0
+  answer3movement: 2

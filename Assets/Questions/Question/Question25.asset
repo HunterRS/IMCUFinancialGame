@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Question25
   m_EditorClassIdentifier: 
   title: True or False
-  question: ' a faster way to increase credit is to keep your balance under 30% of
+  question: 'A faster way to increase credit is to keep your balance under 30% of
     your total credit limit. A CREDIT LIMIT is the maximum amount of money a bank
     will allow you to borrow.  '
   questionfontsize: 0

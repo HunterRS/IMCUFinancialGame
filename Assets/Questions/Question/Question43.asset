@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50fe359fb2d4c564d95e83f3a8931c1a, type: 3}
+  m_Name: Question43
+  m_EditorClassIdentifier: 
+  title: Scenario
+  question: "You are at the grocery store purchasing food necessities. You realize
+    that you owe your friend $20 in cash for a favor that he/she did for you and
+    he/she needs it now. However, you don\u2019t have the cash right now and only
+    have a debit card. You know there\u2019s an ATM across the street and can make
+    that withdrawal, but it\u2019s usually packed every day. But you also could pay
+    him by mobile. What should you do? "
+  questionfontsize: 0
+  answer1: Use debit card and ask for cash back
+  answer2: Pay them on mobile
+  answer3: Go to ATM across street
+  answer1response: "When using a debit card you always can decline to get cash back,
+    but it\u2019s very easy to use and get the cash out right away. "
+  answer1fontsize: 0
+  answer1movement: 2
+  answer2response: Most mobile apps would charge you for making such a transaction,
+    especially if you want to make the transaction right away, as that would cost
+    you extra money because of the fees.
+  answer2fontsize: 0
+  answer2movement: -2
+  answer3response: 'While going to the ATM is a good choice for withdrawing, you
+    did waste more time than what was needed to get the $20. '
+  answer3fontsize: 0
+  answer3movement: 1

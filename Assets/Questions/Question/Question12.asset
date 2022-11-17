@@ -12,18 +12,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 50fe359fb2d4c564d95e83f3a8931c1a, type: 3}
   m_Name: Question12
   m_EditorClassIdentifier: 
-  title: 
-  question: 
+  title: Scenario
+  question: 'You''re shopping online for something important and specific that you
+    need. You find a website with a person that''s selling what you need at an unusually
+    low price. The item normally goes for $500, but this person is selling it for
+    $125! Do you buy the item from them? '
   questionfontsize: 0
-  answer1: 
-  answer2: 
+  answer1: Buy it
+  answer2: Don't buy it
   answer3: 
-  answer1response: 
+  answer1response: 'You bought the item, but the item never arrived! Looking at your
+    transaction history you noticed that the charger charged double the price. You
+    lost double the money in your checking account. '
   answer1fontsize: 0
-  answer1movement: 0
-  answer2response: 
+  answer1movement: -2
+  answer2response: 'You use your better judgment and decide to not buy the item.
+    If it sounds too good to be true, then it probably is. '
   answer2fontsize: 0
-  answer2movement: 0
+  answer2movement: 2
   answer3response: 
   answer3fontsize: 0
   answer3movement: 0

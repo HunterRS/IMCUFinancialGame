@@ -10,20 +10,22 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 50fe359fb2d4c564d95e83f3a8931c1a, type: 3}
-  m_Name: Question20
+  m_Name: Question64
   m_EditorClassIdentifier: 
   title: True or False
-  question: The IMCU mobile app is free to download and easy to use.
+  question: 'You can freeze both your debit card and credit card. '
   questionfontsize: 0
   answer1: True
   answer2: False
   answer3: 
-  answer1response: Yes it is on the app store, go download it!
+  answer1response: 'Most freezes can be done with your bank''s mobile app, always
+    use this when you lose either one of the cards.  '
   answer1fontsize: 0
-  answer1movement: 2
-  answer2response: Oops, IMCU does have an the smartstart app for free!
+  answer1movement: 0
+  answer2response: 'Most freezes can be done with your bank''s mobile app, always
+    use this when you lose either one of the cards.  '
   answer2fontsize: 0
-  answer2movement: -2
+  answer2movement: 0
   answer3response: 
   answer3fontsize: 0
   answer3movement: 0

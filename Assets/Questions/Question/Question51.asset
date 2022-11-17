@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50fe359fb2d4c564d95e83f3a8931c1a, type: 3}
+  m_Name: Question51
+  m_EditorClassIdentifier: 
+  title: Scenario
+  question: "You find yourself hired to do a freelance job, making a mascot for a
+    company. You try to come up with ideas, based on what the clients want, but find
+    yourself a little short on creativity. So\u2026 You decide to go to another consultant
+    to help generate the character. There are 2 consultants available. One is advertised
+    to have made many different designs and such and is best in class. His prices
+    are $21.25 per hour. The other is advertised as a character designer. He\u2019s
+    made several characters for different clientele, and his prices are $19.31. Who
+    should you choose?"
+  questionfontsize: 0
+  answer1: Go to Advanced designer
+  answer2: Go to Character designer
+  answer3: 
+  answer1response: "You go to the \u201Cadvanced,\u201D designer and have a meeting
+    with him to discuss the situation. However, it turns out that his main expertise
+    is designing logos and such. He\u2019ll help you out but decides to charge a
+    slightly higher rate for his services. You have to take the deal at this point."
+  answer1fontsize: 0
+  answer1movement: 1
+  answer2response: You go to the character designer, and you and he quickly formulate
+    and generate a great idea for the mascot for the business. You thank him for
+    his services and are charged the standard fare.
+  answer2fontsize: 0
+  answer2movement: 2
+  answer3response: 
+  answer3fontsize: 0
+  answer3movement: 0

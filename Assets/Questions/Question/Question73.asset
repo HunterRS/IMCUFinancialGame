@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50fe359fb2d4c564d95e83f3a8931c1a, type: 3}
+  m_Name: Question73
+  m_EditorClassIdentifier: 
+  title: Scenario
+  question: "You shouldn\u2019t be mindful of how you spend your money. Your decisions
+    on how you spend are your own choice."
+  questionfontsize: 0
+  answer1: True
+  answer2: False
+  answer3: 
+  answer1response: "Always keep in mind what you have in your checking and savings
+    accounts. Too much spending with your checking, and you\u2019ll have to pay extra
+    to the bank for transferring money out of your savings account. And spending
+    your money haphazardly could really hurt you when you have a VERY legitimate
+    reason to use it."
+  answer1fontsize: 0
+  answer1movement: -2
+  answer2response: "Always keep in mind what you have in your checking and savings
+    accounts. Too much spending with your checking, and you\u2019ll have to pay extra
+    to the bank for transferring money out of your savings account. And spending
+    your money haphazardly could really hurt you when you have a VERY legitimate
+    reason to use it."
+  answer2fontsize: 0
+  answer2movement: 2
+  answer3response: 
+  answer3fontsize: 0
+  answer3movement: 0

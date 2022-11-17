@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50fe359fb2d4c564d95e83f3a8931c1a, type: 3}
+  m_Name: Question44
+  m_EditorClassIdentifier: 
+  title: Scenario
+  question: 'When paying for a purchase using your debit card you are given two options
+    to pay with credit or with debit. Which option pulls money out of your account
+    immediately? '
+  questionfontsize: 0
+  answer1: Credit
+  answer2: Debit
+  answer3: 
+  answer1response: ' Credit-type payment will pull the total purchase amount out
+    of your account at a later time typically 1-3 business days. '
+  answer1fontsize: 0
+  answer1movement: -2
+  answer2response: 'Transactions will be debited in real time and shows you what
+    your exact balance would be. Allowing you to better control your spending habits. '
+  answer2fontsize: 0
+  answer2movement: 2
+  answer3response: 
+  answer3fontsize: 0
+  answer3movement: 0

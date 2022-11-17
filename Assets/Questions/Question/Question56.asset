@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50fe359fb2d4c564d95e83f3a8931c1a, type: 3}
+  m_Name: Question56
+  m_EditorClassIdentifier: 
+  title: Scenario
+  question: "Your grandparents gave you a $50.00 check for your birthday. The next
+    day, you take the check and head to the nearest Credit Union and go up to their
+    ATM machine. You put the check into the ATM and push the go to save account.
+    The next day you get a call from your bank and the check didn\u2019t go through.
+    What might be one reason it didn\u2019t go through? "
+  questionfontsize: 0
+  answer1: Your own signature on the back of the check?
+  answer2: Grandparents don't have $50?
+  answer3: Bank doesn't have $50
+  answer1response: Banks don't accept checks that don't have signitures on the back.
+    UsuaYes, you do need to sign the back of the check to get the money.
+  answer1fontsize: 0
+  answer1movement: 2
+  answer2response: Unlikely, but possible. Most of the time though, it might be something
+    with the check.
+  answer2fontsize: 0
+  answer2movement: -2
+  answer3response: Unlikely, but possible. Most of the time though, it might be something
+    with the check.
+  answer3fontsize: 0
+  answer3movement: -2

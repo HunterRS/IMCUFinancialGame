@@ -10,23 +10,24 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 50fe359fb2d4c564d95e83f3a8931c1a, type: 3}
-  m_Name: Question21
+  m_Name: Question53
   m_EditorClassIdentifier: 
   title: True or False
-  question: The IMCU mobile app allows you to link bank accounts you have with other
-    banks
+  question: Do you need a Will?
   questionfontsize: 0
   answer1: True
   answer2: False
   answer3: 
-  answer1response: 'MCU mobile app allows Financial Institution to Financial Institution
-    transfers. (FI to FI) by adding an external account in the Mobile app you are
-    able to transfer funds across accounts. '
+  answer1response: "Getting a Will isn\u2019t fun, but it helps you with becoming
+    a responsible adult. Not signing a Will will forfeit the money that you have
+    earned over to the government to decide what happens with your assets instead
+    of you. "
   answer1fontsize: 0
   answer1movement: 2
-  answer2response: 'MCU mobile app allows Financial Institution to Financial Institution
-    transfers. (FI to FI) by adding an external account in the Mobile app you are
-    able to transfer funds across accounts. '
+  answer2response: "Getting a Will isn\u2019t fun, but it helps you with becoming
+    a responsible adult. Not signing a Will will forfeit the money that you have
+    earned over to the government to decide what happens with your assets instead
+    of you. "
   answer2fontsize: 0
   answer2movement: -2
   answer3response: 

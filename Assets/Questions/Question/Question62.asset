@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50fe359fb2d4c564d95e83f3a8931c1a, type: 3}
+  m_Name: Question62
+  m_EditorClassIdentifier: 
+  title: Scenario
+  question: "You and your friend are out shopping for your other friend\u2019s birthday
+    gift. You want to get a new board game that your other friend will like. You
+    find that it\u2019s twenty-five dollars from the store. However, your friend
+    just so happens to find the same board game online and it was only twenty dollars,
+    but it will arrive three days later after the birthday party. What would you
+    do?  "
+  questionfontsize: 0
+  answer1: Go to Customer Service to match the price.
+  answer2: Get the game now for twenty-five dollars
+  answer3: Order board game online.
+  answer1response: "Most stores actually do match a price, but not always. It\u2019s
+    worth asking the store."
+  answer1fontsize: 0
+  answer1movement: 1
+  answer2response: You just got ripped off! You spent way too much more money than
+    you should have.
+  answer2fontsize: 0
+  answer2movement: -2
+  answer3response: The safest option, even if the board game arrives later, is to
+    give the game to your friend, or tell him you got it at the party.
+  answer3fontsize: 0
+  answer3movement: 2

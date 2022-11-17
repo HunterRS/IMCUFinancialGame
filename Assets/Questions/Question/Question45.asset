@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50fe359fb2d4c564d95e83f3a8931c1a, type: 3}
+  m_Name: Question45
+  m_EditorClassIdentifier: 
+  title: Scenario
+  question: 'There are five insurances that you may need. Life, Auto, Health, Disability,
+    and what else? '
+  questionfontsize: 0
+  answer1: Homeowners or Renters
+  answer2: Recreational Vehicle
+  answer3: Marine
+  answer1response: 'Your house may be damaged from internal or external causes. It
+    helps provide a safety net to protect your property and belongings. '
+  answer1fontsize: 0
+  answer1movement: 2
+  answer2response: "Like auto insurance this covers your motorcycle, boat or RV\u2019s. "
+  answer2fontsize: 0
+  answer2movement: 1
+  answer3response: 'This usually only applies to people that are in or have a family
+    member in the military. '
+  answer3fontsize: 0
+  answer3movement: -2
