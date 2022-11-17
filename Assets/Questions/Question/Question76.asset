@@ -15,7 +15,7 @@ MonoBehaviour:
   title: True or False
   question: "It\u2019s always difficult to make financial decisions when there are
     so many factors going into a situation."
-  questionfontsize: 0
+  questionfontsize: 15
   answer1: True
   answer2: False
   answer3: 

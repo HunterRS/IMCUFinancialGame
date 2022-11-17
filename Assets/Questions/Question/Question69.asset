@@ -18,7 +18,7 @@ MonoBehaviour:
     plumber has a significantly lower price of $70 per hour but has a rating of 3
     on the business charts. The second plumber is at a higher rate of $120 per hour
     but has a 4.5-star rating. Which should you choose? '
-  questionfontsize: 0
+  questionfontsize: 9
   answer1: Cheap Plumbler
   answer2: Expensive Plumber
   answer3: 

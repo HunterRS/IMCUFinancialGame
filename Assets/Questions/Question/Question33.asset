@@ -16,7 +16,7 @@ MonoBehaviour:
   question: You are interested in setting up a new account at IMCU. Do you set up
     just the savings account, or both the checking account and savings account with
     the funds you have available?
-  questionfontsize: 0
+  questionfontsize: 12
   answer1: Just savings
   answer2: Set up both
   answer3: 

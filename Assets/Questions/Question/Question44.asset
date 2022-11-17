@@ -16,7 +16,7 @@ MonoBehaviour:
   question: 'When paying for a purchase using your debit card you are given two options
     to pay with credit or with debit. Which option pulls money out of your account
     immediately? '
-  questionfontsize: 0
+  questionfontsize: 12
   answer1: Credit
   answer2: Debit
   answer3: 

@@ -23,7 +23,7 @@ MonoBehaviour:
     in a rentable house. It is very secure and costs $400 for the entire day. But
     the building requires you to supply your own tables, chairs, and necessities.
     Which would you choose? '
-  questionfontsize: 0
+  questionfontsize: 6
   answer1: Library
   answer2: Hotel room
   answer3: Building

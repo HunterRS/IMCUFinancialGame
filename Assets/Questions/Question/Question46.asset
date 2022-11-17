@@ -15,7 +15,7 @@ MonoBehaviour:
   title: True or False
   question: If you sign up for IMCU and become a member you get benefits. Go to the
     Indianapolis Zoo, film festivals, and so much more!
-  questionfontsize: 0
+  questionfontsize: 14
   answer1: True
   answer2: False
   answer3: 

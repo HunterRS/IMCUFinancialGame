@@ -17,7 +17,7 @@ MonoBehaviour:
     a loan, Capital is some of your own money to put towards setting up, Collateral
     provides another value source for the loan, Conditions do you meet the financial
     requirements for the loan, and what else? "
-  questionfontsize: 0
+  questionfontsize: 10
   answer1: Charm
   answer2: Carrying
   answer3: Character

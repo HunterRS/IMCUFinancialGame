@@ -15,7 +15,7 @@ MonoBehaviour:
   title: True or False
   question: It's better to keep all of your money in your checking account to stay
     organized.
-  questionfontsize: 0
+  questionfontsize: 15
   answer1: True
   answer2: False
   answer3: 

@@ -18,7 +18,7 @@ MonoBehaviour:
     ATM machine. You put the check into the ATM and push the go to save account.
     The next day you get a call from your bank and the check didn\u2019t go through.
     What might be one reason it didn\u2019t go through? "
-  questionfontsize: 0
+  questionfontsize: 8.5
   answer1: Your own signature on the back of the check?
   answer2: Grandparents don't have $50?
   answer3: Bank doesn't have $50

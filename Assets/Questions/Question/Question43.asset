@@ -19,7 +19,7 @@ MonoBehaviour:
     have a debit card. You know there\u2019s an ATM across the street and can make
     that withdrawal, but it\u2019s usually packed every day. But you also could pay
     him by mobile. What should you do? "
-  questionfontsize: 0
+  questionfontsize: 8
   answer1: Use debit card and ask for cash back
   answer2: Pay them on mobile
   answer3: Go to ATM across street

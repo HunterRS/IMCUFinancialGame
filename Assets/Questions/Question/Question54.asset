@@ -16,7 +16,7 @@ MonoBehaviour:
   question: "You go to the pharmacy and get a prescription that is needed. The prescription
     isn\u2019t paid from your insurance nor prescribed to you. How would you pay
     for it?  "
-  questionfontsize: 0
+  questionfontsize: 12
   answer1: Use credit/debit cards
   answer2: Use an HSA card
   answer3: Don't pay for them.

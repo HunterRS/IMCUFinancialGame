@@ -16,7 +16,7 @@ MonoBehaviour:
   question: You had a job that brought in weekly income that allowed you to put money
     in savings. Due to COVID-19, you lose your job and your income, what are your
     next steps?
-  questionfontsize: 0
+  questionfontsize: 12
   answer1: Get another job
   answer2: Use money out of savings accout
   answer3: Put bills on credit card

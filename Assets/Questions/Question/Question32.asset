@@ -15,7 +15,7 @@ MonoBehaviour:
   title: Scenario
   question: 'You get a new job with a company that has a 401k investment program.
     Do you take advantage of the opportunity? '
-  questionfontsize: 0
+  questionfontsize: 14
   answer1: Signup
   answer2: Don't Signup
   answer3: 

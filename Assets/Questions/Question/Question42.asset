@@ -17,7 +17,7 @@ MonoBehaviour:
     require you to fill out a retirement plan and leave it up to you to decide. The
     choices are a 401k and a simple IRA plan. While both are valuable retirement
     plans to choose from, there is a difference between the two. What is that difference?  "
-  questionfontsize: 0
+  questionfontsize: 9
   answer1: 401k is emplyer-maintaned retirement, while Simple IRA is individually
   answer2: 410k is maintained by individual, while Simple IRA is employer-maintained
   answer3: 

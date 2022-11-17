@@ -21,7 +21,7 @@ MonoBehaviour:
     are $21.25 per hour. The other is advertised as a character designer. He\u2019s
     made several characters for different clientele, and his prices are $19.31. Who
     should you choose?"
-  questionfontsize: 0
+  questionfontsize: 7
   answer1: Go to Advanced designer
   answer2: Go to Character designer
   answer3: 

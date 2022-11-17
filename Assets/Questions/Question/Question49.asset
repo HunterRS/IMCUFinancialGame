@@ -16,7 +16,7 @@ MonoBehaviour:
   question: 'You want to get a new car but you don''t have the ability to pay for
     it in cash. You go to your favorite dealership and pick a nice used vehicle,
     which is around $20,000. How would you go about financing the car? '
-  questionfontsize: 0
+  questionfontsize: 11
   answer1: Through dealership
   answer2: Online or IMCU branch
   answer3: 

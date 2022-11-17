@@ -15,7 +15,7 @@ MonoBehaviour:
   title: Scenario
   question: 'There are five insurances that you may need. Life, Auto, Health, Disability,
     and what else? '
-  questionfontsize: 0
+  questionfontsize: 15
   answer1: Homeowners or Renters
   answer2: Recreational Vehicle
   answer3: Marine

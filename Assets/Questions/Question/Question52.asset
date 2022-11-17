@@ -22,7 +22,7 @@ MonoBehaviour:
     overall rate in the long run, with a repair plan along with it. The final plan
     has you paying in full right there, with a small discount on a full replacement
     if damaged. What do you choose?"
-  questionfontsize: 0
+  questionfontsize: 6.5
   answer1: Full plan
   answer2: Second Plan
   answer3: Standard Plan

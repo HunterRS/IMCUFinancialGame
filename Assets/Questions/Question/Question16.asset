@@ -15,7 +15,7 @@ MonoBehaviour:
   title: Scenario
   question: 'You want to keep your checking account secure. Do you use two-factor
     authentication? '
-  questionfontsize: 0
+  questionfontsize: 15
   answer1: Use two-factor authentication
   answer2: Go without two-factor authentication
   answer3: 

@@ -19,7 +19,7 @@ MonoBehaviour:
     it costs $195 and it\u2019s one size smaller than your usual size. The final
     business suit is full black. Its materials are VERY strong and are made to last
     quite a long time! But it costs $225. Which would you choose? "
-  questionfontsize: 0
+  questionfontsize: 8
   answer1: Blue suit
   answer2: Black and Grey suit
   answer3: Most expensive suit

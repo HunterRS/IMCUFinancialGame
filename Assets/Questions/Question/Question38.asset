@@ -15,7 +15,7 @@ MonoBehaviour:
   title: Scenario
   question: 'Let''s say that you are currently in debt from school. Should you avoid
     using your credit card? Or keep using it? '
-  questionfontsize: 0
+  questionfontsize: 15
   answer1: Avoid using it
   answer2: Keep using it
   answer3: 

@@ -19,7 +19,7 @@ MonoBehaviour:
     is a bit sketchy and is known to have continuous problems. The other apartment
     is farther away from school and costs a bit more, but is in a safer neighborhood.
     You could also wait to see if some other options open up. Which do you choose? '
-  questionfontsize: 0
+  questionfontsize: 7.5
   answer1: Cheaper Neighborhood
   answer2: Safer Neighborhood
   answer3: Wait for a new option

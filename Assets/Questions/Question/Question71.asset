@@ -18,7 +18,7 @@ MonoBehaviour:
     and buying a new one for $300. The second is to buy a clean used one for $269.99.
     The third option is to buy it from a friend from work and they offer $220 for
     the console. What would you choose?
-  questionfontsize: 0
+  questionfontsize: 8
   answer1: Buy new console
   answer2: Buy clean used one
   answer3: Rely on Friend

@@ -19,7 +19,7 @@ MonoBehaviour:
     just so happens to find the same board game online and it was only twenty dollars,
     but it will arrive three days later after the birthday party. What would you
     do?  "
-  questionfontsize: 0
+  questionfontsize: 8
   answer1: Go to Customer Service to match the price.
   answer2: Get the game now for twenty-five dollars
   answer3: Order board game online.

@@ -16,7 +16,7 @@ MonoBehaviour:
   question: 'At IMCU you set up a checking account and a savings account, great!
     But consider adding another account or an emergency fund. How much should you
     put into your emergency fund?  '
-  questionfontsize: 0
+  questionfontsize: 11
   answer1: $1000
   answer2: $500
   answer3: Nothing

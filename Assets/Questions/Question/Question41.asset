@@ -15,7 +15,7 @@ MonoBehaviour:
   title: True or False
   question: To calculate Net Income you need to determine your Total Revenue and
     subtract it from the Total Expenses.
-  questionfontsize: 0
+  questionfontsize: 15
   answer1: True
   answer2: False
   answer3: 

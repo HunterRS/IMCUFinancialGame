@@ -16,7 +16,7 @@ MonoBehaviour:
   question: "Budgeting is important, that\u2019s why you should save a certain amount
     each paycheck using the 50/30/20 rule. ___% should go into essentials, ___% should
     go into nonessentials, and ___% should go into future goals."
-  questionfontsize: 0
+  questionfontsize: 10.5
   answer1: 50, 30, 20
   answer2: 20, 30, 50
   answer3: 

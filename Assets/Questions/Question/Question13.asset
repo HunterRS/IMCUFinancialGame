@@ -20,7 +20,7 @@ MonoBehaviour:
     use an ATM. All you need to do is to give them your cash and they''ll walk you
     step-by-step through how to use the machine. Do you give your cash to them and
     let them teach you? '
-  questionfontsize: 0
+  questionfontsize: 7.5
   answer1: Give them your cash
   answer2: Don't give them you cash, but still ask for his/her help
   answer3: 

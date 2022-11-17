@@ -17,7 +17,7 @@ MonoBehaviour:
     spent $120 on food, $120 on shopping, you also paid your monthly expenses that
     being $160 in taxes, a $250 car loan, $80 of insurance, and finally $50 of your
     credit card that is owed. What is your net income? "
-  questionfontsize: 0
+  questionfontsize: 9.5
   answer1: $1470
   answer2: $1530
   answer3: 

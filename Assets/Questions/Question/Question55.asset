@@ -17,7 +17,7 @@ MonoBehaviour:
     your friends, family, and others online, but you need to pay an online subscription
     for Mox called,  Cobalt, to play with others. There are three plans, which would
     you choose? '
-  questionfontsize: 0
+  questionfontsize: 10
   answer1: Pay $9.99/ month for Cobalt?
   answer2: Find digital codes online
   answer3: 

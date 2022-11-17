@@ -16,7 +16,7 @@ MonoBehaviour:
   question: "You are interested in scholarships, but you aren\u2019t sure if you
     are eligible. What steps do you take next: do you decide to research scholarships
     or wait and see? "
-  questionfontsize: 0
+  questionfontsize: 12
   answer1: Research
   answer2: Only Apply to Ones I like
   answer3: 

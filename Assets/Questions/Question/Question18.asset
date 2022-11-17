@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   title: True or False
   question: You want to use your debit card to pay directly from your savings account.
-  questionfontsize: 0
+  questionfontsize: 15
   answer1: True
   answer2: False
   answer3: 

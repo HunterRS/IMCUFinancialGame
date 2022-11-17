@@ -16,7 +16,7 @@ MonoBehaviour:
   question: 'There''s an item you want to buy, but you''re $50 short. A shady person
     comes from out of the shadows and offers you the $50 you need, so long as you
     pay him back later. Do you accept the deal? '
-  questionfontsize: 0
+  questionfontsize: 11
   answer1: Accept
   answer2: Deny
   answer3: 

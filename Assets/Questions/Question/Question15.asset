@@ -17,7 +17,7 @@ MonoBehaviour:
     are worried about ATM fees. You want to choose a bank that will have fewer ATM
     fees, but you aren\u2019t sure whether you should choose Bank-A which is on campus
     or Bank-B which is farther away but closer to your hometown."
-  questionfontsize: 0
+  questionfontsize: 9
   answer1: Closer bank
   answer2: Furthest Bank
   answer3: 

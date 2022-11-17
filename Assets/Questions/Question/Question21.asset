@@ -15,7 +15,7 @@ MonoBehaviour:
   title: True or False
   question: The IMCU mobile app allows you to link bank accounts you have with other
     banks
-  questionfontsize: 0
+  questionfontsize: 15
   answer1: True
   answer2: False
   answer3: 

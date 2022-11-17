@@ -18,7 +18,7 @@ MonoBehaviour:
     $300. The tickets are 25% off for a single purchase and it\u2019ll have front
     row seats! The other option is to wait and hope a ticket is available at the
     store. This only costs $60. What would you choose?"
-  questionfontsize: 0
+  questionfontsize: 9
   answer1: IMCU's online service
   answer2: Buy ticket at event
   answer3: 

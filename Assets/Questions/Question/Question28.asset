@@ -15,7 +15,7 @@ MonoBehaviour:
   title: Scenario
   question: 'You are looking for better fees and lower interest rates. Do you choose
     a bank or a credit union? '
-  questionfontsize: 0
+  questionfontsize: 15
   answer1: Bank
   answer2: Credit Union
   answer3: 

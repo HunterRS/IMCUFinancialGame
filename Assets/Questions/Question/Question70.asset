@@ -19,7 +19,7 @@ MonoBehaviour:
     an online shopping service. Prices shift regularly and it\u2019s possible to
     find a really good deal. The third is a friend is offering you a ticket for only
     $110 now, but there\u2019s no telling where you will sit. Which should you choose?"
-  questionfontsize: 0
+  questionfontsize: 8
   answer1: Buy Regular Ticket
   answer2: Gamble the Prices online
   answer3: Rely on friend

@@ -4843,17 +4843,20 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6628203752083147068, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_text
-      value: "You have a meal plan at school, but you\u2019re getting tired of the
-        school food and there are a lot of tasty restaurants in the area. Do you
-        decide to eat out a few times a month, or 2-4 times a week? "
+      value: "It\u2019s always difficult to make financial decisions when there are
+        so many factors going into a situation."
       objectReference: {fileID: 0}
     - target: {fileID: 6628203752083147068, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_fontSize
-      value: 11
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 6628203752083147068, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_fontSizeBase
-      value: 11
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 6628203752083147068, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6628203752083147070, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_Name

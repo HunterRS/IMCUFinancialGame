@@ -16,7 +16,7 @@ MonoBehaviour:
   question: "You have enough cash to buy a car that\u2019s around $25,000. Do you
     decide to spend it with all of the cash you have in hand, or go with a finance
     route for getting a car? "
-  questionfontsize: 0
+  questionfontsize: 12
   answer1: Cash
   answer2: Finance
   answer3: 

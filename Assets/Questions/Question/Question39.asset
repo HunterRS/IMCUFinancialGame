@@ -16,7 +16,7 @@ MonoBehaviour:
   question: When your accounts were created, you were given a small stack of paper
     checks. You know how checks work and how to sign them, but everything is now
     going electronically, do you keep the paper checks and use them?
-  questionfontsize: 0
+  questionfontsize: 11
   answer1: Yes, keep them
   answer2: No, go electronic
   answer3: 

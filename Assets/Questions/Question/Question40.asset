@@ -16,7 +16,7 @@ MonoBehaviour:
   question: 'There are four simple rules to teaching kids how to manage money. Work
     to earn the money, Give the money away, Never save the money, and Spend all the
     money. '
-  questionfontsize: 0
+  questionfontsize: 12
   answer1: True
   answer2: False
   answer3: 

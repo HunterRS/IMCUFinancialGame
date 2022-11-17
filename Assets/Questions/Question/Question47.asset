@@ -16,7 +16,7 @@ MonoBehaviour:
   question: "Let\u2019s say you are starting a business. Money is tight for you,
     but you know you are going to need to make a building, hire workers, etc. What
     would you do if you were in this situation? "
-  questionfontsize: 0
+  questionfontsize: 12
   answer1: Get business going
   answer2: Save up first, then get business going
   answer3: 

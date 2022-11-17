@@ -15,7 +15,7 @@ MonoBehaviour:
   title: True or False
   question: "It\u2019s not a big deal if I pay my credit card late. After all, I
     can just pay it off next month!  "
-  questionfontsize: 0
+  questionfontsize: 15
   answer1: True
   answer2: False
   answer3: 

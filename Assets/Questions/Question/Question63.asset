@@ -21,7 +21,7 @@ MonoBehaviour:
     the computer. You log in and all of a sudden your screen goes black, but then
     comes back on, and you see that your bank account has zero dollars. What would
     you do? '
-  questionfontsize: 0
+  questionfontsize: 7
   answer1: Stay on the phone with caller
   answer2: Hang up and call your bank
   answer3: Login to your account on your phone

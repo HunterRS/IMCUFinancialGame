@@ -16,7 +16,7 @@ MonoBehaviour:
   question: 'A faster way to increase credit is to keep your balance under 30% of
     your total credit limit. A CREDIT LIMIT is the maximum amount of money a bank
     will allow you to borrow.  '
-  questionfontsize: 0
+  questionfontsize: 12
   answer1: True
   answer2: False
   answer3: 

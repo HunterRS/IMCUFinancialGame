@@ -15,7 +15,7 @@ MonoBehaviour:
   title: True or False
   question: You should always have an Emergency fund saved up to make sure you can
     pay when something unexpected and out of your control happens. (ie Flat tire)
-  questionfontsize: 0
+  questionfontsize: 13
   answer1: True
   answer2: False
   answer3: 

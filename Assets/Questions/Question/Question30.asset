@@ -17,7 +17,7 @@ MonoBehaviour:
     repairs. There is a shop on the Eastside of town that has rates cheaper than
     another on the Westside of town. However,  the ratings for the west side shop
     are far better. Which shop should you take it to? '
-  questionfontsize: 0
+  questionfontsize: 10
   answer1: Eastside
   answer2: Westside
   answer3: 

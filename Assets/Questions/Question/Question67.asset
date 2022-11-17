@@ -15,7 +15,7 @@ MonoBehaviour:
   title: True or False
   question: You should never buy an item that is high in price on an online shopping
     website.
-  questionfontsize: 0
+  questionfontsize: 16
   answer1: True
   answer2: False
   answer3: 

@@ -15,7 +15,7 @@ MonoBehaviour:
   title: Scenario
   question: 'You log in to your checking account and notice suspicious fees. Do you
     call your bank immediately and report fraud?  '
-  questionfontsize: 0
+  questionfontsize: 14
   answer1: Report the fraud immediately
   answer2: Just Wait
   answer3: 

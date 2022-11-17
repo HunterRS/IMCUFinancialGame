@@ -20,7 +20,7 @@ MonoBehaviour:
     house outside of  Miami, at $164 a night. While it is the lowest costing option, 
     you\u2019ll have to pay for gas to drive into the city every time. Which should
     you choose?"
-  questionfontsize: 0
+  questionfontsize: 7.6
   answer1: 
   answer2: 
   answer3: 

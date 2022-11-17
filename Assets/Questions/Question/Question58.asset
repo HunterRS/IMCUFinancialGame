@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   title: Scenario
   question: 'What is the percentage of Americans that live paycheck to paycheck? '
-  questionfontsize: 0
+  questionfontsize: 18
   answer1: 48%
   answer2: 32%
   answer3: 54%

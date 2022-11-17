@@ -17,7 +17,7 @@ MonoBehaviour:
     need. You find a website with a person that''s selling what you need at an unusually
     low price. The item normally goes for $500, but this person is selling it for
     $125! Do you buy the item from them? '
-  questionfontsize: 0
+  questionfontsize: 9.5
   answer1: Buy it
   answer2: Don't buy it
   answer3: 

@@ -15,7 +15,7 @@ MonoBehaviour:
   title: True or False
   question: " It\u2019s always better to buy the cheapest available option when you
     are comparing goods. "
-  questionfontsize: 0
+  questionfontsize: 15
   answer1: True
   answer2: False
   answer3: 

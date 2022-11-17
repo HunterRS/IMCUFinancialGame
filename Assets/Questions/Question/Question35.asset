@@ -17,7 +17,7 @@ MonoBehaviour:
     to invest in some companies. You think of four companies, Disney, Netflix, Funimation,
     and Epic Games, as your top choices. Though there is one problem, how much should
     you invest in these companies? '
-  questionfontsize: 0
+  questionfontsize: 9.5
   answer1: A quater of your money on each company
   answer2: A half to two companies
   answer3: Keep money to yourselve

@@ -15,7 +15,7 @@ MonoBehaviour:
   title: True or False
   question: "I should start with multiple credit cards. That way, I\u2019ll be able
     to increase my credit score faster!  "
-  questionfontsize: 0
+  questionfontsize: 15
   answer1: True
   answer2: False
   answer3: 

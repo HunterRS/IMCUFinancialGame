@@ -15,7 +15,7 @@ MonoBehaviour:
   title: Scenario
   question: "Some examples of assets include cash, accounts receivable, inventory,
     etc. but what isn\u2019t considered an asset? "
-  questionfontsize: 0
+  questionfontsize: 14
   answer1: Investments
   answer2: Furniture
   answer3: Customer Desposits
