@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50fe359fb2d4c564d95e83f3a8931c1a, type: 3}
+  m_Name: Question76
+  m_EditorClassIdentifier: 
+  title: True or False
+  question: "It\u2019s always difficult to make financial decisions when there are
+    so many factors going into a situation."
+  questionfontsize: 0
+  answer1: True
+  answer2: False
+  answer3: 
+  answer1response: "There\u2019s rarely ever a clear answer to what\u2019s the best
+    way to spend your money. Sometimes\u2026 the cheapest option is best. Other times\u2026
+    the highest price is what\u2019s best. Making these decisions can be incredibly
+    difficult when many factors go into the situation. You should always consider
+    your options and think VERY carefully about the possible outcomes of your purchase.
+    There\u2019s rarely ever a truly \u201Cright answer.\u201D"
+  answer1fontsize: 0
+  answer1movement: 2
+  answer2response: "There\u2019s rarely ever a clear answer to what\u2019s the best
+    way to spend your money. Sometimes\u2026 the cheapest option is best. Other times\u2026
+    the highest price is what\u2019s best. Making these decisions can be incredibly
+    difficult when many factors go into the situation. You should always consider
+    your options and think VERY carefully about the possible outcomes of your purchase.
+    There\u2019s rarely ever a truly \u201Cright answer.\u201D"
+  answer2fontsize: 0
+  answer2movement: -2
+  answer3response: 
+  answer3fontsize: 0
+  answer3movement: 0
