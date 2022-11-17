@@ -15,6 +15,8 @@ public class GameManager : MonoBehaviour
     public List<QuestionCard> hardQuestionList = new List<QuestionCard>();
     public List<QuestionCard> wrongQuestionList = new List<QuestionCard>();
 
+    public QuestionCard currentQuestion;
+
     // Start is called before the first frame update
     void Start()
     {

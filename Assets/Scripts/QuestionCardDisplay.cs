@@ -8,12 +8,12 @@ public class QuestionCardDisplay : MonoBehaviour
     public QuestionCard card;
 
 
-    public Text titleText;
-    public TMPro.TextMeshPro questionText;
-    public Text answer1Text;
-    public Text answer2Text;
-    public Text answer3Text;
-    public Text answer4Text;
+    public TextMeshProUGUI titleText;
+    public TextMeshProUGUI questionText;
+    public TextMeshProUGUI answer1Text;
+    public TextMeshProUGUI answer2Text;
+    public TextMeshProUGUI answer3Text;
+    public TextMeshProUGUI answer4Text;
 
 
 
@@ -21,12 +21,12 @@ public class QuestionCardDisplay : MonoBehaviour
     void Start()
     {
         titleText.text = card.title;
+        //titleText.fontSize = GameManager.currentQuestion.questionfontsize;
         questionText.text = card.question;
         answer1Text.text = card.answer1;
         answer2Text.text = card.answer2;
         answer3Text.text = card.answer3;
-        answer4Text.text = card.answer4;
 
     }
-
+ 
 }
