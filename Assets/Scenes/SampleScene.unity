@@ -4586,9 +4586,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2023816518}
     m_Modifications:
+    - target: {fileID: 507193180487284227, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: m_RaycastTarget
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 507193180487284227, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: m_FontData.m_BestFit
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 543550634929414042, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_RootOrder
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 632370352853074341, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 65.6573
+      objectReference: {fileID: 0}
+    - target: {fileID: 632370352853074341, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 67.17136
       objectReference: {fileID: 0}
     - target: {fileID: 646307475477954072, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_RootOrder
@@ -4663,50 +4679,6 @@ PrefabInstance:
       value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 2130312703001024057, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_Colors.m_NormalColor.b
-      value: 0.20392157
-      objectReference: {fileID: 0}
-    - target: {fileID: 2130312703001024057, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_Colors.m_NormalColor.g
-      value: 0.1254902
-      objectReference: {fileID: 0}
-    - target: {fileID: 2130312703001024057, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_Colors.m_NormalColor.r
-      value: 0.77254903
-      objectReference: {fileID: 0}
-    - target: {fileID: 2130312703001024057, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_Colors.m_PressedColor.a
-      value: 0.47058824
-      objectReference: {fileID: 0}
-    - target: {fileID: 2130312703001024057, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_Colors.m_PressedColor.b
-      value: 0.20392157
-      objectReference: {fileID: 0}
-    - target: {fileID: 2130312703001024057, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_Colors.m_PressedColor.g
-      value: 0.1254902
-      objectReference: {fileID: 0}
-    - target: {fileID: 2130312703001024057, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_Colors.m_PressedColor.r
-      value: 0.77254903
-      objectReference: {fileID: 0}
-    - target: {fileID: 2130312703001024057, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_Colors.m_HighlightedColor.a
-      value: 0.78431374
-      objectReference: {fileID: 0}
-    - target: {fileID: 2130312703001024057, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_Colors.m_HighlightedColor.b
-      value: 0.20392157
-      objectReference: {fileID: 0}
-    - target: {fileID: 2130312703001024057, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_Colors.m_HighlightedColor.g
-      value: 0.1254902
-      objectReference: {fileID: 0}
-    - target: {fileID: 2130312703001024057, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_Colors.m_HighlightedColor.r
-      value: 0.77254903
-      objectReference: {fileID: 0}
-    - target: {fileID: 2130312703001024057, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 2
       objectReference: {fileID: 0}
@@ -4756,24 +4728,29 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2812949653315400526, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_text
-      value: "There\u2019s rarely ever a clear answer to what\u2019s the best way
-        to spend your money. Sometimes, the cheapest option is best. Othertimes,
-        the highest price is what\u2019s best. Making these decisions can be incredibly
-        difficult when many factors go into the situation. You should always consider
-        your options and think VERY carefully about the possible outcomes of your
-        purchase. "
+      value: "You decide to pay off the credit card debt with the loan shark\u2019s
+        money. But now you're being hounded by the loan sharks to pay them back and
+        can\u2019t save money because all your savings are going to the loan sharks."
       objectReference: {fileID: 0}
     - target: {fileID: 2812949653315400526, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_fontSize
-      value: 7
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 2812949653315400526, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_fontSizeBase
-      value: 7
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 2812949653315400526, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_HorizontalAlignment
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2913139353118181842, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 65.6573
+      objectReference: {fileID: 0}
+    - target: {fileID: 2913139353118181842, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 67.17136
       objectReference: {fileID: 0}
     - target: {fileID: 3154300584451567706, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_RootOrder
@@ -4787,9 +4764,9 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: -302
       objectReference: {fileID: 0}
-    - target: {fileID: 3581334770576158461, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_FontData.m_FontSize
-      value: 7
+    - target: {fileID: 3554415887558668790, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: m_FontData.m_MinSize
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3588383148811928685, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_text
@@ -4900,50 +4877,6 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4946972034165367237, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_Colors.m_NormalColor.b
-      value: 0.20392157
-      objectReference: {fileID: 0}
-    - target: {fileID: 4946972034165367237, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_Colors.m_NormalColor.g
-      value: 0.1254902
-      objectReference: {fileID: 0}
-    - target: {fileID: 4946972034165367237, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_Colors.m_NormalColor.r
-      value: 0.77254903
-      objectReference: {fileID: 0}
-    - target: {fileID: 4946972034165367237, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_Colors.m_PressedColor.a
-      value: 0.47058824
-      objectReference: {fileID: 0}
-    - target: {fileID: 4946972034165367237, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_Colors.m_PressedColor.b
-      value: 0.20392157
-      objectReference: {fileID: 0}
-    - target: {fileID: 4946972034165367237, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_Colors.m_PressedColor.g
-      value: 0.1254902
-      objectReference: {fileID: 0}
-    - target: {fileID: 4946972034165367237, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_Colors.m_PressedColor.r
-      value: 0.77254903
-      objectReference: {fileID: 0}
-    - target: {fileID: 4946972034165367237, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_Colors.m_HighlightedColor.a
-      value: 0.78431374
-      objectReference: {fileID: 0}
-    - target: {fileID: 4946972034165367237, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_Colors.m_HighlightedColor.b
-      value: 0.20392157
-      objectReference: {fileID: 0}
-    - target: {fileID: 4946972034165367237, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_Colors.m_HighlightedColor.g
-      value: 0.1254902
-      objectReference: {fileID: 0}
-    - target: {fileID: 4946972034165367237, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_Colors.m_HighlightedColor.r
-      value: 0.77254903
-      objectReference: {fileID: 0}
-    - target: {fileID: 4946972034165367237, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 2
       objectReference: {fileID: 0}
@@ -5015,6 +4948,14 @@ PrefabInstance:
       propertyPath: m_Colors.m_HighlightedColor.r
       value: 0.1254902
       objectReference: {fileID: 0}
+    - target: {fileID: 5293850511786229383, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: -3965286304792622789, guid: b2bd9884731ea9246bd1676489a63e68, type: 2}
+    - target: {fileID: 5293850511786229383, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5400101315095948447, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -5032,6 +4973,20 @@ PrefabInstance:
       value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 5967157355566106349, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: m_text
+      value: "You decide to pay off the credit card debt with the loan shark\u2019s
+        money. But now you're being hounded by the loan sharks to pay them back and
+        can\u2019t save money because all your savings are going to the loan sharks."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5967157355566106349, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: m_fontSize
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 5967157355566106349, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 5967157355566106349, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_HorizontalAlignment
       value: 2
       objectReference: {fileID: 0}
@@ -5043,6 +4998,10 @@ PrefabInstance:
       propertyPath: QuestionUI
       value: 
       objectReference: {fileID: 1898674832}
+    - target: {fileID: 6082236463949123538, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: m_Name
+      value: Move Back
+      objectReference: {fileID: 0}
     - target: {fileID: 6475409223468993379, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -5345,50 +5304,6 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6697572403489425845, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_Colors.m_NormalColor.b
-      value: 0.20392157
-      objectReference: {fileID: 0}
-    - target: {fileID: 6697572403489425845, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_Colors.m_NormalColor.g
-      value: 0.1254902
-      objectReference: {fileID: 0}
-    - target: {fileID: 6697572403489425845, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_Colors.m_NormalColor.r
-      value: 0.77254903
-      objectReference: {fileID: 0}
-    - target: {fileID: 6697572403489425845, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_Colors.m_PressedColor.a
-      value: 0.47058824
-      objectReference: {fileID: 0}
-    - target: {fileID: 6697572403489425845, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_Colors.m_PressedColor.b
-      value: 0.20392157
-      objectReference: {fileID: 0}
-    - target: {fileID: 6697572403489425845, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_Colors.m_PressedColor.g
-      value: 0.1254902
-      objectReference: {fileID: 0}
-    - target: {fileID: 6697572403489425845, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_Colors.m_PressedColor.r
-      value: 0.77254903
-      objectReference: {fileID: 0}
-    - target: {fileID: 6697572403489425845, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_Colors.m_HighlightedColor.a
-      value: 0.78431374
-      objectReference: {fileID: 0}
-    - target: {fileID: 6697572403489425845, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_Colors.m_HighlightedColor.b
-      value: 0.20392157
-      objectReference: {fileID: 0}
-    - target: {fileID: 6697572403489425845, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_Colors.m_HighlightedColor.g
-      value: 0.1254902
-      objectReference: {fileID: 0}
-    - target: {fileID: 6697572403489425845, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_Colors.m_HighlightedColor.r
-      value: 0.77254903
-      objectReference: {fileID: 0}
-    - target: {fileID: 6697572403489425845, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 2
       objectReference: {fileID: 0}
@@ -5451,6 +5366,14 @@ PrefabInstance:
     - target: {fileID: 7291908787464745858, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_HorizontalAlignment
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7544130056412034015, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: m_FontData.m_MaxSize
+      value: 146
+      objectReference: {fileID: 0}
+    - target: {fileID: 7544130056412034015, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: m_FontData.m_MinSize
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7618775081741227777, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_RootOrder
