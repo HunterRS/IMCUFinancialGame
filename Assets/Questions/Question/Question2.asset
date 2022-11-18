@@ -27,15 +27,15 @@ MonoBehaviour:
   answer1response: "You decided to pay off the credit card debt yourself. It takes
     you 36 months to do so, but you are no longer in credit card debt and don\u2019t
     owe money to anyone else.  "
-  answer1fontsize: 0
+  answer1fontsize: 10
   answer1movement: 1
   answer2response: 'You apply and qualify for a consultant. They explain their plan
     on how you are going to pay off your debt. You follow the plan and get out of
     debt! '
-  answer2fontsize: 0
+  answer2fontsize: 10
   answer2movement: 2
   answer3response: "You decide to pay off the credit card debt with the loan shark\u2019s
     money. But now you're being hounded by the loan sharks to pay them back and can\u2019t
     save money because all your savings are going to the loan sharks."
-  answer3fontsize: 0
+  answer3fontsize: 9
   answer3movement: -2

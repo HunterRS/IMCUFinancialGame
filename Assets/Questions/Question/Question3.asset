@@ -26,13 +26,13 @@ MonoBehaviour:
   answer1response: 'You decide to keep buying the expensive products but only the
     products you need. You realize that the excess items were the cause of overspending
     and can start saving again. '
-  answer1fontsize: 0
+  answer1fontsize: 9.5
   answer1movement: 2
   answer2response: You decide to buy cheap products. You quickly realize you have
     more money because of this. However, your items start to break to the point where
     you are buying them more frequently. You start to feel sicker and are spending
     loads of money on medicine due to the cheap food health risks.
-  answer2fontsize: 0
+  answer2fontsize: 7.8
   answer2movement: -2
   answer3response: 
   answer3fontsize: 0

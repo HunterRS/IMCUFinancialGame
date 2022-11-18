@@ -26,12 +26,12 @@ MonoBehaviour:
   answer1response: 'You waited for the loan from the bank and were able to refinance
     the debt from a 25% interest rate to a 12 % loan getting it down to affordable
     monthly payments. '
-  answer1fontsize: 0
+  answer1fontsize: 10
   answer1movement: 2
   answer2response: 'You waited for the loan from the bank and were able to refinance
     the debt from a 25% interest rate to a 12 % loan getting it down to affordable
     monthly payments. '
-  answer2fontsize: 0
+  answer2fontsize: 10
   answer2movement: -2
   answer3response: 
   answer3fontsize: 0

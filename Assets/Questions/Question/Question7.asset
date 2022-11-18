@@ -23,14 +23,14 @@ MonoBehaviour:
   answer1response: You decide you want to be prepared and buy all of your textbooks
     next from the bookstore. Unfortunately, they cost you hundreds of dollars, and
     you discover later there were more cost-effective alternatives.
-  answer1fontsize: 0
+  answer1fontsize: 9
   answer1movement: -2
   answer2response: You check for second-hand books, check for free PDFs online, or
     see if you can borrow them from a student who has previously taken the class.
     You also check to make sure the textbooks are required or find a way to share
     with a classmate. You save money on textbooks by not buying them all from the
     campus bookstore right away.
-  answer2fontsize: 0
+  answer2fontsize: 6.5
   answer2movement: 2
   answer3response: 
   answer3fontsize: 0

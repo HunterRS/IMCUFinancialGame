@@ -25,11 +25,11 @@ MonoBehaviour:
   answer1response: 'You decide to start an emergency fund and cut down on obligations.
     Then, you are slapped with a fine, but not to worry, you were able to pay it
     off with your emergency fund! '
-  answer1fontsize: 0
+  answer1fontsize: 9
   answer1movement: 2
   answer2response: You decide that your savings will do. Then you are slapped with
     a fine and you drain all your savings and are back to square one.
-  answer2fontsize: 0
+  answer2fontsize: 10
   answer2movement: -2
   answer3response: 
   answer3fontsize: 0

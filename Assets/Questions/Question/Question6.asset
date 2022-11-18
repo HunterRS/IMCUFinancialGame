@@ -26,15 +26,15 @@ MonoBehaviour:
   answer1response: "You decide it\u2019s best to hold off and pay the debt. Because
     you did, you learned that going over budget with a credit card is dangerous.
     You become more responsible with your credit card. "
-  answer1fontsize: 0
+  answer1fontsize: 9
   answer1movement: 1
   answer2response: "You decide to open another credit card. As a result, you go over
     budget with that card and are unable to pay it off and it\u2019s been frozen.
     Rinse and repeat, until you are in huge credit card debt."
-  answer2fontsize: 0
+  answer2fontsize: 8.5
   answer2movement: -2
   answer3response: 'You decide to try the Jumpstart credit card from IMCU, it has
     a better rate for and lower payments, but also helps refinance your first card
     making budgeting easier! '
-  answer3fontsize: 0
+  answer3fontsize: 10
   answer3movement: 2

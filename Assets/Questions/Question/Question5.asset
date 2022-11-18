@@ -25,12 +25,12 @@ MonoBehaviour:
   answer1response: "You\u2019re finding it much easier to spend and save money in
     the areas you were previously having trouble with. As a result, you are seeing
     a higher increase in savings and can have enough for your needs and wants. "
-  answer1fontsize: 0
+  answer1fontsize: 9
   answer1movement: 2
   answer2response: "You\u2019re having trouble saving money because you kept spending
     money you didn\u2019t necessarily have to pay for wants instead of needs. As
     a result, your savings have quickly been drained. "
-  answer2fontsize: 0
+  answer2fontsize: 8.5
   answer2movement: -2
   answer3response: 
   answer3fontsize: 0

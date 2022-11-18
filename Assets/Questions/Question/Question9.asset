@@ -22,7 +22,7 @@ MonoBehaviour:
   answer2: $1530
   answer3: 
   answer1response: You have correctly calculated your net income.
-  answer1fontsize: 0
+  answer1fontsize: 16.5
   answer1movement: 2
   answer2response: 'Make sure to get into the habit of correctly tracking your income
     and expenses now, as the numbers will be larger and more complicated as life
