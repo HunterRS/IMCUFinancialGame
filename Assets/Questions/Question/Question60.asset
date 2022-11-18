@@ -44,3 +44,6 @@ MonoBehaviour:
     both of the other options, but no info got leaked, and the meeting went successfully.
   answer3fontsize: 0
   answer3movement: 1
+  Answer1Right: 3
+  Answer2Right: 1
+  Answer3Right: 2

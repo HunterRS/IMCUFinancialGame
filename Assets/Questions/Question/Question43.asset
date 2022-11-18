@@ -36,3 +36,6 @@ MonoBehaviour:
     did waste more time than what was needed to get the $20. '
   answer3fontsize: 0
   answer3movement: 1
+  Answer1Right: 1
+  Answer2Right: 3
+  Answer3Right: 2

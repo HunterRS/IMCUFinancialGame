@@ -21,11 +21,14 @@ MonoBehaviour:
   answer1response: 'Most freezes can be done with your bank''s mobile app, always
     use this when you lose either one of the cards.  '
   answer1fontsize: 0
-  answer1movement: 0
+  answer1movement: 2
   answer2response: 'Most freezes can be done with your bank''s mobile app, always
     use this when you lose either one of the cards.  '
   answer2fontsize: 0
-  answer2movement: 0
+  answer2movement: -2
   answer3response: 
   answer3fontsize: 0
   answer3movement: 0
+  Answer1Right: 1
+  Answer2Right: 3
+  Answer3Right: 0

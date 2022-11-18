@@ -34,3 +34,6 @@ MonoBehaviour:
     with the check.
   answer3fontsize: 0
   answer3movement: -2
+  Answer1Right: 1
+  Answer2Right: 3
+  Answer3Right: 3

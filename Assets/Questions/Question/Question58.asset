@@ -27,3 +27,6 @@ MonoBehaviour:
   answer3response: Correct! More than half of Americans do live paycheck to paycheck.
   answer3fontsize: 0
   answer3movement: 2
+  Answer1Right: 2
+  Answer2Right: 3
+  Answer3Right: 1

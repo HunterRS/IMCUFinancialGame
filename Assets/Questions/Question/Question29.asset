@@ -39,3 +39,6 @@ MonoBehaviour:
     bit of extra cost for a better opportunity. "
   answer3fontsize: 0
   answer3movement: 1
+  Answer1Right: 3
+  Answer2Right: 1
+  Answer3Right: 0

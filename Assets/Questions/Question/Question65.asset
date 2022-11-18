@@ -28,3 +28,6 @@ MonoBehaviour:
   answer3response: Customer Deposits is a liability. Nice catch!
   answer3fontsize: 0
   answer3movement: 2
+  Answer1Right: 3
+  Answer2Right: 3
+  Answer3Right: 1

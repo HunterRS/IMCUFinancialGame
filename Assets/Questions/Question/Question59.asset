@@ -40,3 +40,6 @@ MonoBehaviour:
     at least a decent choice for the time."
   answer3fontsize: 0
   answer3movement: 1
+  Answer1Right: 1
+  Answer2Right: 3
+  Answer3Right: 2

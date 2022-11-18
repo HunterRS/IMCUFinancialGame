@@ -33,3 +33,6 @@ MonoBehaviour:
   answer3response: 
   answer3fontsize: 0
   answer3movement: 0
+  Answer1Right: 1
+  Answer2Right: 3
+  Answer3Right: 0

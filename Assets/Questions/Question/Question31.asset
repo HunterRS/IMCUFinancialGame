@@ -29,3 +29,6 @@ MonoBehaviour:
   answer3response: Bad idea, you would soon end up in debt or even worse
   answer3fontsize: 0
   answer3movement: -2
+  Answer1Right: 1
+  Answer2Right: 2
+  Answer3Right: 3

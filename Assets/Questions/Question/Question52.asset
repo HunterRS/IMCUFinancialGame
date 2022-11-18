@@ -44,3 +44,6 @@ MonoBehaviour:
     one of the other plans might have been a better option
   answer3fontsize: 0
   answer3movement: 1
+  Answer1Right: 3
+  Answer2Right: 2
+  Answer3Right: 1
