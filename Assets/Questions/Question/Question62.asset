@@ -25,15 +25,15 @@ MonoBehaviour:
   answer3: Order board game online.
   answer1response: "Most stores actually do match a price, but not always. It\u2019s
     worth asking the store."
-  answer1fontsize: 0
+  answer1fontsize: 13
   answer1movement: 1
   answer2response: You just got ripped off! You spent way too much more money than
     you should have.
-  answer2fontsize: 0
+  answer2fontsize: 13
   answer2movement: -2
   answer3response: The safest option, even if the board game arrives later, is to
     give the game to your friend, or tell him you got it at the party.
-  answer3fontsize: 0
+  answer3fontsize: 12
   answer3movement: 2
   Answer1Right: 2
   Answer2Right: 3

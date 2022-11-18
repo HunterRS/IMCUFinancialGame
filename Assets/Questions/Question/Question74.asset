@@ -23,13 +23,13 @@ MonoBehaviour:
     always a chance that you might have to spend more to replace the cheaper option
     after it breaks due to the quality of the product. Think very carefully when
     making a purchase."
-  answer1fontsize: 0
+  answer1fontsize: 8
   answer1movement: -2
   answer2response: "While buying the cheapest option might save money now, there\u2019s
     always a chance that you might have to spend more to replace the cheaper option
     after it breaks due to the quality of the product. Think very carefully when
     making a purchase."
-  answer2fontsize: 0
+  answer2fontsize: 8
   answer2movement: 2
   answer3response: 
   answer3fontsize: 0

@@ -27,17 +27,17 @@ MonoBehaviour:
     week. However, when you come back to your house one day, you find out your house
     has been broken into and many items were stolen! You now have to replace all
     of those items.
-  answer1fontsize: 0
+  answer1fontsize: 8
   answer1movement: -2
   answer2response: While gas costs are higher, you never wake up or return home to
     find your car or home is broken into. The semester goes well, and you find the
     purchase was worth the extra bit paid.
-  answer2fontsize: 0
+  answer2fontsize: 9
   answer2movement: 2
   answer3response: "It\u2019s in a relatively safe neighborhood and is cheaper, but
     the extra wait time forces you to have to take shelter in a nearby motel. A little
     bit of extra cost for a better opportunity. "
-  answer3fontsize: 0
+  answer3fontsize: 9
   answer3movement: 1
   Answer1Right: 3
   Answer2Right: 1

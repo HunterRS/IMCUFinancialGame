@@ -22,13 +22,13 @@ MonoBehaviour:
     a responsible adult. Not signing a Will will forfeit the money that you have
     earned over to the government to decide what happens with your assets instead
     of you. "
-  answer1fontsize: 0
+  answer1fontsize: 7.8
   answer1movement: 2
   answer2response: "Getting a Will isn\u2019t fun, but it helps you with becoming
     a responsible adult. Not signing a Will will forfeit the money that you have
     earned over to the government to decide what happens with your assets instead
     of you. "
-  answer2fontsize: 0
+  answer2fontsize: 7.8
   answer2movement: -2
   answer3response: 
   answer3fontsize: 0

@@ -29,12 +29,12 @@ MonoBehaviour:
     with him to discuss the situation. However, it turns out that his main expertise
     is designing logos and such. He\u2019ll help you out but decides to charge a
     slightly higher rate for his services. You have to take the deal at this point."
-  answer1fontsize: 0
+  answer1fontsize: 7.9
   answer1movement: 1
   answer2response: You go to the character designer, and you and he quickly formulate
     and generate a great idea for the mascot for the business. You thank him for
     his services and are charged the standard fare.
-  answer2fontsize: 0
+  answer2fontsize: 9
   answer2movement: 2
   answer3response: 
   answer3fontsize: 0

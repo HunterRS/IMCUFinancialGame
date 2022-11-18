@@ -21,13 +21,13 @@ MonoBehaviour:
   answer2: Use money out of savings accout
   answer3: Put bills on credit card
   answer1response: Good, now you can replace some of your income that you make there!
-  answer1fontsize: 0
+  answer1fontsize: 15
   answer1movement: 2
   answer2response: 'You are suppose to use the savings account as in saving money! '
-  answer2fontsize: 0
+  answer2fontsize: 15
   answer2movement: 1
   answer3response: Bad idea, you would soon end up in debt or even worse
-  answer3fontsize: 0
+  answer3fontsize: 15
   answer3movement: -2
   Answer1Right: 1
   Answer2Right: 2

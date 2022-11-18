@@ -25,13 +25,13 @@ MonoBehaviour:
     chosen by the employer. Still, it has higher contribution limits, while the Simple
     IRA is maintained by the individual giving the freedom to choose preferred investments,
     but has lower contribution limits. '
-  answer1fontsize: 0
+  answer1fontsize: 8
   answer1movement: 2
   answer2response: 'A 401k is an employer-maintained retirement with investments
     chosen by the employer. Still, it has higher contribution limits, while the Simple
     IRA is maintained by the individual giving the freedom to choose preferred investments,
     but has lower contribution limits. '
-  answer2fontsize: 0
+  answer2fontsize: 8
   answer2movement: -2
   answer3response: 
   answer3fontsize: 0

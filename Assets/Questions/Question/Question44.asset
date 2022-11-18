@@ -20,13 +20,13 @@ MonoBehaviour:
   answer1: Credit
   answer2: Debit
   answer3: 
-  answer1response: ' Credit-type payment will pull the total purchase amount out
-    of your account at a later time typically 1-3 business days. '
-  answer1fontsize: 0
+  answer1response: 'Credit-type payment will pull the total purchase amount out of
+    your account at a later time typically 1-3 business days. '
+  answer1fontsize: 11
   answer1movement: -2
   answer2response: 'Transactions will be debited in real time and shows you what
     your exact balance would be. Allowing you to better control your spending habits. '
-  answer2fontsize: 0
+  answer2fontsize: 10
   answer2movement: 2
   answer3response: 
   answer3fontsize: 0

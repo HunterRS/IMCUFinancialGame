@@ -24,12 +24,12 @@ MonoBehaviour:
   answer1response: 'The repairs are completed quite quickly and your car is serviced
     and returned to you in just 2 days. However, not long after that, your car breaks
     down again, and you take it back to that shop. '
-  answer1fontsize: 0
+  answer1fontsize: 9
   answer1movement: -2
   answer2response: 'Repairs go very well. While you had to take public transportation
     to get to your job and you had to pay a bit extra for repairs,  the repairs were
     incredibly successful and warranted no other trips to the shop. '
-  answer2fontsize: 0
+  answer2fontsize: 9
   answer2movement: 2
   answer3response: 
   answer3fontsize: 0

@@ -22,13 +22,13 @@ MonoBehaviour:
     Most of it matters about what you want to do with your money and how you will
     be spending it. Knowledge is helpful, but it isn\u2019t the deciding factor about
     how the money is being used. "
-  answer1fontsize: 0
+  answer1fontsize: 8
   answer1movement: -2
   answer2response: "20% should be in your knowledge and 80% should be in your behavior.
     Most of it matters about what you want to do with your money and how you will
     be spending it. Knowledge is helpful, but it isn\u2019t the deciding factor about
     how the money is being used. "
-  answer2fontsize: 0
+  answer2fontsize: 8
   answer2movement: 2
   answer3response: 
   answer3fontsize: 0

@@ -21,22 +21,22 @@ MonoBehaviour:
   answer1: A quater of your money on each company
   answer2: A half to two companies
   answer3: Keep money to yourselve
-  answer1response: " Investing is a huge risk taker and you divided it up into a
-    quarter each. It\u2019s a good idea to do this as what if two companies start
-    to fall off? You still have two other companies that are growing and don\u2019t
-    need to worry about your money too much."
-  answer1fontsize: 0
+  answer1response: "Investing is a huge risk taker and you divided it up into a quarter
+    each. It\u2019s a good idea to do this as what if two companies start to fall
+    off? You still have two other companies that are growing and don\u2019t need
+    to worry about your money too much."
+  answer1fontsize: 8
   answer1movement: 2
   answer2response: "While investing is a risk taker this is still a solid idea, but
     too much of a risk to take if you don\u2019t know the companies very well. A
     possibility of both companies going down, but it might not."
-  answer2fontsize: 0
+  answer2fontsize: 9
   answer2movement: 1
   answer3response: "Epic Games starts making A LOT of improvements with games, its
     members, and more. If you had invested in this company your stocks would have
     skyrocketed, but since you did not nothing was gained. It\u2019s okay to risk
     some of your money to a company and should always be considered. "
-  answer3fontsize: 0
+  answer3fontsize: 7.8
   answer3movement: -2
   Answer1Right: 1
   Answer2Right: 2

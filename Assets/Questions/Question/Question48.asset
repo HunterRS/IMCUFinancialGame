@@ -22,14 +22,14 @@ MonoBehaviour:
   answer2: Carrying
   answer3: Character
   answer1response: "No, you can\u2019t charm credit!"
-  answer1fontsize: 0
+  answer1fontsize: 15
   answer1movement: -2
   answer2response: "You could carry credit, but this isn\u2019t the correct choice. "
-  answer2fontsize: 0
+  answer2fontsize: 15
   answer2movement: -2
   answer3response: 'A summarizes the borrower''s overall trustworthiness, personality,
     and credibility. '
-  answer3fontsize: 0
+  answer3fontsize: 11
   answer3movement: 2
   Answer1Right: 3
   Answer2Right: 3

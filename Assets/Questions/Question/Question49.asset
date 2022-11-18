@@ -22,13 +22,13 @@ MonoBehaviour:
   answer3: 
   answer1response: 'Finance the vehicle through the dealership, which could result
     in a higher rate and more expensive warranties. '
-  answer1fontsize: 0
+  answer1fontsize: 11
   answer1movement: -2
   answer2response: 'Both would give pre-approved for the vehicle of your choice before
     you go to the dealership. This will provide a lower interest rate than the dealership,
     provide cheaper options for warranties, help keep you to your budget and avoid
     any unnecessary add-ons the dealership may try to sell you. '
-  answer2fontsize: 0
+  answer2fontsize: 7.9
   answer2movement: 2
   answer3response: 
   answer3fontsize: 0

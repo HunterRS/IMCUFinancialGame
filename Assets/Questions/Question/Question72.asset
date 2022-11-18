@@ -22,12 +22,12 @@ MonoBehaviour:
   answer1response: "When you overdraft, you typically have a fee associated with
     having to take money out of your savings account. It\u2019s best to make sure
     before ANY purchase, that you have money in your checking account."
-  answer1fontsize: 0
+  answer1fontsize: 8
   answer1movement: 2
   answer2response: "When you overdraft, you typically have a fee associated with
     having to take money out of your savings account. It\u2019s best to make sure
     before ANY purchase, that you have money in your checking account."
-  answer2fontsize: 0
+  answer2fontsize: 8
   answer2movement: -2
   answer3response: 
   answer3fontsize: 0

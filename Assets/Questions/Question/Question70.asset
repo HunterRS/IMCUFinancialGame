@@ -26,17 +26,17 @@ MonoBehaviour:
   answer1response: You get a seat in the main section in the middle of the stadium.
     You get a get view of all the action in the game and find yourself satisfied
     with your choice
-  answer1fontsize: 0
+  answer1fontsize: 9
   answer1movement: 2
   answer2response: Unfortunately, despite waiting throughout the week, the prices
     continued to rise on ALL tickets as demand for them became greater. You had to
     pay $200 for a good ticket. Much more than what you would have paid originally
-  answer2fontsize: 0
+  answer2fontsize: 8
   answer2movement: -2
   answer3response: It turns out the ticket was for sitting on the grass in the back
     of the field. While the ticket was much cheaper, it was kinda hard to pay attention
     to the action from far away.
-  answer3fontsize: 0
+  answer3fontsize: 10
   answer3movement: 1
   Answer1Right: 1
   Answer2Right: 3

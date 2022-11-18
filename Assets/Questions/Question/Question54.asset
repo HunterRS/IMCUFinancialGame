@@ -22,16 +22,16 @@ MonoBehaviour:
   answer3: Don't pay for them.
   answer1response: "Most people would do this and it\u2019s reliable, but there is
     a better option as these include tax while paying/depositing money."
-  answer1fontsize: 0
+  answer1fontsize: 11
   answer1movement: 1
   answer2response: "A health saving account card is the most reliable. When you deposit
     money into the account it isn\u2019t taxed, saving you more money in the long
     run. It also can be used as a retirement savings account as well."
-  answer2fontsize: 0
+  answer2fontsize: 9
   answer2movement: 2
   answer3response: What if you need the prescription? What do you think will happen
     if you skip the prescription?
-  answer3fontsize: 0
+  answer3fontsize: 11
   answer3movement: -2
   Answer1Right: 2
   Answer2Right: 1

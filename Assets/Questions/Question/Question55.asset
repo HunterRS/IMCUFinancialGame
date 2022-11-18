@@ -24,11 +24,11 @@ MonoBehaviour:
   answer1response: It is an okay plan to go with, but consider paying each month
     for this amount and including tax, you would be paying way more than what you
     would in the end.
-  answer1fontsize: 0
+  answer1fontsize: 10
   answer1movement: -2
   answer2response: Correct! As you will save nearly double the amount of money than
     you would for the $9.99 plan.
-  answer2fontsize: 0
+  answer2fontsize: 11
   answer2movement: 2
   answer3response: 
   answer3fontsize: 0

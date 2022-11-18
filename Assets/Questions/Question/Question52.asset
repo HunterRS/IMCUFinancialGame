@@ -30,19 +30,19 @@ MonoBehaviour:
     well for a few months, but then, your phone drops out of the window while driving.
     You think you are covered for your lost phone, but as it turns out, the \u201Clost,\u201D
     phone plan only covers theft. You\u2019ll have to buy another phone."
-  answer1fontsize: 0
+  answer1fontsize: 8
   answer1movement: -2
   answer2response: While making payments monthly is a hassle, it has overall been
     a very good choice to keep costs down. Not only that, but your screen broke one
     day, and a 15% lowering cost cut the amount needed to repair the screen even
     more for repairs. It turns out the cheapest plan is not always the worst one!
-  answer2fontsize: 0
+  answer2fontsize: 7.7
   answer2movement: 2
   answer3response: The price is fairly straightforward, and you use it for a couple
     of months. However, you clumsily drop your phone in the water. Thankfully there
     was a plan for full replacement, but the discount is only 10%. While not worst,
     one of the other plans might have been a better option
-  answer3fontsize: 0
+  answer3fontsize: 7.7
   answer3movement: 1
   Answer1Right: 3
   Answer2Right: 2

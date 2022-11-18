@@ -20,11 +20,11 @@ MonoBehaviour:
   answer3: 
   answer1response: As items on the market become harder to get, the price for the
     item online will typically rise.
-  answer1fontsize: 0
+  answer1fontsize: 12
   answer1movement: 2
   answer2response: As items on the market become harder to get, the price for the
     item online will typically rise.
-  answer2fontsize: 0
+  answer2fontsize: 12
   answer2movement: -2
   answer3response: 
   answer3fontsize: 0

@@ -4756,17 +4756,20 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2812949653315400526, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_text
-      value: 'You waited for the loan from the bank and were able to refinance the
-        debt from a 25% interest rate to a 12 % loan getting it down to affordable
-        monthly payments. '
+      value: "There\u2019s rarely ever a clear answer to what\u2019s the best way
+        to spend your money. Sometimes, the cheapest option is best. Othertimes,
+        the highest price is what\u2019s best. Making these decisions can be incredibly
+        difficult when many factors go into the situation. You should always consider
+        your options and think VERY carefully about the possible outcomes of your
+        purchase. "
       objectReference: {fileID: 0}
     - target: {fileID: 2812949653315400526, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_fontSize
-      value: 10
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 2812949653315400526, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_fontSizeBase
-      value: 10
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 2812949653315400526, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_HorizontalAlignment

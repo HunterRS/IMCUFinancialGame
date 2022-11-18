@@ -21,12 +21,12 @@ MonoBehaviour:
   answer1response: According to the United States Census Bureau, around 77% of Americans
     have some type of debt. If you know someone that is having trouble with debt,
     please check out the IMCU website or go to the Indiana Debt Relief site.
-  answer1fontsize: 0
+  answer1fontsize: 9
   answer1movement: -2
   answer2response: According to the United States Census Bureau, around 77% of Americans
     have some type of debt. If you know someone that is having trouble with debt,
     please check out the IMCU website or go to the Indiana Debt Relief site.
-  answer2fontsize: 0
+  answer2fontsize: 9
   answer2movement: 2
   answer3response: 
   answer3fontsize: 0

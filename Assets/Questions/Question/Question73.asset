@@ -24,14 +24,14 @@ MonoBehaviour:
     to the bank for transferring money out of your savings account. And spending
     your money haphazardly could really hurt you when you have a VERY legitimate
     reason to use it."
-  answer1fontsize: 0
+  answer1fontsize: 7
   answer1movement: -2
   answer2response: "Always keep in mind what you have in your checking and savings
     accounts. Too much spending with your checking, and you\u2019ll have to pay extra
     to the bank for transferring money out of your savings account. And spending
     your money haphazardly could really hurt you when you have a VERY legitimate
     reason to use it."
-  answer2fontsize: 0
+  answer2fontsize: 7
   answer2movement: 2
   answer3response: 
   answer3fontsize: 0

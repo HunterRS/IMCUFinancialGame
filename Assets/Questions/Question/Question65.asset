@@ -20,13 +20,13 @@ MonoBehaviour:
   answer2: Furniture
   answer3: Customer Desposits
   answer1response: 'Yes, investments is part of an asset. '
-  answer1fontsize: 0
+  answer1fontsize: 15
   answer1movement: -2
   answer2response: Yes, furniture is considered to be an asset
-  answer2fontsize: 0
+  answer2fontsize: 15
   answer2movement: -2
   answer3response: Customer Deposits is a liability. Nice catch!
-  answer3fontsize: 0
+  answer3fontsize: 15
   answer3movement: 2
   Answer1Right: 3
   Answer2Right: 3

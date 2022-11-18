@@ -22,12 +22,12 @@ MonoBehaviour:
   answer1response: "This is a way to determine Net Income, but also, if you own a
     business it\u2019s slightly different. The Revenue would then subtract not only
     from the expenses but also the cost of goods sold. "
-  answer1fontsize: 0
+  answer1fontsize: 9
   answer1movement: 2
   answer2response: "This is a way to determine Net Income, but also, if you own a
     business it\u2019s slightly different. The Revenue would then subtract not only
     from the expenses but also the cost of goods sold. "
-  answer2fontsize: 0
+  answer2fontsize: 9
   answer2movement: -2
   answer3response: 
   answer3fontsize: 0

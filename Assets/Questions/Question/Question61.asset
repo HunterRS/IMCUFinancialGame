@@ -26,23 +26,19 @@ MonoBehaviour:
   answer1: General Grocery Store
   answer2: Office Supplies Store
   answer3: 
-  answer1response: You go a bit overboard with the purchases for the office, getting
-    a leather sofa and a rolling chair, office supplies in bulk, and items to decorate
-    it. You set up your office and begin to work in it. However, only 2 months after,
-    there is a clear, noticeable sign of wear and tear in the furniture. The office
-    supplies also continued to run out quickly, causing you the have to continuously
-    return to the store to buy more. After doing some research, you deduce that buying
-    the supplies from the other store would have been cheaper and more efficient
-    in the long run.
-  answer1fontsize: 0
+  answer1response: 'You go overboard with the purchases for the office, furniture,
+    office supplies, and other supplies. You set up the office and begin to work
+    in it. However, only 2 months after, there is a clear, noticeable sign of wear
+    and tear in the furniture. The office supplies also continued to run out quickly,
+    causing you the have to continuously return to the store to buy more. '
+  answer1fontsize: 7
   answer1movement: -2
-  answer2response: 'Due to the slightly bigger price, you decide to be a bit conservative
+  answer2response: Due to the slightly bigger price, you decide to be a  conservative
     with what you spend, only buying the essentials needed for the office. You complete
-    your office quickly and begin to work. Things go very well. The higher quality
-    of items proved to work, as you find that they lasted a VERY long time. And trips
-    to the store to buy more were not too common. You''re satisfied with the results
-    of your choice. '
-  answer2fontsize: 0
+    your office quickly and begin to work.  The higher quality of items prove to
+    work, as you find that they lasted a VERY long time. And trips to the store to
+    buy more were not too common. You're satisfied with the results of your choice.
+  answer2fontsize: 7
   answer2movement: 2
   answer3response: 
   answer3fontsize: 0

@@ -20,20 +20,18 @@ MonoBehaviour:
   answer2: False
   answer3: 
   answer1response: "There\u2019s rarely ever a clear answer to what\u2019s the best
-    way to spend your money. Sometimes\u2026 the cheapest option is best. Other times\u2026
+    way to spend your money. Sometimes, the cheapest option is best. Othertimes,
     the highest price is what\u2019s best. Making these decisions can be incredibly
     difficult when many factors go into the situation. You should always consider
-    your options and think VERY carefully about the possible outcomes of your purchase.
-    There\u2019s rarely ever a truly \u201Cright answer.\u201D"
-  answer1fontsize: 0
+    your options and think VERY carefully about the possible outcomes of your purchase. "
+  answer1fontsize: 7
   answer1movement: 2
   answer2response: "There\u2019s rarely ever a clear answer to what\u2019s the best
-    way to spend your money. Sometimes\u2026 the cheapest option is best. Other times\u2026
+    way to spend your money. Sometimes, the cheapest option is best. Othertimes,
     the highest price is what\u2019s best. Making these decisions can be incredibly
     difficult when many factors go into the situation. You should always consider
-    your options and think VERY carefully about the possible outcomes of your purchase.
-    There\u2019s rarely ever a truly \u201Cright answer.\u201D"
-  answer2fontsize: 0
+    your options and think VERY carefully about the possible outcomes of your purchase. "
+  answer2fontsize: 7
   answer2movement: -2
   answer3response: 
   answer3fontsize: 0

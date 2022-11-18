@@ -23,13 +23,13 @@ MonoBehaviour:
     the demand for the items, therefore allowing them to raise the price to VERY
     high amounts. These people are referred to as scalpers. You should never buy
     an item from them, as there\u2019s always a chance you\u2019ll find it eventually."
-  answer1fontsize: 0
+  answer1fontsize: 8
   answer1movement: 2
   answer2response: "People tend to buy rare and valuable items in bulk to increase
     the demand for the items, therefore allowing them to raise the price to VERY
     high amounts. These people are referred to as scalpers. You should never buy
     an item from them, as there\u2019s always a chance you\u2019ll find it eventually."
-  answer2fontsize: 0
+  answer2fontsize: 8
   answer2movement: -2
   answer3response: 
   answer3fontsize: 0

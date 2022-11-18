@@ -25,12 +25,12 @@ MonoBehaviour:
   answer1response: "He comes in and fixes the leak in just 3 hours, costing $210
     total. You\u2019re happy with the results at first. But then, it turns out he
     missed a few places. The pipes burst, and you now have to call him again!"
-  answer1fontsize: 0
+  answer1fontsize: 9
   answer1movement: -2
   answer2response: "The plumber takes 4 hours to fix the leak, costing a total of
     $480. However, the results are perfect! You don\u2019t have another leak after
     it\u2019s done and is satisfied with your choice."
-  answer2fontsize: 0
+  answer2fontsize: 9
   answer2movement: 2
   answer3response: 
   answer3fontsize: 0

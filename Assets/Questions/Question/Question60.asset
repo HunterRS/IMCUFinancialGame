@@ -32,17 +32,17 @@ MonoBehaviour:
     the info got leaked out during the meeting, and you find some very sensitive
     info was found to have been stolen afterwords, and could very well be on the
     market.
-  answer1fontsize: 0
+  answer1fontsize: 7.3
   answer1movement: -2
   answer2response: You choose the hotel room, but it seems the meeting took 6 hours,
     costing a total of $420. But things worked smoothly. No info got leaked, and
     you find the extra cost outweighed the benefits of the first option.
-  answer2fontsize: 0
+  answer2fontsize: 9
   answer2movement: 2
   answer3response: It costs $400 for the day, and you have to spend another $50 on
     supplies needed for the meeting. A total of $450. It was more expensive than
     both of the other options, but no info got leaked, and the meeting went successfully.
-  answer3fontsize: 0
+  answer3fontsize: 8.6
   answer3movement: 1
   Answer1Right: 3
   Answer2Right: 1

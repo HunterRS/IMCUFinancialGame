@@ -23,13 +23,13 @@ MonoBehaviour:
   answer1response: You have all of your cash in hand to purchase a car. No monthly
     payments and fees. Great! But you missed out on the discounts, financial deals,
     and a return policy, you got to be careful with the car.
-  answer1fontsize: 0
+  answer1fontsize: 9
   answer1movement: 1
   answer2response: Most companies offer an intro interest rate for a car. You take
     advantage of the discount and only put $5000 down. Yes, you will have monthly
     payments for the term of the loan, however you retain access to the rest of your
     money ($20,000).
-  answer2fontsize: 0
+  answer2fontsize: 8
   answer2movement: 2
   answer3response: 
   answer3fontsize: 0

@@ -25,16 +25,16 @@ MonoBehaviour:
   answer3: Go to ATM across street
   answer1response: "When using a debit card you always can decline to get cash back,
     but it\u2019s very easy to use and get the cash out right away. "
-  answer1fontsize: 0
+  answer1fontsize: 12
   answer1movement: 2
   answer2response: Most mobile apps would charge you for making such a transaction,
     especially if you want to make the transaction right away, as that would cost
     you extra money because of the fees.
-  answer2fontsize: 0
+  answer2fontsize: 9
   answer2movement: -2
   answer3response: 'While going to the ATM is a good choice for withdrawing, you
     did waste more time than what was needed to get the $20. '
-  answer3fontsize: 0
+  answer3fontsize: 11
   answer3movement: 1
   Answer1Right: 1
   Answer2Right: 3

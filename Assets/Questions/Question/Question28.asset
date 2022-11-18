@@ -21,11 +21,11 @@ MonoBehaviour:
   answer3: 
   answer1response: Credit unions are member-owned, and tend to have lower fees and
     better interest rates on savings accounts or loans.
-  answer1fontsize: 0
+  answer1fontsize: 11
   answer1movement: -2
   answer2response: Credit unions are member-owned, and tend to have lower fees and
     better interest rates on savings accounts or loans.
-  answer2fontsize: 0
+  answer2fontsize: 11
   answer2movement: 2
   answer3response: 
   answer3fontsize: 0

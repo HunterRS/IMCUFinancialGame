@@ -23,13 +23,13 @@ MonoBehaviour:
     it\u2019s a purchase or even a legal situation. ALWAYS have money saved up in
     checking and savings to make sure you are always ready and prepared for when
     something unforeseen happens that is out of your control."
-  answer1fontsize: 0
+  answer1fontsize: 8
   answer1movement: 2
   answer2response: "You never know if something could go wrong in your life, whether
     it\u2019s a purchase or even a legal situation. ALWAYS have money saved up in
     checking and savings to make sure you are always ready and prepared for when
     something unforeseen happens that is out of your control."
-  answer2fontsize: 0
+  answer2fontsize: 8
   answer2movement: -2
   answer3response: 
   answer3fontsize: 0

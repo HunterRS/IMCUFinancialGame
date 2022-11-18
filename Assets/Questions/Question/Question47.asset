@@ -21,13 +21,13 @@ MonoBehaviour:
   answer2: Save up first, then get business going
   answer3: 
   answer1response: Sometimes to make money, you have to spend money.
-  answer1fontsize: 0
+  answer1fontsize: 15
   answer1movement: 2
   answer2response: You can do this theoretically but what happens when someone or
     a competitor of yours makes a big jump in sales and even goes on to take over
     the property that you were going to get, the opportunity is too late and your
     business will have to move elsewhere.
-  answer2fontsize: 0
+  answer2fontsize: 8.1
   answer2movement: -2
   answer3response: 
   answer3fontsize: 0

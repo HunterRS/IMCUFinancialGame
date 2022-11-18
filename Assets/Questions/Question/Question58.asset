@@ -19,13 +19,13 @@ MonoBehaviour:
   answer2: 32%
   answer3: 54%
   answer1response: 'Close but not quite. '
-  answer1fontsize: 0
+  answer1fontsize: 15
   answer1movement: 1
   answer2response: That's really low!
-  answer2fontsize: 0
+  answer2fontsize: 15
   answer2movement: -2
   answer3response: Correct! More than half of Americans do live paycheck to paycheck.
-  answer3fontsize: 0
+  answer3fontsize: 15
   answer3movement: 2
   Answer1Right: 2
   Answer2Right: 3

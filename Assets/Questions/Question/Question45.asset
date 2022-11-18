@@ -21,14 +21,14 @@ MonoBehaviour:
   answer3: Marine
   answer1response: 'Your house may be damaged from internal or external causes. It
     helps provide a safety net to protect your property and belongings. '
-  answer1fontsize: 0
+  answer1fontsize: 10
   answer1movement: 2
   answer2response: "Like auto insurance this covers your motorcycle, boat or RV\u2019s. "
-  answer2fontsize: 0
+  answer2fontsize: 12
   answer2movement: 1
   answer3response: 'This usually only applies to people that are in or have a family
     member in the military. '
-  answer3fontsize: 0
+  answer3fontsize: 12
   answer3movement: -2
   Answer1Right: 1
   Answer2Right: 2

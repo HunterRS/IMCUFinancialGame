@@ -27,18 +27,18 @@ MonoBehaviour:
     to take responsibility for the suit and try to make sure it\u2019s stable and
     cleaned the correct way. Your efforts work quite well. It lasts as long as you
     need it to, thanks to taking careful consideration of how to manage it."
-  answer1fontsize: 0
+  answer1fontsize: 8
   answer1movement: 2
   answer2response: "It turns out the small size made it difficult to take on and
     off every time you needed it. But\u2026 one day, when you're putting it on, its
     material rips in several places across it. You had to buy another business suit
     and rush to work! "
-  answer2fontsize: 0
+  answer2fontsize: 9
   answer2movement: -2
   answer3response: "It\u2019s easy to put on and take off every morning. It lasts
     more than as long as you need it to. While it was a bit more expensive, it was
     at least a decent choice for the time."
-  answer3fontsize: 0
+  answer3fontsize: 10
   answer3movement: 1
   Answer1Right: 1
   Answer2Right: 3

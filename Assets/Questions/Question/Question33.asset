@@ -21,11 +21,11 @@ MonoBehaviour:
   answer2: Set up both
   answer3: 
   answer1response: So close! It's actually recommended to make both accounts.
-  answer1fontsize: 0
+  answer1fontsize: 14
   answer1movement: 1
   answer2response: "Nice, now you would be allowed to take advantage of IMCU\u2019s
     direct deposit bonus."
-  answer2fontsize: 0
+  answer2fontsize: 14
   answer2movement: 2
   answer3response: 
   answer3fontsize: 0

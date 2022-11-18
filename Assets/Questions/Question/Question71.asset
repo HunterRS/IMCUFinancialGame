@@ -24,17 +24,17 @@ MonoBehaviour:
   answer3: Rely on Friend
   answer1response: 'It works perfectly and lasts an incredibly long time before needing
     any repairs. '
-  answer1fontsize: 0
+  answer1fontsize: 14
   answer1movement: 2
   answer2response: It works fine at first. However, the controller breaks down not
     too long after purchase, requiring you to buy a new controller for another $60.
-  answer2fontsize: 0
+  answer2fontsize: 10
   answer2movement: 1
   answer3response: "You give him the money and take it. It works well for a week.
     Unfortunately, the console completely stops turning on. You take it to a repair
     shop and report that it has a ton of wear and tears on the inside. They can fix
     it, but it\u2019s going to cost around $100."
-  answer3fontsize: 0
+  answer3fontsize: 8
   answer3movement: -2
   Answer1Right: 1
   Answer2Right: 2
