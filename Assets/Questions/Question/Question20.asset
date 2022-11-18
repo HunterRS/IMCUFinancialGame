@@ -19,10 +19,10 @@ MonoBehaviour:
   answer2: False
   answer3: 
   answer1response: Yes it is on the app store, go download it!
-  answer1fontsize: 0
+  answer1fontsize: 20
   answer1movement: 2
-  answer2response: Oops, IMCU does have an the smartstart app for free!
-  answer2fontsize: 0
+  answer2response: IMCU does have an the smartstart app for free!
+  answer2fontsize: 17
   answer2movement: -2
   answer3response: 
   answer3fontsize: 0

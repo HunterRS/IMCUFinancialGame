@@ -24,13 +24,13 @@ MonoBehaviour:
     and department level, as well as scholarships outside of college. Many of the
     scholarships received few applications, and you can earn thousands of dollars
     to chip away at your tuition. '
-  answer1fontsize: 0
+  answer1fontsize: 8
   answer1movement: 2
   answer2response: "You apply late and miss the scholarship deadlines, even though
     there are multiple scholarships that you would\u2019ve been eligible for in and
     outside the university. Now you are required to pay full tuition with no student
     aid. "
-  answer2fontsize: 0
+  answer2fontsize: 8.7
   answer2movement: -2
   answer3response: 
   answer3fontsize: 0

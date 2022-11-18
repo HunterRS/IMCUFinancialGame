@@ -18,7 +18,7 @@ MonoBehaviour:
     (i.e., Netflix, gym membership, etc.) so you can put that money towards an emergency
     fund. Do you start an emergency fund or risk it and believe your current savings
     will suffice? "
-  questionfontsize: 8.7
+  questionfontsize: 8.6
   answer1: Start an Emergency Fund
   answer2: Risk it
   answer3: 

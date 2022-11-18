@@ -22,7 +22,7 @@ MonoBehaviour:
     but it has a limited furniture selection, and the prices are a bit higher. You
     only have so much money to spend as of right now. Which store should you buy
     from? "
-  questionfontsize: 6.5
+  questionfontsize: 6.8
   answer1: General Grocery Store
   answer2: Office Supplies Store
   answer3: 

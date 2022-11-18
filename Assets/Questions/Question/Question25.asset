@@ -22,11 +22,11 @@ MonoBehaviour:
   answer3: 
   answer1response: 'Keeping your balance under 30% of your total credit limit can
     help you build better credit. Once you reach 30%, your credit score will drop. '
-  answer1fontsize: 0
+  answer1fontsize: 11
   answer1movement: 2
   answer2response: 'Keeping your balance under 30% of your total credit limit can
     help you build better credit. Once you reach 30%, your credit score will drop. '
-  answer2fontsize: 0
+  answer2fontsize: 11
   answer2movement: -2
   answer3response: 
   answer3fontsize: 0

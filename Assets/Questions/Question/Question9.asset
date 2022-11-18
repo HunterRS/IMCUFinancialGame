@@ -27,7 +27,7 @@ MonoBehaviour:
   answer2response: 'Make sure to get into the habit of correctly tracking your income
     and expenses now, as the numbers will be larger and more complicated as life
     goes on.  '
-  answer2fontsize: 0
+  answer2fontsize: 10.6
   answer2movement: -2
   answer3response: 
   answer3fontsize: 0

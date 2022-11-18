@@ -15,7 +15,7 @@ MonoBehaviour:
   title: Scenario
   question: 'You''re about to make a purchase, but you notice that your debit card
     is missing! What do you do?  '
-  questionfontsize: 14
+  questionfontsize: 15
   answer1: Change settings in Mobile Banking
   answer2: Keep Looking
   answer3: 
@@ -24,12 +24,12 @@ MonoBehaviour:
     your old card and called the branch to issue you a new one. Now whoever finds
     your old card won't be able to use it, and the money in your checking account
     is safe.
-  answer1fontsize: 0
+  answer1fontsize: 7.7
   answer1movement: 2
   answer2response: 'You search and you search, but you still can''t find your card.
     By the time you finally decide to call your bank, your checking account has been
     compromised to fraudulent activity. '
-  answer2fontsize: 0
+  answer2fontsize: 9.4
   answer2movement: -2
   answer3response: 
   answer3fontsize: 0

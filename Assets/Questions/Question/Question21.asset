@@ -19,15 +19,15 @@ MonoBehaviour:
   answer1: True
   answer2: False
   answer3: 
-  answer1response: 'MCU mobile app allows Financial Institution to Financial Institution
+  answer1response: 'IMCU mobile app allows Financial Institution to Financial Institution
     transfers. (FI to FI) by adding an external account in the Mobile app you are
     able to transfer funds across accounts. '
-  answer1fontsize: 0
+  answer1fontsize: 9.6
   answer1movement: 2
-  answer2response: 'MCU mobile app allows Financial Institution to Financial Institution
+  answer2response: 'IMCU mobile app allows Financial Institution to Financial Institution
     transfers. (FI to FI) by adding an external account in the Mobile app you are
     able to transfer funds across accounts. '
-  answer2fontsize: 0
+  answer2fontsize: 9.6
   answer2movement: -2
   answer3response: 
   answer3fontsize: 0

@@ -22,12 +22,12 @@ MonoBehaviour:
   answer1response: 'Starting with multiple credit cards can hurt your credit score,
     especially if you fail to keep track of them. Multiple inquiries into your credit
     can also hurt your score. '
-  answer1fontsize: 0
+  answer1fontsize: 10
   answer1movement: -2
   answer2response: 'Starting with multiple credit cards can hurt your credit score,
     especially if you fail to keep track of them. Multiple inquiries into your credit
     can also hurt your score. '
-  answer2fontsize: 0
+  answer2fontsize: 10
   answer2movement: 2
   answer3response: 
   answer3fontsize: 0

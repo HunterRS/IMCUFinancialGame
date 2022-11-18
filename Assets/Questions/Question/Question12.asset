@@ -24,11 +24,11 @@ MonoBehaviour:
   answer1response: 'You bought the item, but the item never arrived! Looking at your
     transaction history you noticed that the charger charged double the price. You
     lost double the money in your checking account. '
-  answer1fontsize: 0
+  answer1fontsize: 9.3
   answer1movement: -2
   answer2response: 'You use your better judgment and decide to not buy the item.
     If it sounds too good to be true, then it probably is. '
-  answer2fontsize: 0
+  answer2fontsize: 12
   answer2movement: 2
   answer3response: 
   answer3fontsize: 0

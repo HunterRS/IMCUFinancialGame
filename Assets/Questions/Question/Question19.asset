@@ -22,13 +22,13 @@ MonoBehaviour:
     your checking account. Other ways include making cash or check deposits by visiting
     a branch, mobile app check deposit, visiting an ITM, or you can transfer money
     between your savings account and checking account through a mobile/online banking.
-  answer1fontsize: 0
+  answer1fontsize: 7.3
   answer1movement: 2
   answer2response: ATMs (Automated Teller Machines) are one way of adding funds to
     your checking account. Other ways include making cash or check deposits by visiting
     a branch, mobile app check deposit, visiting an ITM, or you can transfer money
     between your savings account and checking account through a mobile/online banking.
-  answer2fontsize: 0
+  answer2fontsize: 7.3
   answer2movement: -2
   answer3response: 
   answer3fontsize: 0

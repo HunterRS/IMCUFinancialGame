@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   title: True or False
   question: If the demand is higher for an item, the price increases.
-  questionfontsize: 20
+  questionfontsize: 15
   answer1: True
   answer2: False
   answer3: 

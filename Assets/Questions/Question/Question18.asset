@@ -21,12 +21,12 @@ MonoBehaviour:
   answer1response: 'Your savings account cannot be used to pay for transactions.
     You must move the appropriate amount of funds to your checking account first
     to be able to pay. '
-  answer1fontsize: 0
+  answer1fontsize: 10
   answer1movement: -2
   answer2response: 'Your savings account cannot be used to pay for transactions.
     You must move the appropriate amount of funds to your checking account first
     to be able to pay. '
-  answer2fontsize: 0
+  answer2fontsize: 10
   answer2movement: 2
   answer3response: 
   answer3fontsize: 0

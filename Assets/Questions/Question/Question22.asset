@@ -21,12 +21,12 @@ MonoBehaviour:
   answer1response: "It\u2019s important to have an emergency fund because it covers
     you in the event of some unexpected expense/financial blow, like losing your
     job. It also prevents you from going into debt (source)"
-  answer1fontsize: 0
+  answer1fontsize: 9
   answer1movement: -2
   answer2response: "It\u2019s important to have an emergency fund because it covers
     you in the event of some unexpected expense/financial blow, like losing your
     job. It also prevents you from going into debt (source)"
-  answer2fontsize: 0
+  answer2fontsize: 9
   answer2movement: 2
   answer3response: 
   answer3fontsize: 0

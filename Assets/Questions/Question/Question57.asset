@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   title: True or False
   question: Around 64% of Americans have some type of debt.
-  questionfontsize: 20
+  questionfontsize: 15
   answer1: True
   answer2: False
   answer3: 

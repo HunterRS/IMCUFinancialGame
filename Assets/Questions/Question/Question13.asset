@@ -27,11 +27,11 @@ MonoBehaviour:
   answer1response: You gave them your cash and they immediately ran away faster than
     you can run. You wonder why you thought it was a good idea to give a stranger
     $200.
-  answer1fontsize: 0
+  answer1fontsize: 10.5
   answer1movement: -2
   answer2response: "It\u2019s revealed that the person was an actual employee, he
     even helps you make the direct deposit successfully. "
-  answer2fontsize: 0
+  answer2fontsize: 12
   answer2movement: 2
   answer3response: 
   answer3fontsize: 0
