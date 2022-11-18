@@ -28,16 +28,17 @@ public class NextQuestion : MonoBehaviour
         AnswerUI3.SetActive(false);
         QuestionPrefabUI.SetActive(true);
         QuestionUI.SetActive(true);
-
+        GameManager.instance.NextQuestionCard();
+        QuestionCardDisplay.instance.NewCardDisplay();
     }
     public void MovePlayer()
     {
-        GameManager.movementAmount = 2;
+        GameManager.instance.movementAmount = 2;
         GameManager.MovePlayer();
     }
     public void MovePlayerBackWards()
     {
-        GameManager.movementAmount = 2;
+        GameManager.instance.movementAmount = 2;
         GameManager.reverse = true;
         GameManager.MovePlayer();
     }

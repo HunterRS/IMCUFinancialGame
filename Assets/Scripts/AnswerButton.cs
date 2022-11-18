@@ -26,13 +26,15 @@ public class AnswerButton : MonoBehaviour
     }
     public void MovePlayer()
     {
-        GameManager.movementAmount = 3;
+        GameManager.instance.movementAmount = 3;
         GameManager.MovePlayer();
+        GameManager.instance.QuestionWrong();
     }
     public void MovePlayerBackWards()
     {
-        GameManager.movementAmount = 2;
+        GameManager.instance.movementAmount = 2;
         GameManager.reverse = true;
         GameManager.MovePlayer();
+        GameManager.instance.QuestionWrong();
     }
 }

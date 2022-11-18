@@ -20,4 +20,9 @@ public class QuestionCard : ScriptableObject
     public string answer3response;
     public float answer3fontsize;
     public int answer3movement;
+
+    // 1 for Best Answer, 2 for Okay 3 For Bad Answer
+    public int Answer1Right;
+    public int Answer2Right;
+    public int Answer3Right;
 }
