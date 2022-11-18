@@ -4603,9 +4603,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2812949653315400526, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_text
-      value: 'Starting with multiple credit cards can hurt your credit score, especially
-        if you fail to keep track of them. Multiple inquiries into your credit can
-        also hurt your score. '
+      value: 'You waited for the loan from the bank and were able to refinance the
+        debt from a 25% interest rate to a 12 % loan getting it down to affordable
+        monthly payments. '
       objectReference: {fileID: 0}
     - target: {fileID: 2812949653315400526, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_fontSize
@@ -4634,6 +4634,10 @@ PrefabInstance:
     - target: {fileID: 3581334770576158461, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_FontData.m_FontSize
       value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3588383148811928685, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: m_text
+      value: Correct
       objectReference: {fileID: 0}
     - target: {fileID: 3755527447864242487, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: AnswerNum
@@ -4790,6 +4794,10 @@ PrefabInstance:
     - target: {fileID: 5694339191269919326, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_FontData.m_FontSize
       value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5967157355566106349, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6063200801262460210, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: AnswerNum
@@ -5052,6 +5060,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7291908787464745858, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 7618775081741227777, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -5074,7 +5086,7 @@ PrefabInstance:
       objectReference: {fileID: 1898674832}
     - target: {fileID: 8367018789736626827, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8655172099364495545, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: QuestionUI
