@@ -162,12 +162,12 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 6063200801262460210}
         m_TargetAssemblyTypeName: AnswerButton, Assembly-CSharp
-        m_MethodName: AnswerQuestion
-        m_Mode: 1
+        m_MethodName: MovePlayerPhase1
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
+          m_IntArgument: 2
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -185,8 +185,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AnswerNum: 0
-  QuestionUI: {fileID: 0}
-  AnswerUI: {fileID: 6628203752174349769}
+  QuestionUI: {fileID: 6628203752174349769}
+  GreatAnswerUI: {fileID: 0}
+  GoodAnswerUI: {fileID: 0}
+  BadAnswerUI: {fileID: 0}
+  ButtonUI: {fileID: 0}
 --- !u!114 &6098125920684220335
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -327,12 +330,12 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 4604589025544211919}
         m_TargetAssemblyTypeName: AnswerButton, Assembly-CSharp
-        m_MethodName: AnswerQuestion
-        m_Mode: 1
+        m_MethodName: MovePlayerPhase1
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
+          m_IntArgument: 3
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -350,8 +353,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AnswerNum: 0
-  QuestionUI: {fileID: 0}
-  AnswerUI: {fileID: 6628203752174349769}
+  QuestionUI: {fileID: 6628203752174349769}
+  GreatAnswerUI: {fileID: 0}
+  GoodAnswerUI: {fileID: 0}
+  BadAnswerUI: {fileID: 0}
+  ButtonUI: {fileID: 0}
 --- !u!114 &6698963381032172153
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2187,12 +2193,12 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 3755527447864242487}
         m_TargetAssemblyTypeName: AnswerButton, Assembly-CSharp
-        m_MethodName: AnswerQuestion
-        m_Mode: 1
+        m_MethodName: MovePlayerPhase1
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
+          m_IntArgument: 1
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -2210,8 +2216,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AnswerNum: 0
-  QuestionUI: {fileID: 0}
-  AnswerUI: {fileID: 6628203752174349769}
+  QuestionUI: {fileID: 6628203752174349769}
+  GreatAnswerUI: {fileID: 0}
+  GoodAnswerUI: {fileID: 0}
+  BadAnswerUI: {fileID: 0}
+  ButtonUI: {fileID: 0}
 --- !u!114 &1875097053034823062
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2700,11 +2709,11 @@ MonoBehaviour:
       - m_Target: {fileID: 6628203750601010175}
         m_TargetAssemblyTypeName: AnswerButton, Assembly-CSharp
         m_MethodName: AnswerQuestion
-        m_Mode: 1
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
+          m_IntArgument: 1
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -2722,8 +2731,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AnswerNum: 1
-  QuestionUI: {fileID: 4641648879555602280}
-  AnswerUI: {fileID: 8367018789736626827}
+  QuestionUI: {fileID: 8367018789736626827}
+  GreatAnswerUI: {fileID: 4641648879555602280}
+  GoodAnswerUI: {fileID: 739165310750335895}
+  BadAnswerUI: {fileID: 6727210835729311130}
+  ButtonUI: {fileID: 0}
 --- !u!114 &8029543530966735595
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2865,11 +2877,11 @@ MonoBehaviour:
       - m_Target: {fileID: 6628203750608827403}
         m_TargetAssemblyTypeName: AnswerButton, Assembly-CSharp
         m_MethodName: AnswerQuestion
-        m_Mode: 1
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
+          m_IntArgument: 3
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -2887,8 +2899,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AnswerNum: 3
-  QuestionUI: {fileID: 0}
-  AnswerUI: {fileID: 8367018789736626827}
+  QuestionUI: {fileID: 8367018789736626827}
+  GreatAnswerUI: {fileID: 4641648879555602280}
+  GoodAnswerUI: {fileID: 739165310750335895}
+  BadAnswerUI: {fileID: 6727210835729311130}
+  ButtonUI: {fileID: 0}
 --- !u!114 &7258070302341128433
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3298,11 +3313,11 @@ MonoBehaviour:
       - m_Target: {fileID: 6628203751898859488}
         m_TargetAssemblyTypeName: AnswerButton, Assembly-CSharp
         m_MethodName: AnswerQuestion
-        m_Mode: 1
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
+          m_IntArgument: 2
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -3320,8 +3335,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AnswerNum: 2
-  QuestionUI: {fileID: 0}
-  AnswerUI: {fileID: 8367018789736626827}
+  QuestionUI: {fileID: 8367018789736626827}
+  GreatAnswerUI: {fileID: 4641648879555602280}
+  GoodAnswerUI: {fileID: 739165310750335895}
+  BadAnswerUI: {fileID: 6727210835729311130}
+  ButtonUI: {fileID: 0}
 --- !u!114 &1086535662060199450
 MonoBehaviour:
   m_ObjectHideFlags: 0

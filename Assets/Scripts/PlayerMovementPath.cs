@@ -23,14 +23,14 @@ public class PlayerMovementPath : MonoBehaviour
     {
         if (moveAllowed)
         {
-           // if (GameManager.reverse == true)
-           // {
-          //      backwardsMove();
-          //  }
-          //  else
-          //  {
+            if (GameManager.instance.reverse == true)
+            {
+                backwardsMove();
+            }
+            else
+            {
                 Move();
-          //  }
+            }
         }
     }
     private void Move()
@@ -38,7 +38,7 @@ public class PlayerMovementPath : MonoBehaviour
         if (waypointIndex <= waypoints.Length - 1)
         {
             transform.position = Vector2.MoveTowards(transform.position, waypoints[waypointIndex].transform.position, moveSpeed * Time.deltaTime);
-            if (transform.position == waypoints[waypointIndex].transform.position)
+            if (Vector3.Distance(transform.position, waypoints[waypointIndex].transform.position) < 0.01f)
             {
                 waypointIndex += 1;
             }
@@ -48,9 +48,9 @@ public class PlayerMovementPath : MonoBehaviour
     {
         if (waypointIndex >= 0)
         {
-            transform.position = Vector2.MoveTowards(transform.position, waypoints[waypointIndex -1].transform.position, moveSpeed * Time.deltaTime);
+            transform.position = Vector2.MoveTowards(transform.position, waypoints[waypointIndex].transform.position, moveSpeed * Time.deltaTime);
 
-            if (transform.position == waypoints[waypointIndex - 1].transform.position)
+            if (Vector3.Distance(transform.position, waypoints[waypointIndex].transform.position) < 0.01f)
             {
                 waypointIndex -= 1;
             }

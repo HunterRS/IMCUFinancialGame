@@ -6,11 +6,12 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager instance;
     [SerializeField]
-    private static GameObject player;
+    private GameObject player;
 
     public int playerStartWaypoint = 0;
     public int movementAmount = 0;
-    public static bool reverse = false;
+    public bool reverse = false;
+    public bool lastMoveReverse = false;
     public List<QuestionCard> easyQuestionList = new List<QuestionCard>();
     public List<QuestionCard> mediumQuestionList = new List<QuestionCard>();
     public List<QuestionCard> hardQuestionList = new List<QuestionCard>();
@@ -31,24 +32,37 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-       // if (reverse == true)
-       // {
-      //      if (player.GetComponent<PlayerMovementPath>().waypointIndex < playerStartWaypoint - movementAmount)
-      //      {
-      //          player.GetComponent<PlayerMovementPath>().moveAllowed = false;
-      //          playerStartWaypoint = player.GetComponent<PlayerMovementPath>().waypointIndex + 1;
-      //          reverse = false;
-      //      }
-      //  }
+        if (reverse == true)
+        {
+            if (player.GetComponent<PlayerMovementPath>().waypointIndex < playerStartWaypoint - movementAmount)
+            {
+                player.GetComponent<PlayerMovementPath>().moveAllowed = false;
+                lastMoveReverse = true;
+                playerStartWaypoint = player.GetComponent<PlayerMovementPath>().waypointIndex + 1;
+                reverse = false;
+            }
+        }
             if (player.GetComponent<PlayerMovementPath>().waypointIndex > playerStartWaypoint + movementAmount)
             {
                 player.GetComponent<PlayerMovementPath>().moveAllowed = false;
+                lastMoveReverse = false;
                 playerStartWaypoint = player.GetComponent<PlayerMovementPath>().waypointIndex - 1;
             }
     }
 
-    public static void MovePlayer()
+    public void MovePlayer()
     {
+        if (lastMoveReverse != reverse)
+        {
+            if (reverse == true)
+            {
+                player.GetComponent<PlayerMovementPath>().waypointIndex -= 2;
+            }
+            else
+            {
+                player.GetComponent<PlayerMovementPath>().waypointIndex += 2;
+            }
+        }
         player.GetComponent<PlayerMovementPath>().moveAllowed = true;
     }
     public void NextQuestionCard()

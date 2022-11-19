@@ -6,7 +6,10 @@ public class AnswerButton : MonoBehaviour
 {
     [SerializeField] private int AnswerNum;
     [SerializeField] private GameObject QuestionUI;
-    [SerializeField] private GameObject AnswerUI;
+    [SerializeField] private GameObject GreatAnswerUI;
+    [SerializeField] private GameObject GoodAnswerUI;
+    [SerializeField] private GameObject BadAnswerUI;
+    [SerializeField] private GameObject ButtonUI;
     // Start is called before the first frame update
     void Start()
     {
@@ -19,22 +22,125 @@ public class AnswerButton : MonoBehaviour
         
     }
 
-    public void AnswerQuestion()
+    public void AnswerQuestion(int Button)
     {
-        AnswerUI.SetActive(false);
-        QuestionUI.SetActive(true);
+        if (Button == 1)
+        {
+            Debug.Log("Button 1");
+            if (GameManager.instance.currentQuestion.answer1movement == 2)
+            {
+                Debug.Log("Great Answer");
+                GreatAnswerUI.SetActive(true);
+                QuestionUI.SetActive(false);
+            }
+            else if (GameManager.instance.currentQuestion.answer1movement == 1)
+            {
+                Debug.Log("Good Answer");
+                GoodAnswerUI.SetActive(true);
+                QuestionUI.SetActive(false);
+            }
+            else if (GameManager.instance.currentQuestion.answer1movement == -2)
+            {
+                Debug.Log("bad Answer");
+                BadAnswerUI.SetActive(true);
+                QuestionUI.SetActive(false);
+            }
+        }
+        else if (Button == 2)
+        {
+            Debug.Log("Button 2");
+            if (GameManager.instance.currentQuestion.answer2movement == 2)
+            {
+                Debug.Log("Great Answer");
+                GreatAnswerUI.SetActive(true);
+                QuestionUI.SetActive(false);
+            }
+            else if (GameManager.instance.currentQuestion.answer2movement == 1)
+            {
+                Debug.Log("Good Answer");
+                GoodAnswerUI.SetActive(true);
+                QuestionUI.SetActive(false);
+            }
+            else if (GameManager.instance.currentQuestion.answer2movement == -2)
+            {
+                Debug.Log("bad Answer");
+                BadAnswerUI.SetActive(true);
+                QuestionUI.SetActive(false);
+            }
+        }
+        else if (Button == 3)
+        {
+            Debug.Log("Button 3");
+            if (GameManager.instance.currentQuestion.answer3movement == 2)
+            {
+                Debug.Log("Great Answer");
+                GreatAnswerUI.SetActive(true);
+                QuestionUI.SetActive(false);
+            }
+            else if (GameManager.instance.currentQuestion.answer3movement == 1)
+            {
+                Debug.Log("Good Answer");
+                GoodAnswerUI.SetActive(true);
+                QuestionUI.SetActive(false);
+            }
+            else if (GameManager.instance.currentQuestion.answer3movement == -2)
+            {
+                Debug.Log("bad Answer");
+                BadAnswerUI.SetActive(true);
+                QuestionUI.SetActive(false);
+            }
+        }
     }
-    public void MovePlayer()
+    public void MovePlayerPhase1(int Button)
     {
-        GameManager.instance.movementAmount = 3;
-        GameManager.MovePlayer();
+        if (Button == 1)
+        {
+            if (GameManager.instance.currentQuestion.answer1movement > 0)
+            {
+                MovePlayer(GameManager.instance.currentQuestion.answer1movement);
+            }
+            else
+            {
+                MovePlayerBackWards(Mathf.Abs(GameManager.instance.currentQuestion.answer1movement));
+            }
+        }
+        else if (Button == 2)
+        {
+            if (GameManager.instance.currentQuestion.answer2movement > 0)
+            {
+                MovePlayer(GameManager.instance.currentQuestion.answer2movement);
+            }
+            else
+            {
+                MovePlayerBackWards(Mathf.Abs(GameManager.instance.currentQuestion.answer2movement));
+            }
+        }
+        else if (Button == 3)
+        {
+            if (GameManager.instance.currentQuestion.answer3movement > 0)
+            {
+                MovePlayer(GameManager.instance.currentQuestion.answer3movement);
+            }
+            else
+            {
+                MovePlayerBackWards(Mathf.Abs(GameManager.instance.currentQuestion.answer3movement));
+            }
+        }
+        ButtonUI.SetActive(true);
+        QuestionUI.SetActive(false);
+    }
+
+    public void MovePlayer(int move)
+    {
+        GameManager.instance.movementAmount = move;
+        GameManager.instance.MovePlayer();
         GameManager.instance.QuestionWrong();
     }
-    public void MovePlayerBackWards()
+    public void MovePlayerBackWards(int move)
     {
-        GameManager.instance.movementAmount = 2;
-        GameManager.reverse = true;
-        GameManager.MovePlayer();
+        GameManager.instance.movementAmount = move;
+        GameManager.instance.reverse = true;
+        GameManager.instance.MovePlayer();
         GameManager.instance.QuestionWrong();
     }
 }

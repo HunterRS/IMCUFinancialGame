@@ -4725,7 +4725,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1791399978
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4884,8 +4884,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81c9511b77be25340a6e4169c6472f39, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  player: {fileID: 0}
   playerStartWaypoint: 0
   movementAmount: 0
+  reverse: 0
+  lastMoveReverse: 0
   easyQuestionList:
   - {fileID: 11400000, guid: 586f9d16a9e3e9245a00dc0a2268023f, type: 2}
   - {fileID: 11400000, guid: 69d9dda3c288d0e4191576ce769e60eb, type: 2}
@@ -5666,7 +5669,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &2023816515
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6240,13 +6243,13 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1089579113}
     - target: {fileID: 3755527447864242487, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: ButtonUI
+      value: 
+      objectReference: {fileID: 1898674832}
+    - target: {fileID: 3755527447864242487, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: AnswerNum
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 3755527447864242487, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: QuestionUI
-      value: 
-      objectReference: {fileID: 1898674832}
     - target: {fileID: 3896969996717923411, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_Colors.m_NormalColor.b
       value: 0.33333334
@@ -6292,20 +6295,20 @@ PrefabInstance:
       value: 0.1254902
       objectReference: {fileID: 0}
     - target: {fileID: 4604589025544211919, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: ButtonUI
+      value: 
+      objectReference: {fileID: 1898674832}
+    - target: {fileID: 4604589025544211919, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: AnswerNum
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 4604589025544211919, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: QuestionUI
-      value: 
-      objectReference: {fileID: 1898674832}
     - target: {fileID: 4641648879555602280, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_Name
       value: Correct
       objectReference: {fileID: 0}
     - target: {fileID: 4641648879555602280, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4946972034165367237, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -6422,13 +6425,13 @@ PrefabInstance:
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6063200801262460210, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: ButtonUI
+      value: 
+      objectReference: {fileID: 1898674832}
+    - target: {fileID: 6063200801262460210, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: AnswerNum
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 6063200801262460210, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: QuestionUI
-      value: 
-      objectReference: {fileID: 1898674832}
     - target: {fileID: 6082236463949123538, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_Name
       value: Move Back
@@ -6509,6 +6512,14 @@ PrefabInstance:
       propertyPath: m_Colors.m_HighlightedColor.r
       value: 0.77254903
       objectReference: {fileID: 0}
+    - target: {fileID: 6628203750601010050, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6628203750601010050, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6628203750601010051, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_SizeDelta.y
       value: 30
@@ -6521,6 +6532,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6628203750601010175, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: ButtonUI
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6628203750601010175, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: QuestionUI
+      value: 
+      objectReference: {fileID: 3450183323123736628}
+    - target: {fileID: 6628203750601010175, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: GoodAnswerUI
+      value: 
+      objectReference: {fileID: 215412126}
+    - target: {fileID: 6628203750601010175, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: GreatAnswerUI
+      value: 
+      objectReference: {fileID: 1987898475764858327}
     - target: {fileID: 6628203750608827403, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: QuestionUI
       value: 
@@ -6732,7 +6759,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6628203752174349769, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6697572403489425845, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
