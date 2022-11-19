@@ -15,21 +15,26 @@ MonoBehaviour:
   title: Scenario
   question: "You decide you want to take a vacation to the beaches in Florida for
     a weekend. You need to find accommodations in Florida. Option one is a motel
-    just east of  Miami at $175 a night with a 3-star rating. Option two is a Grand
+    just east of Miami at $175 a night with a 3-star rating. Option two is a Grand
     Hotel at $250 a night with a 5-star rating. The final option is a rental cabin
-    house outside of  Miami, at $164 a night. While it is the lowest costing option, 
-    you\u2019ll have to pay for gas to drive into the city every time. Which should
+    house outside of Miami, at $164 a night. While it is the lowest costing option, 
+    you\u2019ll have to pay for gas to drive into the city every time. Which would
     you choose?"
   questionfontsize: 7.6
-  answer1: 
-  answer2: 
-  answer3: 
-  answer1response: 
-  answer1fontsize: 0
-  answer1movement: 0
-  answer2response: 
-  answer2fontsize: 0
-  answer2movement: 0
-  answer3response: 
-  answer3fontsize: 0
-  answer3movement: 0
+  answer1: Motel
+  answer2: Grand Hotel
+  answer3: Rental Cabin
+  answer1response: 'You had a nice vacation, but had some hiccups on the way. '
+  answer1fontsize: 8
+  answer1movement: 1
+  answer2response: A solid choice, as it's services, security, and accommodations
+    making you have a wonderful vacation.
+  answer2fontsize: 8
+  answer2movement: 1
+  answer3response: Another solid choice, you have a good vacation and enjoyed the
+    nature of the area.
+  answer3fontsize: 8
+  answer3movement: 1
+  Answer1Right: 2
+  Answer2Right: 2
+  Answer3Right: 2
