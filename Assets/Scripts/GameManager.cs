@@ -69,6 +69,13 @@ public class GameManager : MonoBehaviour
     {
         currentQuestion = easyQuestionList[Random.Range(0, easyQuestionList.Count - 1)];
         easyQuestionList.Remove(currentQuestion);
+        //if (mediumQuestionList.Count == 0)
+        //{
+        //    mediumQuestionList.Add(wrongQuestionList[0]);
+        //    wrongQuestionList.Clear();
+        //}
+        //currentQuestion = mediumQuestionList[0];
+        //mediumQuestionList.Remove(currentQuestion);
     }
     public void QuestionWrong()
     {
