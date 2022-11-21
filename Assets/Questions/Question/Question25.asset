@@ -18,8 +18,11 @@ MonoBehaviour:
     will allow you to borrow.  '
   questionfontsize: 12
   answer1: True
+  answer1buttonfontsize: 15
   answer2: False
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: 'Keeping your balance under 30% of your total credit limit can
     help you build better credit. Once you reach 30%, your credit score will drop. '
   answer1fontsize: 11

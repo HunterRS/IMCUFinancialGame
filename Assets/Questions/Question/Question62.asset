@@ -21,8 +21,11 @@ MonoBehaviour:
     do?  "
   questionfontsize: 8
   answer1: Go to Customer Service to match the price.
+  answer1buttonfontsize: 10
   answer2: Get the game now for twenty-five dollars
+  answer2buttonfontsize: 10
   answer3: Order board game online.
+  answer3buttonfontsize: 15
   answer1response: "Most stores actually do match a price, but not always. It\u2019s
     worth asking the store."
   answer1fontsize: 13

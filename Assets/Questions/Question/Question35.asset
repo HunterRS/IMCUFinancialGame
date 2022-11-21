@@ -19,8 +19,11 @@ MonoBehaviour:
     you invest in these companies? '
   questionfontsize: 9.5
   answer1: A quater of your money on each company
+  answer1buttonfontsize: 10
   answer2: A half to two companies
+  answer2buttonfontsize: 15
   answer3: Keep money to yourselve
+  answer3buttonfontsize: 15
   answer1response: "Investing is a huge risk taker and you divided it up into a quarter
     each. It\u2019s a good idea to do this as what if two companies start to fall
     off? You still have two other companies that are growing and don\u2019t need

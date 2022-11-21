@@ -18,8 +18,11 @@ MonoBehaviour:
     Do you go to the campus bookstore and buy all your new books?"
   questionfontsize: 10
   answer1: Go to Campus bookstore
+  answer1buttonfontsize: 14
   answer2: Don't go to Campus bookstore
+  answer2buttonfontsize: 14
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: You decide you want to be prepared and buy all of your textbooks
     next from the bookstore. Unfortunately, they cost you hundreds of dollars, and
     you discover later there were more cost-effective alternatives.

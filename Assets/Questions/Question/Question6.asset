@@ -21,8 +21,11 @@ MonoBehaviour:
     credit card, or try Refinancing the credit card? "
   questionfontsize: 8
   answer1: Pay the Debt
+  answer1buttonfontsize: 15
   answer2: Open another Credit Card
+  answer2buttonfontsize: 15
   answer3: Refinance with Jumpstart Card from IMCU
+  answer3buttonfontsize: 10
   answer1response: "You decide it\u2019s best to hold off and pay the debt. Because
     you did, you learned that going over budget with a credit card is dangerous.
     You become more responsible with your credit card. "

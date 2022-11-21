@@ -17,8 +17,11 @@ MonoBehaviour:
     is missing! What do you do?  '
   questionfontsize: 15
   answer1: Change settings in Mobile Banking
+  answer1buttonfontsize: 13
   answer2: Keep Looking
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: You lost your debit card so you go into the IMCU mobile app, in
     Card controls and shut off your debit card instantly. Now you have deactivated
     your old card and called the branch to issue you a new one. Now whoever finds

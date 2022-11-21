@@ -19,8 +19,11 @@ MonoBehaviour:
     plans to choose from, there is a difference between the two. What is that difference?  "
   questionfontsize: 9
   answer1: 401k is emplyer-maintaned retirement, while Simple IRA is individually
+  answer1buttonfontsize: 10
   answer2: 410k is maintained by individual, while Simple IRA is employer-maintained
+  answer2buttonfontsize: 10
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: 'A 401k is an employer-maintained retirement with investments
     chosen by the employer. Still, it has higher contribution limits, while the Simple
     IRA is maintained by the individual giving the freedom to choose preferred investments,

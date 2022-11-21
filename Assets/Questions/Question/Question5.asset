@@ -20,8 +20,11 @@ MonoBehaviour:
     using the 50/30/20 budget rule or continue to spend money aimlessly? "
   questionfontsize: 8.5
   answer1: Use 50/30/20 Rule
+  answer1buttonfontsize: 15
   answer2: Acknowledge Spending Habits
+  answer2buttonfontsize: 13
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: "You\u2019re finding it much easier to spend and save money in
     the areas you were previously having trouble with. As a result, you are seeing
     a higher increase in savings and can have enough for your needs and wants. "

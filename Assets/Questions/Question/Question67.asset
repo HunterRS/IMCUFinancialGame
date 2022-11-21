@@ -17,8 +17,11 @@ MonoBehaviour:
     website.
   questionfontsize: 16
   answer1: True
+  answer1buttonfontsize: 15
   answer2: False
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: "People tend to buy rare and valuable items in bulk to increase
     the demand for the items, therefore allowing them to raise the price to VERY
     high amounts. These people are referred to as scalpers. You should never buy

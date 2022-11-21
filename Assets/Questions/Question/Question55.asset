@@ -19,8 +19,11 @@ MonoBehaviour:
     you choose? '
   questionfontsize: 10
   answer1: Pay $9.99/ month for Cobalt?
+  answer1buttonfontsize: 14
   answer2: Find digital codes online
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: It is an okay plan to go with, but consider paying each month
     for this amount and including tax, you would be paying way more than what you
     would in the end.

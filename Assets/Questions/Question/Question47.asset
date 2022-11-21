@@ -18,8 +18,11 @@ MonoBehaviour:
     would you do if you were in this situation? "
   questionfontsize: 12
   answer1: Get business going
+  answer1buttonfontsize: 15
   answer2: Save up first, then get business going
+  answer2buttonfontsize: 11
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: Sometimes to make money, you have to spend money.
   answer1fontsize: 15
   answer1movement: 2

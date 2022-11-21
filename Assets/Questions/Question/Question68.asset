@@ -16,8 +16,11 @@ MonoBehaviour:
   question: If the demand is higher for an item, the price increases.
   questionfontsize: 15
   answer1: True
+  answer1buttonfontsize: 15
   answer2: False
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: As items on the market become harder to get, the price for the
     item online will typically rise.
   answer1fontsize: 12

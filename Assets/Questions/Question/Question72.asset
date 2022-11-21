@@ -17,8 +17,11 @@ MonoBehaviour:
     and make sure to not overdraft.
   questionfontsize: 14
   answer1: True
+  answer1buttonfontsize: 15
   answer2: False
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: "When you overdraft, you typically have a fee associated with
     having to take money out of your savings account. It\u2019s best to make sure
     before ANY purchase, that you have money in your checking account."

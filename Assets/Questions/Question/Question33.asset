@@ -18,8 +18,11 @@ MonoBehaviour:
     the funds you have available?
   questionfontsize: 12
   answer1: Just savings
+  answer1buttonfontsize: 15
   answer2: Set up both
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: So close! It's actually recommended to make both accounts.
   answer1fontsize: 14
   answer1movement: 1

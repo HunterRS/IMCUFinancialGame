@@ -21,8 +21,11 @@ MonoBehaviour:
     You could also wait to see if some other options open up. Which do you choose? '
   questionfontsize: 7.5
   answer1: Cheaper Neighborhood
+  answer1buttonfontsize: 15
   answer2: Safer Neighborhood
+  answer2buttonfontsize: 15
   answer3: Wait for a new option
+  answer3buttonfontsize: 15
   answer1response: Things go well for a while at school, as gas costs are low each
     week. However, when you come back to your house one day, you find out your house
     has been broken into and many items were stolen! You now have to replace all

@@ -18,8 +18,11 @@ MonoBehaviour:
     next steps?
   questionfontsize: 12
   answer1: Get another job
+  answer1buttonfontsize: 15
   answer2: Use money out of savings accout
+  answer2buttonfontsize: 13
   answer3: Put bills on credit card
+  answer3buttonfontsize: 15
   answer1response: Good, now you can replace some of your income that you make there!
   answer1fontsize: 15
   answer1movement: 2

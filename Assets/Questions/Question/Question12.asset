@@ -19,8 +19,11 @@ MonoBehaviour:
     $125! Do you buy the item from them? '
   questionfontsize: 9.5
   answer1: Buy it
+  answer1buttonfontsize: 15
   answer2: Don't buy it
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: 'You bought the item, but the item never arrived! Looking at your
     transaction history you noticed that the charger charged double the price. You
     lost double the money in your checking account. '

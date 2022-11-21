@@ -17,8 +17,11 @@ MonoBehaviour:
     on how you spend are your own choice."
   questionfontsize: 14
   answer1: True
+  answer1buttonfontsize: 15
   answer2: False
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: "Always keep in mind what you have in your checking and savings
     accounts. Too much spending with your checking, and you\u2019ll have to pay extra
     to the bank for transferring money out of your savings account. And spending

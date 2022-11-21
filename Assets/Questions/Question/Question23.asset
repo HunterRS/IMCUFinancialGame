@@ -18,8 +18,11 @@ MonoBehaviour:
     go into nonessentials, and ___% should go into future goals."
   questionfontsize: 10.5
   answer1: 50, 30, 20
+  answer1buttonfontsize: 15
   answer2: 20, 30, 50
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: '50% goes into essentials, 30% goes into nonessentials, and 20%
     goes into future goals '
   answer1fontsize: 12.6

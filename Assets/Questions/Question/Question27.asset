@@ -17,8 +17,11 @@ MonoBehaviour:
     call your bank immediately and report fraud?  '
   questionfontsize: 14
   answer1: Report the fraud immediately
+  answer1buttonfontsize: 14
   answer2: Just Wait
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: 'This will increase the chances of the charges being dropped. '
   answer1fontsize: 14
   answer1movement: 2

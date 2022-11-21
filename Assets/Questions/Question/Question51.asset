@@ -23,8 +23,11 @@ MonoBehaviour:
     should you choose?"
   questionfontsize: 7
   answer1: Go to Advanced designer
+  answer1buttonfontsize: 15
   answer2: Go to Character designer
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: "You go to the \u201Cadvanced,\u201D designer and have a meeting
     with him to discuss the situation. However, it turns out that his main expertise
     is designing logos and such. He\u2019ll help you out but decides to charge a

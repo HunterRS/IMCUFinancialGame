@@ -16,8 +16,11 @@ MonoBehaviour:
   question: 80% is using your knowledge and 20% is the behavior in personal finance
   questionfontsize: 15
   answer1: True
+  answer1buttonfontsize: 15
   answer2: False
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: "20% should be in your knowledge and 80% should be in your behavior.
     Most of it matters about what you want to do with your money and how you will
     be spending it. Knowledge is helpful, but it isn\u2019t the deciding factor about

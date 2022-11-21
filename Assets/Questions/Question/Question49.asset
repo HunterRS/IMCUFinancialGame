@@ -18,8 +18,11 @@ MonoBehaviour:
     which is around $20,000. How would you go about financing the car? '
   questionfontsize: 11
   answer1: Through dealership
+  answer1buttonfontsize: 15
   answer2: Online or IMCU branch
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: 'Finance the vehicle through the dealership, which could result
     in a higher rate and more expensive warranties. '
   answer1fontsize: 11

@@ -20,8 +20,11 @@ MonoBehaviour:
     the console. What would you choose?
   questionfontsize: 8
   answer1: Buy new console
+  answer1buttonfontsize: 15
   answer2: Buy clean used one
+  answer2buttonfontsize: 15
   answer3: Rely on Friend
+  answer3buttonfontsize: 15
   answer1response: 'It works perfectly and lasts an incredibly long time before needing
     any repairs. '
   answer1fontsize: 14

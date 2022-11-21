@@ -20,8 +20,11 @@ MonoBehaviour:
     store. This only costs $60. What would you choose?"
   questionfontsize: 9
   answer1: IMCU's online service
+  answer1buttonfontsize: 15
   answer2: Buy ticket at event
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: You choose a very expensive ticket but still got the front-row
     seats. The play was also so packed, meaning that it was sold out!
   answer1fontsize: 10

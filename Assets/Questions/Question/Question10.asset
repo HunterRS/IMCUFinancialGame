@@ -18,8 +18,11 @@ MonoBehaviour:
     or wait and see? "
   questionfontsize: 12
   answer1: Research
+  answer1buttonfontsize: 15
   answer2: Only Apply to Ones I like
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: 'You apply for as many scholarships as you can, at the university-wide
     and department level, as well as scholarships outside of college. Many of the
     scholarships received few applications, and you can earn thousands of dollars

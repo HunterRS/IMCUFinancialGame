@@ -24,8 +24,11 @@ MonoBehaviour:
     from? "
   questionfontsize: 6.8
   answer1: General Grocery Store
+  answer1buttonfontsize: 15
   answer2: Office Supplies Store
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: 'You go overboard with the purchases for the office, furniture,
     office supplies, and other supplies. You set up the office and begin to work
     in it. However, only 2 months after, there is a clear, noticeable sign of wear

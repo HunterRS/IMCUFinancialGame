@@ -18,8 +18,11 @@ MonoBehaviour:
     for it?  "
   questionfontsize: 12
   answer1: Use credit/debit cards
+  answer1buttonfontsize: 15
   answer2: Use an HSA card
+  answer2buttonfontsize: 15
   answer3: Don't pay for them.
+  answer3buttonfontsize: 15
   answer1response: "Most people would do this and it\u2019s reliable, but there is
     a better option as these include tax while paying/depositing money."
   answer1fontsize: 11

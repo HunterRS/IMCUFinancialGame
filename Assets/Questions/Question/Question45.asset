@@ -17,8 +17,11 @@ MonoBehaviour:
     and what else? '
   questionfontsize: 15
   answer1: Homeowners or Renters
+  answer1buttonfontsize: 15
   answer2: Recreational Vehicle
+  answer2buttonfontsize: 15
   answer3: Marine
+  answer3buttonfontsize: 15
   answer1response: 'Your house may be damaged from internal or external causes. It
     helps provide a safety net to protect your property and belongings. '
   answer1fontsize: 10

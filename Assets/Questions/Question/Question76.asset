@@ -17,8 +17,11 @@ MonoBehaviour:
     so many factors going into a situation."
   questionfontsize: 15
   answer1: True
+  answer1buttonfontsize: 15
   answer2: False
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: "There\u2019s rarely ever a clear answer to what\u2019s the best
     way to spend your money. Sometimes, the cheapest option is best. Othertimes,
     the highest price is what\u2019s best. Making these decisions can be incredibly

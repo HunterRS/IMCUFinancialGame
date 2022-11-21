@@ -18,8 +18,11 @@ MonoBehaviour:
     route for getting a car? "
   questionfontsize: 12
   answer1: Cash
+  answer1buttonfontsize: 15
   answer2: Finance
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: You have all of your cash in hand to purchase a car. No monthly
     payments and fees. Great! But you missed out on the discounts, financial deals,
     and a return policy, you got to be careful with the car.

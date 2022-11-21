@@ -23,8 +23,11 @@ MonoBehaviour:
     you do? '
   questionfontsize: 7
   answer1: Stay on the phone with caller
+  answer1buttonfontsize: 14
   answer2: Hang up and call your bank
+  answer2buttonfontsize: 14
   answer3: Login to your account on your phone
+  answer3buttonfontsize: 12
   answer1response: You follow the rules of what the caller does, but all of a sudden
     you noticed you got scammed and accidentally sent them one thousand dollars.
   answer1fontsize: 9.8

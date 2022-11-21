@@ -16,8 +16,11 @@ MonoBehaviour:
   question: Around 64% of Americans have some type of debt.
   questionfontsize: 15
   answer1: True
+  answer1buttonfontsize: 15
   answer2: False
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: According to the United States Census Bureau, around 77% of Americans
     have some type of debt. If you know someone that is having trouble with debt,
     please check out the IMCU website or go to the Indiana Debt Relief site.

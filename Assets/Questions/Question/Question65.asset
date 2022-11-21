@@ -17,8 +17,11 @@ MonoBehaviour:
     etc. but what isn\u2019t considered an asset? "
   questionfontsize: 14
   answer1: Investments
+  answer1buttonfontsize: 15
   answer2: Furniture
+  answer2buttonfontsize: 15
   answer3: Customer Desposits
+  answer3buttonfontsize: 15
   answer1response: 'Yes, investments is part of an asset. '
   answer1fontsize: 15
   answer1movement: -2

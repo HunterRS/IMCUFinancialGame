@@ -22,8 +22,11 @@ MonoBehaviour:
     money?"
   questionfontsize: 7.5
   answer1: Pay off yourself
+  answer1buttonfontsize: 15
   answer2: Talk with Consultant
+  answer2buttonfontsize: 15
   answer3: Pay off with Loan Shark
+  answer3buttonfontsize: 15
   answer1response: "You decided to pay off the credit card debt yourself. It takes
     you 36 months to do so, but you are no longer in credit card debt and don\u2019t
     owe money to anyone else.  "

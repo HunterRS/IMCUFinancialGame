@@ -18,8 +18,11 @@ MonoBehaviour:
     put into your emergency fund?  '
   questionfontsize: 11
   answer1: $1000
+  answer1buttonfontsize: 15
   answer2: $500
+  answer2buttonfontsize: 15
   answer3: Nothing
+  answer3buttonfontsize: 15
   answer1response: "An emergency fund will help you with minor emergencies and small
     expenses. But also help something you\u2019re saving towards."
   answer1fontsize: 10.6

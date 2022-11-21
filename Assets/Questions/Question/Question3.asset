@@ -21,8 +21,11 @@ MonoBehaviour:
     cheap route?  "
   questionfontsize: 8
   answer1: Cut Down the Excess Products
+  answer1buttonfontsize: 13
   answer2: Buy Cheap Products
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: 'You decide to keep buying the expensive products but only the
     products you need. You realize that the excess items were the cause of overspending
     and can start saving again. '

@@ -17,8 +17,11 @@ MonoBehaviour:
     to increase my credit score faster!  "
   questionfontsize: 15
   answer1: True
+  answer1buttonfontsize: 15
   answer2: False
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: 'Starting with multiple credit cards can hurt your credit score,
     especially if you fail to keep track of them. Multiple inquiries into your credit
     can also hurt your score. '

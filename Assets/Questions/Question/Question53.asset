@@ -16,8 +16,11 @@ MonoBehaviour:
   question: Do you need a Will?
   questionfontsize: 15
   answer1: True
+  answer1buttonfontsize: 15
   answer2: False
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: "Getting a Will isn\u2019t fun, but it helps you with becoming
     a responsible adult. Not signing a Will will forfeit the money that you have
     earned over to the government to decide what happens with your assets instead

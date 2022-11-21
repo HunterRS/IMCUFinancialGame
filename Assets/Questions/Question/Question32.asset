@@ -17,8 +17,11 @@ MonoBehaviour:
     Do you take advantage of the opportunity? '
   questionfontsize: 14
   answer1: Signup
+  answer1buttonfontsize: 15
   answer2: Don't Signup
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: Signup for the program and have a percentage income to put into
     the investment account.
   answer1fontsize: 12

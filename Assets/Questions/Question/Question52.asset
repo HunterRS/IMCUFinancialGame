@@ -24,8 +24,11 @@ MonoBehaviour:
     if damaged. What do you choose?"
   questionfontsize: 7
   answer1: Full plan
+  answer1buttonfontsize: 15
   answer2: Second Plan
+  answer2buttonfontsize: 15
   answer3: Standard Plan
+  answer3buttonfontsize: 15
   answer1response: "You pay for all the extra protection and continue. Things go
     well for a few months, but then, your phone drops out of the window while driving.
     You think you are covered for your lost phone, but as it turns out, the \u201Clost,\u201D

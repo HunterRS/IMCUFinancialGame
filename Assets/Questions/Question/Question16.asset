@@ -17,8 +17,11 @@ MonoBehaviour:
     authentication? '
   questionfontsize: 15
   answer1: Use two-factor authentication
+  answer1buttonfontsize: 13
   answer2: Go without two-factor authentication
+  answer2buttonfontsize: 11
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: 'Congrats! The additional protection helps protect your bank account
     even if your username and password are compromised.  '
   answer1fontsize: 10.7

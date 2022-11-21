@@ -19,8 +19,11 @@ MonoBehaviour:
     credit card that is owed. What is your net income? "
   questionfontsize: 9.5
   answer1: $1470
+  answer1buttonfontsize: 15
   answer2: $1530
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: You have correctly calculated your net income.
   answer1fontsize: 16.5
   answer1movement: 2

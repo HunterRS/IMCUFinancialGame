@@ -19,8 +19,11 @@ MonoBehaviour:
     or Bank-B which is farther away but closer to your hometown."
   questionfontsize: 9
   answer1: Closer bank
+  answer1buttonfontsize: 15
   answer2: Furthest Bank
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: 'You open a checking account with a closer bank: You are more
     likely to have access to ATMs operated by your bank, and thus you avoid ATM fees. '
   answer1fontsize: 11

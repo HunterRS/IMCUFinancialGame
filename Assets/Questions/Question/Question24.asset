@@ -17,8 +17,11 @@ MonoBehaviour:
     can just pay it off next month!  "
   questionfontsize: 15
   answer1: True
+  answer1buttonfontsize: 15
   answer2: False
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: "Late payments can stay on your credit reports for 7\xBD years
     (NerdWallet). This may impact your ability to buy a house or lease a car in the
     future. "

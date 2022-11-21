@@ -9,8 +9,11 @@ public class QuestionCard : ScriptableObject
     public string question;
     public float questionfontsize;
     public string answer1;
+    public float answer1buttonfontsize;
     public string answer2;
+    public float answer2buttonfontsize;
     public string answer3;
+    public float answer3buttonfontsize;
     public string answer1response;
     public float answer1fontsize;
     public int answer1movement;

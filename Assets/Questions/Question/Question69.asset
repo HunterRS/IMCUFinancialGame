@@ -20,8 +20,11 @@ MonoBehaviour:
     but has a 4.5-star rating. Which should you choose? '
   questionfontsize: 9
   answer1: Cheap Plumbler
+  answer1buttonfontsize: 15
   answer2: Expensive Plumber
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: "He comes in and fixes the leak in just 3 hours, costing $210
     total. You\u2019re happy with the results at first. But then, it turns out he
     missed a few places. The pipes burst, and you now have to call him again!"

@@ -22,8 +22,11 @@ MonoBehaviour:
     let them teach you? '
   questionfontsize: 7.5
   answer1: Give them your cash
+  answer1buttonfontsize: 15
   answer2: Don't give them you cash, but still ask for his/her help
+  answer2buttonfontsize: 10
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: You gave them your cash and they immediately ran away faster than
     you can run. You wonder why you thought it was a good idea to give a stranger
     $200.

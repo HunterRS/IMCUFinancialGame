@@ -16,8 +16,11 @@ MonoBehaviour:
   question: Having an emergency fund isn't necessary!
   questionfontsize: 15
   answer1: True
+  answer1buttonfontsize: 15
   answer2: False
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: "It\u2019s important to have an emergency fund because it covers
     you in the event of some unexpected expense/financial blow, like losing your
     job. It also prevents you from going into debt (source)"

@@ -21,8 +21,11 @@ MonoBehaviour:
     him by mobile. What should you do? "
   questionfontsize: 8
   answer1: Use debit card and ask for cash back
+  answer1buttonfontsize: 11
   answer2: Pay them on mobile
+  answer2buttonfontsize: 15
   answer3: Go to ATM across street
+  answer3buttonfontsize: 15
   answer1response: "When using a debit card you always can decline to get cash back,
     but it\u2019s very easy to use and get the cash out right away. "
   answer1fontsize: 12

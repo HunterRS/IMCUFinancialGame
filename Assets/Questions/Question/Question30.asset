@@ -19,8 +19,11 @@ MonoBehaviour:
     are far better. Which shop should you take it to? '
   questionfontsize: 10
   answer1: Eastside
+  answer1buttonfontsize: 15
   answer2: Westside
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: 'The repairs are completed quite quickly and your car is serviced
     and returned to you in just 2 days. However, not long after that, your car breaks
     down again, and you take it back to that shop. '

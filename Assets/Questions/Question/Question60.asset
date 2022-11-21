@@ -25,8 +25,11 @@ MonoBehaviour:
     Which would you choose? '
   questionfontsize: 6
   answer1: Library
+  answer1buttonfontsize: 15
   answer2: Hotel room
+  answer2buttonfontsize: 15
   answer3: Building
+  answer3buttonfontsize: 15
   answer1response: The meeting had to be extended by 2 hours inside, meaning your
     total was $246.80. But was nonetheless much cheaper than the hotel. Unfortunately,
     the info got leaked out during the meeting, and you find some very sensitive

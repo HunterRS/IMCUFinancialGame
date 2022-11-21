@@ -18,8 +18,11 @@ MonoBehaviour:
     going electronically, do you keep the paper checks and use them?
   questionfontsize: 11
   answer1: Yes, keep them
+  answer1buttonfontsize: 15
   answer2: No, go electronic
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: 'Some stores do only accept cash, so a check would work for these
     stores. The checks are technically less costly compared to Money orders. '
   answer1fontsize: 10

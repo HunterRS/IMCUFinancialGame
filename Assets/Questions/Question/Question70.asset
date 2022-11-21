@@ -21,8 +21,11 @@ MonoBehaviour:
     $110 now, but there\u2019s no telling where you will sit. Which should you choose?"
   questionfontsize: 8
   answer1: Buy Regular Ticket
+  answer1buttonfontsize: 15
   answer2: Gamble the Prices online
+  answer2buttonfontsize: 15
   answer3: Rely on friend
+  answer3buttonfontsize: 15
   answer1response: You get a seat in the main section in the middle of the stadium.
     You get a get view of all the action in the game and find yourself satisfied
     with your choice

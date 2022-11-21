@@ -18,8 +18,11 @@ MonoBehaviour:
     pay him back later. Do you accept the deal? '
   questionfontsize: 11
   answer1: Accept
+  answer1buttonfontsize: 15
   answer2: Deny
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: 'You accept the deal. The man loans you $50. You then buy the
     item that you wanted. However, you now lost $500 all of a sudden. You just got
     scammed! '

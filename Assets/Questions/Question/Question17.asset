@@ -17,8 +17,11 @@ MonoBehaviour:
     organized.
   questionfontsize: 15
   answer1: True
+  answer1buttonfontsize: 15
   answer2: False
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: 'To stay organized it''s better to set your funds into separate
     accounts for savings and spending. If you put some extra funds away in your savings
     account you can earn dividends on top of it. '

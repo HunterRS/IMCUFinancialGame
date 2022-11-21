@@ -16,8 +16,11 @@ MonoBehaviour:
   question: You want to use your debit card to pay directly from your savings account.
   questionfontsize: 15
   answer1: True
+  answer1buttonfontsize: 15
   answer2: False
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: 'Your savings account cannot be used to pay for transactions.
     You must move the appropriate amount of funds to your checking account first
     to be able to pay. '

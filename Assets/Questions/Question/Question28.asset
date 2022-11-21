@@ -17,8 +17,11 @@ MonoBehaviour:
     a bank or a credit union? '
   questionfontsize: 15
   answer1: Bank
+  answer1buttonfontsize: 15
   answer2: Credit Union
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: Credit unions are member-owned, and tend to have lower fees and
     better interest rates on savings accounts or loans.
   answer1fontsize: 11

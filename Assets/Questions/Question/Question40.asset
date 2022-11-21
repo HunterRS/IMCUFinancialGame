@@ -18,8 +18,11 @@ MonoBehaviour:
     money. '
   questionfontsize: 12
   answer1: True
+  answer1buttonfontsize: 15
   answer2: False
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: 'A simple rule to teach your kids about how to deal with money
     is to work to earn money, give some money to some kind of charity, spend in moderation,
     and save the rest. As this will teach your kids the basics of money when they

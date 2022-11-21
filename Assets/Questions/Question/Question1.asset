@@ -21,8 +21,11 @@ MonoBehaviour:
     loan shark and pay the debt off right away?"
   questionfontsize: 8
   answer1: Wait for the Bank
+  answer1buttonfontsize: 15
   answer2: Take the Loan Shark Money
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: 'You waited for the loan from the bank and were able to refinance
     the debt from a 25% interest rate to a 12 % loan getting it down to affordable
     monthly payments. '

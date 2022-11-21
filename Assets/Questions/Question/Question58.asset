@@ -16,8 +16,11 @@ MonoBehaviour:
   question: 'What is the percentage of Americans that live paycheck to paycheck? '
   questionfontsize: 18
   answer1: 48%
+  answer1buttonfontsize: 15
   answer2: 32%
+  answer2buttonfontsize: 15
   answer3: 54%
+  answer3buttonfontsize: 15
   answer1response: 'Close but not quite. '
   answer1fontsize: 15
   answer1movement: 1

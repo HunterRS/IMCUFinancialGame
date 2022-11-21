@@ -18,8 +18,11 @@ MonoBehaviour:
     to eat out a few times a month, or 2-4 times a week? "
   questionfontsize: 11
   answer1: Budget Time
+  answer1buttonfontsize: 15
   answer2: Eat Out
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: You budget time to eat out a few times a month but spend most
     of your money on affordable groceries or with your school meal plan.
   answer1fontsize: 11

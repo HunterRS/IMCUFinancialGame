@@ -22,8 +22,11 @@ MonoBehaviour:
     you choose?"
   questionfontsize: 7.6
   answer1: Motel
+  answer1buttonfontsize: 15
   answer2: Grand Hotel
+  answer2buttonfontsize: 15
   answer3: Rental Cabin
+  answer3buttonfontsize: 15
   answer1response: 'You had a nice vacation, but had some hiccups on the way. '
   answer1fontsize: 8
   answer1movement: 1

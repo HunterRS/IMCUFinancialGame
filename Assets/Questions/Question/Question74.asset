@@ -17,8 +17,11 @@ MonoBehaviour:
     are comparing goods. "
   questionfontsize: 15
   answer1: True
+  answer1buttonfontsize: 15
   answer2: False
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: "While buying the cheapest option might save money now, there\u2019s
     always a chance that you might have to spend more to replace the cheaper option
     after it breaks due to the quality of the product. Think very carefully when

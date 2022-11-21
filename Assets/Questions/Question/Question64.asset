@@ -16,8 +16,11 @@ MonoBehaviour:
   question: 'You can freeze both your debit card and credit card. '
   questionfontsize: 15
   answer1: True
+  answer1buttonfontsize: 15
   answer2: False
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: 'Most freezes can be done with your bank''s mobile app, always
     use this when you lose either one of the cards.  '
   answer1fontsize: 12

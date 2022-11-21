@@ -17,8 +17,11 @@ MonoBehaviour:
     subtract it from the Total Expenses.
   questionfontsize: 15
   answer1: True
+  answer1buttonfontsize: 15
   answer2: False
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: "This is a way to determine Net Income, but also, if you own a
     business it\u2019s slightly different. The Revenue would then subtract not only
     from the expenses but also the cost of goods sold. "

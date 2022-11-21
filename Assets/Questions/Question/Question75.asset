@@ -17,8 +17,11 @@ MonoBehaviour:
     pay when something unexpected and out of your control happens. (ie Flat tire)
   questionfontsize: 13
   answer1: True
+  answer1buttonfontsize: 15
   answer2: False
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: "You never know if something could go wrong in your life, whether
     it\u2019s a purchase or even a legal situation. ALWAYS have money saved up in
     checking and savings to make sure you are always ready and prepared for when

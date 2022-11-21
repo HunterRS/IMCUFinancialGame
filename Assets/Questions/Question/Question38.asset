@@ -17,8 +17,11 @@ MonoBehaviour:
     using your credit card? Or keep using it? '
   questionfontsize: 15
   answer1: Avoid using it
+  answer1buttonfontsize: 15
   answer2: Keep using it
+  answer2buttonfontsize: 15
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: "You avoid certain items, products, and services that you think
     you need, but don\u2019t, and save up to pay off your debt. "
   answer1fontsize: 12

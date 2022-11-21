@@ -21,8 +21,11 @@ MonoBehaviour:
     quite a long time! But it costs $225. Which would you choose? "
   questionfontsize: 8
   answer1: Blue suit
+  answer1buttonfontsize: 15
   answer2: Black and Grey suit
+  answer2buttonfontsize: 15
   answer3: Most expensive suit
+  answer3buttonfontsize: 15
   answer1response: "Due to the weaker materials, you decide to take it upon yourself
     to take responsibility for the suit and try to make sure it\u2019s stable and
     cleaned the correct way. Your efforts work quite well. It lasts as long as you

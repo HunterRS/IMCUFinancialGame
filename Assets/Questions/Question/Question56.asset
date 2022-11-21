@@ -20,8 +20,11 @@ MonoBehaviour:
     What might be one reason it didn\u2019t go through? "
   questionfontsize: 8.5
   answer1: Your own signature on the back of the check?
+  answer1buttonfontsize: 9
   answer2: Grandparents don't have $50?
+  answer2buttonfontsize: 14
   answer3: Bank doesn't have $50
+  answer3buttonfontsize: 15
   answer1response: Banks don't accept checks that don't have signitures on the back.
     UsuaYes, you do need to sign the back of the check to get the money.
   answer1fontsize: 10

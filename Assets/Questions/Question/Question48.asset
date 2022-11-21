@@ -19,8 +19,11 @@ MonoBehaviour:
     requirements for the loan, and what else? "
   questionfontsize: 10
   answer1: Charm
+  answer1buttonfontsize: 15
   answer2: Carrying
+  answer2buttonfontsize: 15
   answer3: Character
+  answer3buttonfontsize: 15
   answer1response: "No, you can\u2019t charm credit!"
   answer1fontsize: 15
   answer1movement: -2

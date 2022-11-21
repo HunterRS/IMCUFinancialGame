@@ -6198,14 +6198,6 @@ PrefabInstance:
       propertyPath: m_RootOrder
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 3525933211453967631, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_RootOrder
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 3525933211453967631, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -302
-      objectReference: {fileID: 0}
     - target: {fileID: 3554415887558668790, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_FontData.m_MinSize
       value: 1
@@ -6414,14 +6406,6 @@ PrefabInstance:
       propertyPath: m_FontData.m_FontSize
       value: 7
       objectReference: {fileID: 0}
-    - target: {fileID: 5900283254988029527, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 160
-      objectReference: {fileID: 0}
-    - target: {fileID: 5900283254988029527, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 285
-      objectReference: {fileID: 0}
     - target: {fileID: 5967157355566106349, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_text
       value: "You decide to pay off the credit card debt with the loan shark\u2019s
@@ -6440,14 +6424,6 @@ PrefabInstance:
       propertyPath: m_HorizontalAlignment
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 5995105908509496659, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 160
-      objectReference: {fileID: 0}
-    - target: {fileID: 5995105908509496659, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 285
-      objectReference: {fileID: 0}
     - target: {fileID: 6063200801262460210, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: ButtonUI
       value: 
@@ -6459,14 +6435,6 @@ PrefabInstance:
     - target: {fileID: 6082236463949123538, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_Name
       value: Move Back
-      objectReference: {fileID: 0}
-    - target: {fileID: 6475409223468993379, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_RootOrder
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 6475409223468993379, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -302
       objectReference: {fileID: 0}
     - target: {fileID: 6589461276229460430, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_sharedMaterial
@@ -6544,18 +6512,6 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 6628203750601010051, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 150
-      objectReference: {fileID: 0}
-    - target: {fileID: 6628203750601010051, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 30
-      objectReference: {fileID: 0}
-    - target: {fileID: 6628203750601010051, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: -44.572292
-      objectReference: {fileID: 0}
     - target: {fileID: 6628203750601010052, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -6624,18 +6580,6 @@ PrefabInstance:
       propertyPath: m_Colors.m_HighlightedColor.r
       value: 0.77254903
       objectReference: {fileID: 0}
-    - target: {fileID: 6628203750608827407, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 150
-      objectReference: {fileID: 0}
-    - target: {fileID: 6628203750608827407, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 30
-      objectReference: {fileID: 0}
-    - target: {fileID: 6628203750608827407, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: -120.72194
-      objectReference: {fileID: 0}
     - target: {fileID: 6628203750608827408, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -6646,7 +6590,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6628203751570039924, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_text
-      value: Answer 1
+      value: Buy Regular Ticket
+      objectReference: {fileID: 0}
+    - target: {fileID: 6628203751570039924, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: m_fontSize
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 6628203751570039924, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: m_fontStyle
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6628203751570039924, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 6628203751570039924, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_hasFontAssetChanged
@@ -6656,18 +6612,6 @@ PrefabInstance:
       propertyPath: QuestionUI
       value: 
       objectReference: {fileID: 215412126}
-    - target: {fileID: 6628203751898859492, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 150
-      objectReference: {fileID: 0}
-    - target: {fileID: 6628203751898859492, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 30
-      objectReference: {fileID: 0}
-    - target: {fileID: 6628203751898859492, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: -82.64712
-      objectReference: {fileID: 0}
     - target: {fileID: 6628203751898859493, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -6697,10 +6641,6 @@ PrefabInstance:
       propertyPath: m_HorizontalAlignment
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 6628203752083147069, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 52
-      objectReference: {fileID: 0}
     - target: {fileID: 6628203752083147070, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_Name
       value: Question
@@ -6712,14 +6652,6 @@ PrefabInstance:
     - target: {fileID: 6628203752115397830, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_Type
       value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6628203752115397831, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 160
-      objectReference: {fileID: 0}
-    - target: {fileID: 6628203752115397831, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 285
       objectReference: {fileID: 0}
     - target: {fileID: 6628203752115397832, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_IsActive
@@ -6860,14 +6792,6 @@ PrefabInstance:
     - target: {fileID: 7618775081741227777, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_RootOrder
       value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 7802461777140960505, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_RootOrder
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7802461777140960505, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -302
       objectReference: {fileID: 0}
     - target: {fileID: 7979311851973899228, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_Type
