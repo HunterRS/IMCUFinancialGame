@@ -6590,7 +6590,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6628203751570039924, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_text
-      value: Buy Regular Ticket
+      value: Answer 1
       objectReference: {fileID: 0}
     - target: {fileID: 6628203751570039924, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_fontSize
