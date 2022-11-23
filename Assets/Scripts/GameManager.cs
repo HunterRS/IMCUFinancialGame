@@ -19,6 +19,8 @@ public class GameManager : MonoBehaviour
 
     public QuestionCard currentQuestion;
 
+    public int answerNumber;
+
     // Start is called before the first frame update
     private void Awake()
     {
@@ -71,11 +73,11 @@ public class GameManager : MonoBehaviour
         easyQuestionList.Remove(currentQuestion);
         //if (mediumQuestionList.Count == 0)
         //{
-        //    mediumQuestionList.Add(wrongQuestionList[0]);
-        //    wrongQuestionList.Clear();
+         //   mediumQuestionList.Add(wrongQuestionList[0]);
+         //   wrongQuestionList.Clear();
         //}
         //currentQuestion = mediumQuestionList[0];
-        //mediumQuestionList.Remove(currentQuestion);
+       // mediumQuestionList.Remove(currentQuestion);
     }
     public void QuestionWrong()
     {

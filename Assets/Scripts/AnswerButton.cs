@@ -45,6 +45,7 @@ public class AnswerButton : MonoBehaviour
                 BadAnswerUI.SetActive(true);
                 QuestionUI.SetActive(false);
             }
+            GameManager.instance.answerNumber = 1;
         }
         else if (Button == 2)
         {
@@ -67,6 +68,7 @@ public class AnswerButton : MonoBehaviour
                 BadAnswerUI.SetActive(true);
                 QuestionUI.SetActive(false);
             }
+            GameManager.instance.answerNumber = 2;
         }
         else if (Button == 3)
         {
@@ -89,11 +91,12 @@ public class AnswerButton : MonoBehaviour
                 BadAnswerUI.SetActive(true);
                 QuestionUI.SetActive(false);
             }
+            GameManager.instance.answerNumber = 3;
         }
     }
-    public void MovePlayerPhase1(int Button)
+    public void MovePlayerPhase1()
     {
-        if (Button == 1)
+        if (GameManager.instance.answerNumber == 1)
         {
             if (GameManager.instance.currentQuestion.answer1movement > 0)
             {
@@ -101,10 +104,11 @@ public class AnswerButton : MonoBehaviour
             }
             else
             {
+                Debug.Log(Mathf.Abs(GameManager.instance.currentQuestion.answer1movement));
                 MovePlayerBackWards(Mathf.Abs(GameManager.instance.currentQuestion.answer1movement));
             }
         }
-        else if (Button == 2)
+        else if (GameManager.instance.answerNumber == 2)
         {
             if (GameManager.instance.currentQuestion.answer2movement > 0)
             {
@@ -112,10 +116,11 @@ public class AnswerButton : MonoBehaviour
             }
             else
             {
+                Debug.Log(Mathf.Abs(GameManager.instance.currentQuestion.answer2movement));
                 MovePlayerBackWards(Mathf.Abs(GameManager.instance.currentQuestion.answer2movement));
             }
         }
-        else if (Button == 3)
+        else if (GameManager.instance.answerNumber == 3)
         {
             if (GameManager.instance.currentQuestion.answer3movement > 0)
             {
@@ -123,6 +128,7 @@ public class AnswerButton : MonoBehaviour
             }
             else
             {
+                Debug.Log(Mathf.Abs(GameManager.instance.currentQuestion.answer3movement));
                 MovePlayerBackWards(Mathf.Abs(GameManager.instance.currentQuestion.answer3movement));
             }
         }
