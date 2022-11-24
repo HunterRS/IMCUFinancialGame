@@ -4835,7 +4835,6 @@ MonoBehaviour:
   hardQuestionList: []
   wrongQuestionList: []
   currentQuestion: {fileID: 0}
-  answerNumber: 0
 --- !u!1001 &1846726102
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5866,10 +5865,6 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2130312703001024057, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2130312703001024057, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
       value: 1
       objectReference: {fileID: 0}
@@ -6065,10 +6060,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4946972034165367237, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4946972034165367237, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4946972034165367237, guid: 5d92de0dce773514d93b093da247b962, type: 3}
@@ -6396,10 +6387,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6697572403489425845, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6697572403489425845, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6697572403489425845, guid: 5d92de0dce773514d93b093da247b962, type: 3}
