@@ -5777,14 +5777,6 @@ PrefabInstance:
       propertyPath: m_RootOrder
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 632370352853074341, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 65.6573
-      objectReference: {fileID: 0}
-    - target: {fileID: 632370352853074341, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 67.17136
-      objectReference: {fileID: 0}
     - target: {fileID: 646307475477954072, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -5938,14 +5930,6 @@ PrefabInstance:
     - target: {fileID: 2812949653315400526, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_HorizontalAlignment
       value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 2913139353118181842, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 65.6573
-      objectReference: {fileID: 0}
-    - target: {fileID: 2913139353118181842, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 67.17136
       objectReference: {fileID: 0}
     - target: {fileID: 3154300584451567706, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_RootOrder
@@ -6510,7 +6494,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8367018789736626827, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8655172099364495545, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: QuestionUI
