@@ -14,6 +14,8 @@ public class AnswerButton : MonoBehaviour
     public TextMeshProUGUI greatAnswerResponse;
     public TextMeshProUGUI goodAnswerResponse;
     public TextMeshProUGUI badAnswerResponse;
+
+    public GameObject animationGameObject;
     // Start is called before the first frame update
     void Start()
     {
@@ -108,6 +110,7 @@ public class AnswerButton : MonoBehaviour
     }
     public void MovePlayerPhase1()
     {
+        animationGameObject.GetComponent<Animator>().enabled = true;
         if (GameManager.instance.answerNumber == 1)
         {
             if (GameManager.instance.currentQuestion.answer1movement > 0)

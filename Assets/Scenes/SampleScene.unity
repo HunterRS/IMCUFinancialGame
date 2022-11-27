@@ -1721,6 +1721,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &760049862 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6628203750601010052, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+  m_PrefabInstance: {fileID: 6628203751037557439}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &780881437
 GameObject:
   m_ObjectHideFlags: 0
@@ -4836,6 +4841,11 @@ MonoBehaviour:
   wrongQuestionList: []
   currentQuestion: {fileID: 0}
   answerNumber: 0
+--- !u!1 &1846706153 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6628203751898859493, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+  m_PrefabInstance: {fileID: 6628203751037557439}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1846726102
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5385,6 +5395,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 361858163315818520, guid: d2e37a0200f74ad4db31207a9f53f66c, type: 3}
   m_PrefabInstance: {fileID: 1958606153}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1960730376 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6628203750608827408, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+  m_PrefabInstance: {fileID: 6628203751037557439}
+  m_PrefabAsset: {fileID: 0}
 --- !u!114 &1999998812 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 6628203750543483382, guid: 5d92de0dce773514d93b093da247b962, type: 3}
@@ -5659,25 +5674,24 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6628203752174349768, guid: 5d92de0dce773514d93b093da247b962, type: 3}
   m_PrefabInstance: {fileID: 6628203751037557439}
   m_PrefabAsset: {fileID: 0}
---- !u!95 &2093102968
-Animator:
-  serializedVersion: 3
+--- !u!114 &2093102969
+MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2093102966}
   m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 5e5b6822b99ef194fa6c260ec89b75e5, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 849308a1ffedde645bc81959e6bbbe0c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  answer1Text: {fileID: 86338263}
+  answer2Text: {fileID: 417216794}
+  answer3Text: {fileID: 759196215}
+  answer1Button: {fileID: 760049862}
+  answer2Button: {fileID: 1846706153}
+  answer3Button: {fileID: 1960730376}
 --- !u!1001 &2108926401
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6219,6 +6233,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6628203750601010051, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -120.6523
+      objectReference: {fileID: 0}
     - target: {fileID: 6628203750601010052, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -6243,6 +6261,10 @@ PrefabInstance:
       propertyPath: QuestionUI
       value: 
       objectReference: {fileID: 1947241188}
+    - target: {fileID: 6628203750608827407, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -43.561935
+      objectReference: {fileID: 0}
     - target: {fileID: 6628203750608827408, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -6378,7 +6400,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6628203752174349769, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6697572403489425845, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -6494,7 +6516,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8367018789736626827, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8655172099364495545, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: QuestionUI

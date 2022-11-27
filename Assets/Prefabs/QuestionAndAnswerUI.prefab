@@ -2916,9 +2916,9 @@ MonoBehaviour:
   GoodAnswerUI: {fileID: 739165310750335895}
   BadAnswerUI: {fileID: 6727210835729311130}
   ButtonUI: {fileID: 0}
-  greatAnswerResponse: {fileID: 0}
-  goodAnswerResponse: {fileID: 0}
-  badAnswerResponse: {fileID: 0}
+  greatAnswerResponse: {fileID: 2812949653315400526}
+  goodAnswerResponse: {fileID: 7291908787464745858}
+  badAnswerResponse: {fileID: 5967157355566106349}
 --- !u!114 &7258070302341128433
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3355,9 +3355,9 @@ MonoBehaviour:
   GoodAnswerUI: {fileID: 739165310750335895}
   BadAnswerUI: {fileID: 6727210835729311130}
   ButtonUI: {fileID: 0}
-  greatAnswerResponse: {fileID: 0}
-  goodAnswerResponse: {fileID: 0}
-  badAnswerResponse: {fileID: 0}
+  greatAnswerResponse: {fileID: 2812949653315400526}
+  goodAnswerResponse: {fileID: 7291908787464745858}
+  badAnswerResponse: {fileID: 5967157355566106349}
 --- !u!114 &1086535662060199450
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3805,6 +3805,7 @@ GameObject:
   - component: {fileID: 6628203752174349768}
   - component: {fileID: 8878355218939797034}
   - component: {fileID: 1679805825404355924}
+  - component: {fileID: 1867378239687945951}
   m_Layer: 0
   m_Name: QuestionAndAnswerUI
   m_TagString: Untagged
@@ -3856,12 +3857,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   titleText: {fileID: 0}
   questionText: {fileID: 0}
-  answer1Text: {fileID: 0}
-  answer2Text: {fileID: 0}
-  answer3Text: {fileID: 0}
-  answer1Button: {fileID: 0}
-  answer2Button: {fileID: 0}
-  answer3Button: {fileID: 0}
+--- !u!95 &1867378239687945951
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6628203752174349769}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 5e5b6822b99ef194fa6c260ec89b75e5, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &6727210835729311130
 GameObject:
   m_ObjectHideFlags: 0
@@ -4159,12 +4173,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   titleText: {fileID: 0}
   questionText: {fileID: 0}
-  answer1Text: {fileID: 0}
-  answer2Text: {fileID: 0}
-  answer3Text: {fileID: 0}
-  answer1Button: {fileID: 0}
-  answer2Button: {fileID: 0}
-  answer3Button: {fileID: 0}
 --- !u!1 &8549839231407597603
 GameObject:
   m_ObjectHideFlags: 0
