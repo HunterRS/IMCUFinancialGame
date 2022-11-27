@@ -2803,6 +2803,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 361858163315818520, guid: d2e37a0200f74ad4db31207a9f53f66c, type: 3}
   m_PrefabInstance: {fileID: 1013760648}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1074232832 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6628203752083147068, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+  m_PrefabInstance: {fileID: 6628203751037557439}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &1089579113 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 5967157355566106349, guid: 5d92de0dce773514d93b093da247b962, type: 3}
@@ -2889,17 +2900,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1118668488}
   m_CullTransparentMesh: 1
---- !u!114 &1161650738 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 6628203752083147068, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-  m_PrefabInstance: {fileID: 6628203751037557439}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &1263178727
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3938,6 +3938,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 361858163315818520, guid: d2e37a0200f74ad4db31207a9f53f66c, type: 3}
   m_PrefabInstance: {fileID: 1537142865}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1545627877 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6628203750543483382, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+  m_PrefabInstance: {fileID: 6628203751037557439}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1568184566
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5400,17 +5411,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 6628203750608827408, guid: 5d92de0dce773514d93b093da247b962, type: 3}
   m_PrefabInstance: {fileID: 6628203751037557439}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1999998812 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 6628203750543483382, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-  m_PrefabInstance: {fileID: 6628203751037557439}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &2023816514
 GameObject:
   m_ObjectHideFlags: 0
@@ -5855,6 +5855,14 @@ PrefabInstance:
       propertyPath: m_enableVertexGradient
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1679805825404355924, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: titleText
+      value: 
+      objectReference: {fileID: 1545627877}
+    - target: {fileID: 1679805825404355924, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: questionText
+      value: 
+      objectReference: {fileID: 1074232832}
     - target: {fileID: 1861251455051112423, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -5958,14 +5966,6 @@ PrefabInstance:
       value: Correct
       objectReference: {fileID: 0}
     - target: {fileID: 3753730224096923802, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3753730224096923802, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: titleText
-      value: 
-      objectReference: {fileID: 1999998812}
-    - target: {fileID: 3753730224096923802, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: answer1Text
       value: 
       objectReference: {fileID: 86338263}
@@ -5977,10 +5977,6 @@ PrefabInstance:
       propertyPath: answer3Text
       value: 
       objectReference: {fileID: 759196215}
-    - target: {fileID: 3753730224096923802, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: questionText
-      value: 
-      objectReference: {fileID: 1161650738}
     - target: {fileID: 3753730224096923802, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: answer1response
       value: 
