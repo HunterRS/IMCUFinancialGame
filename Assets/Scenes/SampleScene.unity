@@ -6001,6 +6001,10 @@ PrefabInstance:
       propertyPath: AnswerNum
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3755527447864242487, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: animationGameObject
+      value: 
+      objectReference: {fileID: 2093102966}
     - target: {fileID: 3896969996717923411, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_Colors.m_NormalColor.b
       value: 0.33333334
@@ -6053,6 +6057,10 @@ PrefabInstance:
       propertyPath: AnswerNum
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 4604589025544211919, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: animationGameObject
+      value: 
+      objectReference: {fileID: 2093102966}
     - target: {fileID: 4641648879555602280, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_Name
       value: Correct
@@ -6189,6 +6197,10 @@ PrefabInstance:
       propertyPath: AnswerNum
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 6063200801262460210, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: animationGameObject
+      value: 
+      objectReference: {fileID: 2093102966}
     - target: {fileID: 6082236463949123538, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_Name
       value: Move Back
@@ -6241,22 +6253,6 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 6628203750601010175, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: ButtonUI
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 6628203750601010175, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: QuestionUI
-      value: 
-      objectReference: {fileID: 3450183323123736628}
-    - target: {fileID: 6628203750601010175, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: GoodAnswerUI
-      value: 
-      objectReference: {fileID: 215412126}
-    - target: {fileID: 6628203750601010175, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: GreatAnswerUI
-      value: 
-      objectReference: {fileID: 1987898475764858327}
     - target: {fileID: 6628203750608827403, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: QuestionUI
       value: 
@@ -6293,10 +6289,6 @@ PrefabInstance:
       propertyPath: m_hasFontAssetChanged
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6628203751898859488, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: QuestionUI
-      value: 
-      objectReference: {fileID: 215412126}
     - target: {fileID: 6628203751898859493, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -6400,7 +6392,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6628203752174349769, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6697572403489425845, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -6516,7 +6508,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8367018789736626827, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8655172099364495545, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: QuestionUI
