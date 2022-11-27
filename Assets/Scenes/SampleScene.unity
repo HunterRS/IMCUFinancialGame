@@ -2803,17 +2803,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 361858163315818520, guid: d2e37a0200f74ad4db31207a9f53f66c, type: 3}
   m_PrefabInstance: {fileID: 1013760648}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1074232832 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 6628203752083147068, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-  m_PrefabInstance: {fileID: 6628203751037557439}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &1089579113 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 5967157355566106349, guid: 5d92de0dce773514d93b093da247b962, type: 3}
@@ -3938,17 +3927,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 361858163315818520, guid: d2e37a0200f74ad4db31207a9f53f66c, type: 3}
   m_PrefabInstance: {fileID: 1537142865}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1545627877 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 6628203750543483382, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-  m_PrefabInstance: {fileID: 6628203751037557439}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &1568184566
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5061,7 +5039,7 @@ MonoBehaviour:
   m_Transition: 1
   m_Colors:
     m_NormalColor: {r: 0.77254903, g: 0.1254902, b: 0.20392157, a: 1}
-    m_HighlightedColor: {r: 0.77254903, g: 0.1254902, b: 0.20392157, a: 0.78431374}
+    m_HighlightedColor: {r: 0.77254903, g: 0.1254902, b: 0.20392157, a: 0.5882353}
     m_PressedColor: {r: 0.77254903, g: 0.1254902, b: 0.20392157, a: 0.47058824}
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
@@ -5855,14 +5833,6 @@ PrefabInstance:
       propertyPath: m_enableVertexGradient
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1679805825404355924, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: titleText
-      value: 
-      objectReference: {fileID: 1545627877}
-    - target: {fileID: 1679805825404355924, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: questionText
-      value: 
-      objectReference: {fileID: 1074232832}
     - target: {fileID: 1861251455051112423, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -5943,11 +5913,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2812949653315400526, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_fontSize
-      value: 8
+      value: 8.5
       objectReference: {fileID: 0}
     - target: {fileID: 2812949653315400526, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_fontSizeBase
-      value: 8
+      value: 8.5
       objectReference: {fileID: 0}
     - target: {fileID: 2812949653315400526, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_HorizontalAlignment
@@ -6175,11 +6145,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5967157355566106349, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_fontSize
-      value: 9
+      value: 8.5
       objectReference: {fileID: 0}
     - target: {fileID: 5967157355566106349, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_fontSizeBase
-      value: 9
+      value: 8.5
       objectReference: {fileID: 0}
     - target: {fileID: 5967157355566106349, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_HorizontalAlignment
@@ -6457,6 +6427,14 @@ PrefabInstance:
     - target: {fileID: 7258070302341128433, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_EffectColor.r
       value: 0.77254903
+      objectReference: {fileID: 0}
+    - target: {fileID: 7291908787464745858, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: m_fontSize
+      value: 8.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7291908787464745858, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 8.5
       objectReference: {fileID: 0}
     - target: {fileID: 7291908787464745858, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_HorizontalAlignment
