@@ -6,7 +6,7 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager instance;
     [SerializeField]
-    private GameObject player;
+    private GameObject player, canvasforfinishinggame;
 
     public int playerStartWaypoint = 0;
     public int movementAmount = 0;
@@ -50,6 +50,10 @@ public class GameManager : MonoBehaviour
                 lastMoveReverse = false;
                 playerStartWaypoint = player.GetComponent<PlayerMovementPath>().waypointIndex - 1;
             }
+            if (player.GetComponent<PlayerMovementPath>().waypointIndex == player.GetComponent<PlayerMovementPath>().waypoints.Length)
+        {
+            canvasforfinishinggame.gameObject.SetActive(true);
+        }
     }
 
     public void MovePlayer()
