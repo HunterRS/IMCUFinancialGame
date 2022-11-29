@@ -25,7 +25,7 @@ MonoBehaviour:
     You must move the appropriate amount of funds to your checking account first
     to be able to pay. '
   answer1fontsize: 10
-  answer1movement: -2
+  answer1movement: -1
   answer2response: 'Your savings account cannot be used to pay for transactions.
     You must move the appropriate amount of funds to your checking account first
     to be able to pay. '

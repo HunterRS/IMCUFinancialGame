@@ -31,7 +31,7 @@ MonoBehaviour:
     the property that you were going to get, the opportunity is too late and your
     business will have to move elsewhere.
   answer2fontsize: 8.1
-  answer2movement: -2
+  answer2movement: -1
   answer3response: 
   answer3fontsize: 0
   answer3movement: 0

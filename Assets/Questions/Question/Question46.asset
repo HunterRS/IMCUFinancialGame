@@ -29,7 +29,7 @@ MonoBehaviour:
   answer2response: 'IMCU and credit unions give off benefits for members all the
     time, but some benefits may vary. '
   answer2fontsize: 11.7
-  answer2movement: -2
+  answer2movement: 0
   answer3response: 
   answer3fontsize: 0
   answer3movement: 0

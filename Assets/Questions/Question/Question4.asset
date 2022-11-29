@@ -20,8 +20,11 @@ MonoBehaviour:
     will suffice? "
   questionfontsize: 8.6
   answer1: Start an Emergency Fund
+  answer1buttonfontsize: 0
   answer2: Risk it
+  answer2buttonfontsize: 0
   answer3: 
+  answer3buttonfontsize: 0
   answer1response: 'You decide to start an emergency fund and cut down on obligations.
     Then, you are slapped with a fine, but not to worry, you were able to pay it
     off with your emergency fund! '
@@ -30,7 +33,7 @@ MonoBehaviour:
   answer2response: You decide that your savings will do. Then you are slapped with
     a fine and you drain all your savings and are back to square one.
   answer2fontsize: 10
-  answer2movement: -2
+  answer2movement: -1
   answer3response: 
   answer3fontsize: 0
   answer3movement: 0

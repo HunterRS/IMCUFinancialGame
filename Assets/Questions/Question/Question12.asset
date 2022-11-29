@@ -28,7 +28,7 @@ MonoBehaviour:
     transaction history you noticed that the charger charged double the price. You
     lost double the money in your checking account. '
   answer1fontsize: 9.3
-  answer1movement: -2
+  answer1movement: -1
   answer2response: 'You use your better judgment and decide to not buy the item.
     If it sounds too good to be true, then it probably is. '
   answer2fontsize: 12

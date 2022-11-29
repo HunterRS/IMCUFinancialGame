@@ -31,7 +31,7 @@ MonoBehaviour:
     has been broken into and many items were stolen! You now have to replace all
     of those items.
   answer1fontsize: 8
-  answer1movement: -2
+  answer1movement: -1
   answer2response: While gas costs are higher, you never wake up or return home to
     find your car or home is broken into. The semester goes well, and you find the
     purchase was worth the extra bit paid.

@@ -37,7 +37,7 @@ MonoBehaviour:
     material rips in several places across it. You had to buy another business suit
     and rush to work! "
   answer2fontsize: 9
-  answer2movement: -2
+  answer2movement: 0
   answer3response: "It\u2019s easy to put on and take off every morning. It lasts
     more than as long as you need it to. While it was a bit more expensive, it was
     at least a decent choice for the time."

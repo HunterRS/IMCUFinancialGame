@@ -33,7 +33,7 @@ MonoBehaviour:
   answer2response: You just got ripped off! You spent way too much more money than
     you should have.
   answer2fontsize: 13
-  answer2movement: -2
+  answer2movement: 0
   answer3response: The safest option, even if the board game arrives later, is to
     give the game to your friend, or tell him you got it at the party.
   answer3fontsize: 12

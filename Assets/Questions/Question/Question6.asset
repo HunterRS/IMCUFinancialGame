@@ -35,7 +35,7 @@ MonoBehaviour:
     budget with that card and are unable to pay it off and it\u2019s been frozen.
     Rinse and repeat, until you are in huge credit card debt."
   answer2fontsize: 8.5
-  answer2movement: -2
+  answer2movement: -1
   answer3response: 'You decide to try the Jumpstart credit card from IMCU, it has
     a better rate for and lower payments, but also helps refinance your first card
     making budgeting easier! '

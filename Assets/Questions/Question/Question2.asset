@@ -41,7 +41,7 @@ MonoBehaviour:
     money. But now you're being hounded by the loan sharks to pay them back and can\u2019t
     save money because all your savings are going to the loan sharks."
   answer3fontsize: 9
-  answer3movement: -2
+  answer3movement: 0
   Answer1Right: 2
   Answer2Right: 1
   Answer3Right: 3

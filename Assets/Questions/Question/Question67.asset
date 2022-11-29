@@ -33,7 +33,7 @@ MonoBehaviour:
     high amounts. These people are referred to as scalpers. You should never buy
     an item from them, as there\u2019s always a chance you\u2019ll find it eventually."
   answer2fontsize: 8
-  answer2movement: -2
+  answer2movement: 0
   answer3response: 
   answer3fontsize: 0
   answer3movement: 0

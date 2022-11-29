@@ -34,7 +34,7 @@ MonoBehaviour:
     especially if you want to make the transaction right away, as that would cost
     you extra money because of the fees.
   answer2fontsize: 9
-  answer2movement: -2
+  answer2movement: -1
   answer3response: 'While going to the ATM is a good choice for withdrawing, you
     did waste more time than what was needed to get the $20. '
   answer3fontsize: 11

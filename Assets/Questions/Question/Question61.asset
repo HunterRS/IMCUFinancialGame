@@ -35,7 +35,7 @@ MonoBehaviour:
     and tear in the furniture. The office supplies also continued to run out quickly,
     causing you the have to continuously return to the store to buy more. '
   answer1fontsize: 7
-  answer1movement: -2
+  answer1movement: 0
   answer2response: Due to the slightly bigger price, you decide to be a  conservative
     with what you spend, only buying the essentials needed for the office. You complete
     your office quickly and begin to work.  The higher quality of items prove to

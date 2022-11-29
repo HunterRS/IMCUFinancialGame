@@ -32,7 +32,7 @@ MonoBehaviour:
     earned over to the government to decide what happens with your assets instead
     of you. "
   answer2fontsize: 7.8
-  answer2movement: -2
+  answer2movement: -1
   answer3response: 
   answer3fontsize: 0
   answer3movement: 0

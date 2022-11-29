@@ -26,10 +26,10 @@ MonoBehaviour:
   answer3buttonfontsize: 15
   answer1response: "No, you can\u2019t charm credit!"
   answer1fontsize: 15
-  answer1movement: -2
+  answer1movement: -1
   answer2response: "You could carry credit, but this isn\u2019t the correct choice. "
   answer2fontsize: 15
-  answer2movement: -2
+  answer2movement: -1
   answer3response: 'A summarizes the borrower''s overall trustworthiness, personality,
     and credibility. '
   answer3fontsize: 11

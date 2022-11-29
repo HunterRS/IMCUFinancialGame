@@ -28,7 +28,7 @@ MonoBehaviour:
     and returned to you in just 2 days. However, not long after that, your car breaks
     down again, and you take it back to that shop. '
   answer1fontsize: 9
-  answer1movement: -2
+  answer1movement: 0
   answer2response: 'Repairs go very well. While you had to take public transportation
     to get to your job and you had to pay a bit extra for repairs,  the repairs were
     incredibly successful and warranted no other trips to the shop. '

@@ -27,7 +27,7 @@ MonoBehaviour:
     next from the bookstore. Unfortunately, they cost you hundreds of dollars, and
     you discover later there were more cost-effective alternatives.
   answer1fontsize: 9
-  answer1movement: -2
+  answer1movement: -1
   answer2response: You check for second-hand books, check for free PDFs online, or
     see if you can borrow them from a student who has previously taken the class.
     You also check to make sure the textbooks are required or find a way to share

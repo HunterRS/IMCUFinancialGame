@@ -32,11 +32,11 @@ MonoBehaviour:
   answer2response: Unlikely, but possible. Most of the time though, it might be something
     with the check.
   answer2fontsize: 12
-  answer2movement: -2
+  answer2movement: 0
   answer3response: Unlikely, but possible. Most of the time though, it might be something
     with the check.
   answer3fontsize: 12
-  answer3movement: -2
+  answer3movement: 0
   Answer1Right: 1
   Answer2Right: 3
   Answer3Right: 3

@@ -35,7 +35,7 @@ MonoBehaviour:
     the debt from a 25% interest rate to a 12 % loan getting it down to affordable
     monthly payments. '
   answer2fontsize: 10
-  answer2movement: -2
+  answer2movement: 0
   answer3response: 
   answer3fontsize: 0
   answer3movement: 0

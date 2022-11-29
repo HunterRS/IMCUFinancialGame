@@ -36,7 +36,7 @@ MonoBehaviour:
     you are buying them more frequently. You start to feel sicker and are spending
     loads of money on medicine due to the cheap food health risks.
   answer2fontsize: 7.8
-  answer2movement: -2
+  answer2movement: 0
   answer3response: 
   answer3fontsize: 0
   answer3movement: 0

@@ -27,7 +27,7 @@ MonoBehaviour:
     item that you wanted. However, you now lost $500 all of a sudden. You just got
     scammed! '
   answer1fontsize: 10.5
-  answer1movement: -2
+  answer1movement: 0
   answer2response: You deny the deal. You decide it is best to acquire the funds
     yourself so that you don't run the risk of getting scammed.
   answer2fontsize: 11.5

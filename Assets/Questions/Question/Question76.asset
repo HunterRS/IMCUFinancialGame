@@ -35,7 +35,7 @@ MonoBehaviour:
     difficult when many factors go into the situation. You should always consider
     your options and think VERY carefully about the possible outcomes of your purchase. "
   answer2fontsize: 7
-  answer2movement: -2
+  answer2movement: 0
   answer3response: 
   answer3fontsize: 0
   answer3movement: 0

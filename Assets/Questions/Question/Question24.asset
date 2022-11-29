@@ -26,7 +26,7 @@ MonoBehaviour:
     (NerdWallet). This may impact your ability to buy a house or lease a car in the
     future. "
   answer1fontsize: 11
-  answer1movement: -2
+  answer1movement: 0
   answer2response: "Late payments can stay on your credit reports for 7\xBD years
     (NerdWallet). This may impact your ability to buy a house or lease a car in the
     future. "

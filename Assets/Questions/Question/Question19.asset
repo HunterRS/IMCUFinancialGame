@@ -32,7 +32,7 @@ MonoBehaviour:
     a branch, mobile app check deposit, visiting an ITM, or you can transfer money
     between your savings account and checking account through a mobile/online banking.
   answer2fontsize: 7.3
-  answer2movement: -2
+  answer2movement: -1
   answer3response: 
   answer3fontsize: 0
   answer3movement: 0

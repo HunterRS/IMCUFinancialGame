@@ -26,7 +26,7 @@ MonoBehaviour:
   answer1movement: 2
   answer2response: IMCU does have an the smartstart app for free!
   answer2fontsize: 17
-  answer2movement: -2
+  answer2movement: 0
   answer3response: 
   answer3fontsize: 0
   answer3movement: 0

@@ -31,7 +31,7 @@ MonoBehaviour:
     you can run. You wonder why you thought it was a good idea to give a stranger
     $200.
   answer1fontsize: 10.5
-  answer1movement: -2
+  answer1movement: -1
   answer2response: "It\u2019s revealed that the person was an actual employee, he
     even helps you make the direct deposit successfully. "
   answer2fontsize: 12

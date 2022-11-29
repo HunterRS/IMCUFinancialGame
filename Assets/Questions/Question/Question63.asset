@@ -31,7 +31,7 @@ MonoBehaviour:
   answer1response: You follow the rules of what the caller does, but all of a sudden
     you noticed you got scammed and accidentally sent them one thousand dollars.
   answer1fontsize: 9.8
-  answer1movement: -2
+  answer1movement: 0
   answer2response: You call the bank and they state that nothing is wrong with your
     account and you are good to go. Sadly, you did waste over an hour waiting for
     confirmation from the bank.

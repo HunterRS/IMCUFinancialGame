@@ -30,7 +30,7 @@ MonoBehaviour:
   answer2response: You eat out frequently, 2-4 times a week, and your savings are
     quickly drained.
   answer2fontsize: 13.4
-  answer2movement: -2
+  answer2movement: 0
   answer3response: 
   answer3fontsize: 0
   answer3movement: 0

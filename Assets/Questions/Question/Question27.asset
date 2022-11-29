@@ -28,7 +28,7 @@ MonoBehaviour:
   answer2response: You wait and see if the fees will be dropped on their own. By
     the time you decide to report fraud, the charges can no longer be dropped.
   answer2fontsize: 10.8
-  answer2movement: -2
+  answer2movement: 0
   answer3response: 
   answer3fontsize: 0
   answer3movement: 0

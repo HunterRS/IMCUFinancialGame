@@ -28,7 +28,7 @@ MonoBehaviour:
     and save the rest. As this will teach your kids the basics of money when they
     are young. '
   answer1fontsize: 8
-  answer1movement: -2
+  answer1movement: 0
   answer2response: 'A simple rule to teach your kids about how to deal with money
     is to work to earn money, give some money to some kind of charity, spend in moderation,
     and save the rest. As this will teach your kids the basics of money when they

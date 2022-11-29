@@ -31,7 +31,7 @@ MonoBehaviour:
     having to take money out of your savings account. It\u2019s best to make sure
     before ANY purchase, that you have money in your checking account."
   answer2fontsize: 8
-  answer2movement: -2
+  answer2movement: 0
   answer3response: 
   answer3fontsize: 0
   answer3movement: 0

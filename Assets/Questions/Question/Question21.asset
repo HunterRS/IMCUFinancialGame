@@ -31,7 +31,7 @@ MonoBehaviour:
     transfers. (FI to FI) by adding an external account in the Mobile app you are
     able to transfer funds across accounts. '
   answer2fontsize: 9.6
-  answer2movement: -2
+  answer2movement: -1
   answer3response: 
   answer3fontsize: 0
   answer3movement: 0

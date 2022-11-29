@@ -30,7 +30,7 @@ MonoBehaviour:
   answer2response: Some businesses charge extra fees for using a Credit Card and
     some businesses only accept cash or check.
   answer2fontsize: 12
-  answer2movement: -2
+  answer2movement: -1
   answer3response: 
   answer3fontsize: 0
   answer3movement: 0

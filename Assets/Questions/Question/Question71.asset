@@ -38,7 +38,7 @@ MonoBehaviour:
     shop and report that it has a ton of wear and tears on the inside. They can fix
     it, but it\u2019s going to cost around $100."
   answer3fontsize: 8
-  answer3movement: -2
+  answer3movement: 0
   Answer1Right: 1
   Answer2Right: 2
   Answer3Right: 3

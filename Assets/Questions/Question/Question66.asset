@@ -32,7 +32,7 @@ MonoBehaviour:
   answer2response: "You decide to take your chances and wait. Turns out, the play
     has been sold out since a week ago! You didn\u2019t get to see the play."
   answer2fontsize: 10
-  answer2movement: -2
+  answer2movement: 0
   answer3response: 
   answer3fontsize: 0
   answer3movement: 0

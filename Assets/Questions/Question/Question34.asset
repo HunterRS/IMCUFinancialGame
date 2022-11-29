@@ -35,7 +35,7 @@ MonoBehaviour:
     the sink. You call in a plumber and the plumber fixes it for $800, without the
     fund account you pay out of your pocket.
   answer3fontsize: 9.5
-  answer3movement: -2
+  answer3movement: -1
   Answer1Right: 1
   Answer2Right: 2
   Answer3Right: 3
