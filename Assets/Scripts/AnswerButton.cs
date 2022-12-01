@@ -161,7 +161,7 @@ public class AnswerButton : MonoBehaviour
             }
             else
             {
-                if (GameManager.instance.playerStartWaypoint == 0)
+                if (GameManager.instance.playerStartWaypoint == GameManager.instance.checkpoint)
                 {
                     ButtonUI.SetActive(true);
                     QuestionUI.SetActive(false);
@@ -179,7 +179,7 @@ public class AnswerButton : MonoBehaviour
             }
             else
             {
-                if (GameManager.instance.playerStartWaypoint == 0)
+                if (GameManager.instance.playerStartWaypoint == GameManager.instance.checkpoint)
                 {
                     ButtonUI.SetActive(true);
                     QuestionUI.SetActive(false);
@@ -197,7 +197,7 @@ public class AnswerButton : MonoBehaviour
             }
             else
             {
-                if (GameManager.instance.playerStartWaypoint == 0)
+                if (GameManager.instance.playerStartWaypoint == GameManager.instance.checkpoint)
                 {
                     ButtonUI.SetActive(true);
                     QuestionUI.SetActive(false);

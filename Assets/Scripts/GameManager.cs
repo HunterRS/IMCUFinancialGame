@@ -15,6 +15,7 @@ public class GameManager : MonoBehaviour
     public List<QuestionCard> easyQuestionList = new List<QuestionCard>();
     public List<QuestionCard> mediumQuestionList = new List<QuestionCard>();
     public List<QuestionCard> hardQuestionList = new List<QuestionCard>();
+    public List<QuestionCard> testQuestionList = new List<QuestionCard>();
     public List<QuestionCard> wrongQuestionList = new List<QuestionCard>();
 
     public QuestionCard currentQuestion;
@@ -44,11 +45,15 @@ public class GameManager : MonoBehaviour
                 lastMoveReverse = true;
                 playerStartWaypoint = player.GetComponent<PlayerMovementPath>().waypointIndex + 1;
                 reverse = false;
-                if (playerStartWaypoint < 0 || player.GetComponent<PlayerMovementPath>().waypointIndex < 0)
+                //if (playerStartWaypoint - 1 < checkpoint || player.GetComponent<PlayerMovementPath>().waypointIndex < checkpoint)
+                //{
+                //    playerStartWaypoint = checkpoint;
+                //    player.GetComponent<PlayerMovementPath>().waypointIndex = checkpoint;
+                //    return;
+                //}
+                if (player.GetComponent<PlayerMovementPath>().waypointIndex >= checkpoint)
                 {
-                    playerStartWaypoint = 0;
-                    player.GetComponent<PlayerMovementPath>().waypointIndex = 0;
-                    return;
+
                 }
             }
         }
@@ -92,7 +97,7 @@ public class GameManager : MonoBehaviour
             currentQuestion = easyQuestionList[Random.Range(0, easyQuestionList.Count - 1)];
             easyQuestionList.Remove(currentQuestion);
         }
-        if (GameValues.difficulty == "medium")
+        else if (GameValues.difficulty == "medium")
         {
             if (mediumQuestionList.Count == 0)
             {
@@ -102,7 +107,7 @@ public class GameManager : MonoBehaviour
             currentQuestion = mediumQuestionList[Random.Range(0, mediumQuestionList.Count - 1)];
             mediumQuestionList.Remove(currentQuestion);
         }
-        if (GameValues.difficulty == "hard")
+        else if (GameValues.difficulty == "hard")
         {
             if (hardQuestionList.Count == 0)
             {
@@ -111,6 +116,16 @@ public class GameManager : MonoBehaviour
             }
             currentQuestion = hardQuestionList[Random.Range(0, hardQuestionList.Count - 1)];
             hardQuestionList.Remove(currentQuestion);
+        }
+        else
+        {
+            if (testQuestionList.Count == 0)
+            {
+                testQuestionList.Add(wrongQuestionList[0]);
+                wrongQuestionList.Clear();
+            }
+            currentQuestion = testQuestionList[Random.Range(0, testQuestionList.Count - 1)];
+            testQuestionList.Remove(currentQuestion);
         }
 
     }
@@ -124,15 +139,20 @@ public class GameManager : MonoBehaviour
     {
         if (playerStartWaypoint >= 4)
         {
-            checkpoint = 5;
+            checkpoint = 4;
         }
         if (playerStartWaypoint >= 16)
         {
-            checkpoint = 17;
+            checkpoint = 16;
         }
         if (playerStartWaypoint >= 32)
         {
-            checkpoint = 33;
+            checkpoint = 32;
         }
     }
 }
+
+
+// 4 PSW
+// 5 WI
+// 4th Index

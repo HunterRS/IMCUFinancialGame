@@ -4950,6 +4950,8 @@ MonoBehaviour:
   - {fileID: 11400000, guid: c6db6032414d3db4c9b48b14463886b1, type: 2}
   - {fileID: 11400000, guid: b29b7c5eda8df1e458e33371bea8168c, type: 2}
   - {fileID: 11400000, guid: 2abe68b7f0be9e749ab0871bf9d631c6, type: 2}
+  testQuestionList:
+  - {fileID: 11400000, guid: 8885a6ccd1fd9eb4db0d7596607eae69, type: 2}
   wrongQuestionList: []
   currentQuestion: {fileID: 0}
   answerNumber: 0
@@ -6518,7 +6520,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6628203750601010051, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -120.6523
+      value: -120
       objectReference: {fileID: 0}
     - target: {fileID: 6628203750601010052, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_IsActive
@@ -6526,7 +6528,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6628203750608827407, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -43.561935
+      value: -46
       objectReference: {fileID: 0}
     - target: {fileID: 6628203750608827408, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_IsActive
@@ -6556,6 +6558,10 @@ PrefabInstance:
       propertyPath: m_hasFontAssetChanged
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6628203751898859492, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -83
+      objectReference: {fileID: 0}
     - target: {fileID: 6628203751898859493, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -6565,13 +6571,8 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6628203752083147068, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_text
-      value: It's better to keep all of your money in your checking account to stay
-        organized.
-      objectReference: {fileID: 0}
-    - target: {fileID: 6628203752083147068, guid: 5d92de0dce773514d93b093da247b962, type: 3}
-      propertyPath: m_fontSize
-      value: 15
+      propertyPath: m_margin.w
+      value: -23.281124
       objectReference: {fileID: 0}
     - target: {fileID: 6628203752083147068, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_lineSpacing
@@ -6579,7 +6580,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6628203752083147068, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_fontSizeBase
-      value: 15
+      value: 7.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 6628203752083147068, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: m_enableWordWrapping
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6628203752083147068, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_HorizontalAlignment
@@ -6708,6 +6713,10 @@ PrefabInstance:
     - target: {fileID: 6996901466547856275, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7162940988604097953, guid: 5d92de0dce773514d93b093da247b962, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7258070302341128433, guid: 5d92de0dce773514d93b093da247b962, type: 3}
       propertyPath: m_Enabled
