@@ -46,6 +46,20 @@ public class AnswerButton : MonoBehaviour
                 GoodAnswerUI.SetActive(true);
                 QuestionUI.SetActive(false);
             }
+            else if (GameManager.instance.currentQuestion.answer1movement == 0)
+            {
+                Debug.Log("bad Answer");
+                badAnswerResponse.text = GameManager.instance.currentQuestion.answer1response;
+                BadAnswerUI.SetActive(true);
+                QuestionUI.SetActive(false);
+            }
+            else if (GameManager.instance.currentQuestion.answer1movement == -1)
+            {
+                Debug.Log("bad Answer");
+                badAnswerResponse.text = GameManager.instance.currentQuestion.answer1response;
+                BadAnswerUI.SetActive(true);
+                QuestionUI.SetActive(false);
+            }
             else if (GameManager.instance.currentQuestion.answer1movement == -2)
             {
                 Debug.Log("bad Answer");
@@ -70,6 +84,20 @@ public class AnswerButton : MonoBehaviour
                 goodAnswerResponse.text = GameManager.instance.currentQuestion.answer2response;
                 Debug.Log("Good Answer");
                 GoodAnswerUI.SetActive(true);
+                QuestionUI.SetActive(false);
+            }
+            else if (GameManager.instance.currentQuestion.answer2movement == 0)
+            {
+                badAnswerResponse.text = GameManager.instance.currentQuestion.answer2response;
+                Debug.Log("bad Answer");
+                BadAnswerUI.SetActive(true);
+                QuestionUI.SetActive(false);
+            }
+            else if (GameManager.instance.currentQuestion.answer2movement == -1)
+            {
+                badAnswerResponse.text = GameManager.instance.currentQuestion.answer2response;
+                Debug.Log("bad Answer");
+                BadAnswerUI.SetActive(true);
                 QuestionUI.SetActive(false);
             }
             else if (GameManager.instance.currentQuestion.answer2movement == -2)
@@ -98,6 +126,20 @@ public class AnswerButton : MonoBehaviour
                 GoodAnswerUI.SetActive(true);
                 QuestionUI.SetActive(false);
             }
+            else if (GameManager.instance.currentQuestion.answer3movement == 0)
+            {
+                badAnswerResponse.text = GameManager.instance.currentQuestion.answer3response;
+                Debug.Log("bad Answer");
+                BadAnswerUI.SetActive(true);
+                QuestionUI.SetActive(false);
+            }
+            else if (GameManager.instance.currentQuestion.answer3movement == -1)
+            {
+                badAnswerResponse.text = GameManager.instance.currentQuestion.answer3response;
+                Debug.Log("bad Answer");
+                BadAnswerUI.SetActive(true);
+                QuestionUI.SetActive(false);
+            }
             else if (GameManager.instance.currentQuestion.answer3movement == -2)
             {
                 badAnswerResponse.text = GameManager.instance.currentQuestion.answer3response;
@@ -119,6 +161,12 @@ public class AnswerButton : MonoBehaviour
             }
             else
             {
+                if (GameManager.instance.playerStartWaypoint == 0)
+                {
+                    ButtonUI.SetActive(true);
+                    QuestionUI.SetActive(false);
+                    return;
+                }
                 Debug.Log(Mathf.Abs(GameManager.instance.currentQuestion.answer1movement));
                 MovePlayerBackWards(Mathf.Abs(GameManager.instance.currentQuestion.answer1movement));
             }
@@ -131,6 +179,12 @@ public class AnswerButton : MonoBehaviour
             }
             else
             {
+                if (GameManager.instance.playerStartWaypoint == 0)
+                {
+                    ButtonUI.SetActive(true);
+                    QuestionUI.SetActive(false);
+                    return;
+                }
                 Debug.Log(Mathf.Abs(GameManager.instance.currentQuestion.answer2movement));
                 MovePlayerBackWards(Mathf.Abs(GameManager.instance.currentQuestion.answer2movement));
             }
@@ -143,6 +197,12 @@ public class AnswerButton : MonoBehaviour
             }
             else
             {
+                if (GameManager.instance.playerStartWaypoint == 0)
+                {
+                    ButtonUI.SetActive(true);
+                    QuestionUI.SetActive(false);
+                    return;
+                }
                 Debug.Log(Mathf.Abs(GameManager.instance.currentQuestion.answer3movement));
                 MovePlayerBackWards(Mathf.Abs(GameManager.instance.currentQuestion.answer3movement));
             }

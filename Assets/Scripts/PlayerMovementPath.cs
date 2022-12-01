@@ -11,6 +11,7 @@ public class PlayerMovementPath : MonoBehaviour
 
     public int waypointIndex = 0;
 
+
     public bool moveAllowed = false;
     // Start is called before the first frame update
     private void Start()
@@ -46,7 +47,7 @@ public class PlayerMovementPath : MonoBehaviour
     }
     private void backwardsMove()
     {
-        if (waypointIndex >= 0)
+        if (waypointIndex >= GameManager.instance.checkpoint)
         {
             transform.position = Vector2.MoveTowards(transform.position, waypoints[waypointIndex].transform.position, moveSpeed * Time.deltaTime);
 

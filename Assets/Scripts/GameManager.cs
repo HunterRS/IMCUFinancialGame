@@ -21,6 +21,8 @@ public class GameManager : MonoBehaviour
 
     public int answerNumber;
 
+    public int checkpoint = 0;
+
     // Start is called before the first frame update
     private void Awake()
     {
@@ -42,6 +44,12 @@ public class GameManager : MonoBehaviour
                 lastMoveReverse = true;
                 playerStartWaypoint = player.GetComponent<PlayerMovementPath>().waypointIndex + 1;
                 reverse = false;
+                if (playerStartWaypoint < 0 || player.GetComponent<PlayerMovementPath>().waypointIndex < 0)
+                {
+                    playerStartWaypoint = 0;
+                    player.GetComponent<PlayerMovementPath>().waypointIndex = 0;
+                    return;
+                }
             }
         }
             if (player.GetComponent<PlayerMovementPath>().waypointIndex > playerStartWaypoint + movementAmount)
@@ -49,6 +57,7 @@ public class GameManager : MonoBehaviour
                 player.GetComponent<PlayerMovementPath>().moveAllowed = false;
                 lastMoveReverse = false;
                 playerStartWaypoint = player.GetComponent<PlayerMovementPath>().waypointIndex - 1;
+                CheckCheckpoints();
             }
             if (player.GetComponent<PlayerMovementPath>().waypointIndex == player.GetComponent<PlayerMovementPath>().waypoints.Length)
         {
@@ -73,19 +82,57 @@ public class GameManager : MonoBehaviour
     }
     public void NextQuestionCard()
     {
-        currentQuestion = easyQuestionList[Random.Range(0, easyQuestionList.Count - 1)];
-        easyQuestionList.Remove(currentQuestion);
-        //if (mediumQuestionList.Count == 0)
-        //{
-         //   mediumQuestionList.Add(wrongQuestionList[0]);
-         //   wrongQuestionList.Clear();
-        //}
-        //currentQuestion = mediumQuestionList[0];
-       // mediumQuestionList.Remove(currentQuestion);
+        if (GameValues.difficulty == "easy" )
+        {
+            if (easyQuestionList.Count == 0)
+            {
+                easyQuestionList.Add(wrongQuestionList[0]);
+                wrongQuestionList.Clear();
+            }
+            currentQuestion = easyQuestionList[Random.Range(0, easyQuestionList.Count - 1)];
+            easyQuestionList.Remove(currentQuestion);
+        }
+        if (GameValues.difficulty == "medium")
+        {
+            if (mediumQuestionList.Count == 0)
+            {
+                mediumQuestionList.Add(wrongQuestionList[0]);
+                wrongQuestionList.Clear();
+            }
+            currentQuestion = mediumQuestionList[Random.Range(0, mediumQuestionList.Count - 1)];
+            mediumQuestionList.Remove(currentQuestion);
+        }
+        if (GameValues.difficulty == "hard")
+        {
+            if (hardQuestionList.Count == 0)
+            {
+                hardQuestionList.Add(wrongQuestionList[0]);
+                wrongQuestionList.Clear();
+            }
+            currentQuestion = hardQuestionList[Random.Range(0, hardQuestionList.Count - 1)];
+            hardQuestionList.Remove(currentQuestion);
+        }
+
     }
     public void QuestionWrong()
     {
         wrongQuestionList.Add(currentQuestion);
         currentQuestion = null;
+    }
+
+    public void CheckCheckpoints()
+    {
+        if (playerStartWaypoint >= 4)
+        {
+            checkpoint = 5;
+        }
+        if (playerStartWaypoint >= 16)
+        {
+            checkpoint = 17;
+        }
+        if (playerStartWaypoint >= 32)
+        {
+            checkpoint = 33;
+        }
     }
 }

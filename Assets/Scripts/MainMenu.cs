@@ -5,9 +5,10 @@ using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour
 {
-    public void PlayGame()
+    public void PlayGame(string difficulty)
     {
         SceneManager.LoadScene("SampleScene");
+        GameValues.difficulty = difficulty;
     }
 
     public void GobacktoMainMenu()
